@@ -68,7 +68,7 @@
 			      .attr("y", 6)
 			      .attr("dy", "0.71em")
 			      .attr("text-anchor", "end")
-			      .text("Messages");
+			      .text("Messages per day");
 
 			  all.append("path")
 			      .datum(data)
