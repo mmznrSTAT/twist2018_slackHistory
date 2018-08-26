@@ -1,0 +1,41 @@
+[
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Great example of data analysis (with R) and visualistion (D3js) about Bus Bunching in Pittsburgh. Code and Data is on Github. The already existing open data of the city of Zurich we'd have all the information about it too: <https:\/\/data.stadt-zuerich.ch\/dataset?q=&amp;tags=p%C3%BCnktlichkeit&amp;sort=title_string+desc> . At the ODD-Zurich Hackathon with the R-Usergroup Zurich, there also was a project about Bus Bunching. Have a look at <https:\/\/www.stadt-zuerich.ch\/portal\/de\/index\/ogd\/anwendungen\/2017\/ODD17_Hackathon_Projekte.html>\nAnd here is the article about Pittsburgh: <http:\/\/bunching.github.io\/>",
+        "client_msg_id": "8a26176e-ad4a-4f07-adef-4e8d1b42e615",
+        "attachments": [
+            {
+                "title": "Projekte des Open Data Day Hackathons 2017 - Stadt Zürich",
+                "title_link": "https:\/\/www.stadt-zuerich.ch\/portal\/de\/index\/ogd\/anwendungen\/2017\/ODD17_Hackathon_Projekte.html",
+                "text": "Analysen zu komplexen VBZ-OGD in einem Tag.",
+                "fallback": "Projekte des Open Data Day Hackathons 2017 - Stadt Zürich",
+                "image_url": "https:\/\/www.stadt-zuerich.ch\/content\/dam\/stzh\/portal\/Deutsch\/OGD\/Bilder\/anwendungen\/ODD17_StartPage.PNG",
+                "from_url": "https:\/\/www.stadt-zuerich.ch\/portal\/de\/index\/ogd\/anwendungen\/2017\/ODD17_Hackathon_Projekte.html",
+                "image_width": 285,
+                "image_height": 250,
+                "image_bytes": 207704,
+                "service_icon": "https:\/\/www.stadt-zuerich.ch\/etc\/designs\/stzh\/extensions\/favicon.ico",
+                "service_name": "stadt-zuerich.ch",
+                "id": 1,
+                "original_url": "https:\/\/www.stadt-zuerich.ch\/portal\/de\/index\/ogd\/anwendungen\/2017\/ODD17_Hackathon_Projekte.html"
+            },
+            {
+                "title": "Visualizing Pittsburgh Bus Bunching",
+                "title_link": "http:\/\/bunching.github.io\/",
+                "text": "Visualizing Time and Location Patterns of Bus Bunching in Pittsburgh.",
+                "fallback": "Visualizing Pittsburgh Bus Bunching",
+                "image_url": "http:\/\/bunching.github.io\/images\/twitter-card-preview.png",
+                "from_url": "http:\/\/bunching.github.io\/",
+                "image_width": 613,
+                "image_height": 250,
+                "image_bytes": 141612,
+                "service_icon": "http:\/\/bunching.github.io\/images\/favicon\/apple-touch-icon-72x72.png",
+                "service_name": "bunching.github.io",
+                "id": 2,
+                "original_url": "http:\/\/bunching.github.io\/"
+            }
+        ],
+        "ts": "1534429772.000100"
+    }
+]

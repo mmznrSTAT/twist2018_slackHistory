@@ -1,0 +1,75 @@
+[
+    {
+        "type": "message",
+        "user": "UAELWCAES",
+        "text": "<@UBN6K2U3Z> are you talking about the <http:\/\/hack.twist2018.ch|hack.twist2018.ch> subdomain for the dribdat-instance? If so, that's with <@U9KPPBZ51> an me. We think it's best to make that ready together today, when we meet at 15:00, thanks!",
+        "client_msg_id": "5ebf580a-42ba-498a-8160-cb9cc6115c85",
+        "ts": "1534753466.000100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59EH5MC1",
+                    "UBN6K2U3Z"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "Yep! See you soon.",
+        "client_msg_id": "14cef0b5-5596-48b4-9c10-208133cef0fe",
+        "ts": "1534754055.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "Thanks for the workshop earlier today <@UAELWCAES> <@U5BF13UK0> <@U9KPPBZ51> and especially your ideas on how to improve the platform and support our community's efforts with a challenge based on the API.",
+        "client_msg_id": "483ec780-218e-4716-90c9-c00cf5a67bcb",
+        "ts": "1534778225.000200",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5BF13UK0",
+                    "UAELWCAES",
+                    "U9KPPBZ51",
+                    "U5MQK0JM8"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "<https:\/\/hack.twist2018.ch\/> is now live, and I'm going to work with Thomas on making it look more presentable over the next days, as well as preparing the dashboard as we discussed (schedule, wording, imagery)",
+        "client_msg_id": "141c52d7-ad82-44bb-ad3d-5538e679f17d",
+        "attachments": [
+            {
+                "title": "Truth WIthin STatistics Hackdays",
+                "title_link": "https:\/\/hack.twist2018.ch\/",
+                "text": "As part of the 2018 Swiss Statistics Meeting, hackdays will be held for the first time. Developers, statisticans, designers,...",
+                "fallback": "Truth WIthin STatistics Hackdays",
+                "image_url": "https:\/\/www.twist2018.ch\/images\/TWIST.png",
+                "from_url": "https:\/\/hack.twist2018.ch\/",
+                "image_width": 219,
+                "image_height": 250,
+                "image_bytes": 21655,
+                "service_name": "hack.twist2018.ch",
+                "id": 1,
+                "original_url": "https:\/\/hack.twist2018.ch\/"
+            }
+        ],
+        "ts": "1534778292.000100"
+    },
+    {
+        "user": "UCBA90Y3B",
+        "text": "<@UCBA90Y3B> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534793162.000200"
+    }
+]

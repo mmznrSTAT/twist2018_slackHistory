@@ -1,0 +1,17 @@
+[
+    {
+        "user": "UCF4QG5E0",
+        "inviter": "UCF1FGDHR",
+        "text": "<@UCF4QG5E0> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535270142.000200"
+    },
+    {
+        "user": "U5BF13UK0",
+        "text": "<@U5BF13UK0> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535270778.000200"
+    }
+]

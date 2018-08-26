@@ -1,0 +1,46 @@
+[
+    {
+        "user": "U59EH5MC1",
+        "text": "<@U59EH5MC1> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494328026.656153"
+    },
+    {
+        "user": "U5BF13UK0",
+        "inviter": "U59EH5MC1",
+        "text": "<@U5BF13UK0> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494328026.656334"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Interessanter Case: <https:\/\/www.nzz.ch\/schweiz\/mangelnde-transparenz-bei-daten-unser-gesundheitswesen-ist-eine-dunkelkammer-ld.1291442>",
+        "attachments": [
+            {
+                "service_name": "Neue Zürcher Zeitung",
+                "title": "Mangelnde Transparenz bei Daten: Unser Gesundheitswesen ist eine Dunkelkammer",
+                "title_link": "https:\/\/www.nzz.ch\/schweiz\/mangelnde-transparenz-bei-daten-unser-gesundheitswesen-ist-eine-dunkelkammer-ld.1291442",
+                "text": "Wer als Patient wissen will, welches Spital gute Qualität liefert, ist aufgeschmissen.",
+                "fallback": "Neue Zürcher Zeitung: Mangelnde Transparenz bei Daten: Unser Gesundheitswesen ist eine Dunkelkammer",
+                "image_url": "https:\/\/img.nzz.ch\/C=W5173,H2906,X0,Y271\/S=W1200\/O=75\/http:\/\/nzz-img.s3.amazonaws.com\/2017\/5\/8\/b98f3991-420f-4529-ac65-c1602c5d3736.jpeg",
+                "from_url": "https:\/\/www.nzz.ch\/schweiz\/mangelnde-transparenz-bei-daten-unser-gesundheitswesen-ist-eine-dunkelkammer-ld.1291442",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 60956,
+                "service_icon": "https:\/\/www.nzz.ch\/assets\/i\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "ts": "1494328039.659647"
+    },
+    {
+        "user": "U5AQQ8P2R",
+        "text": "<@U5AQQ8P2R> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494330984.451313"
+    }
+]

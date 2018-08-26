@@ -1,0 +1,517 @@
+[
+    {
+        "id": "C5A1S694J",
+        "name": "random",
+        "created": "1494231943",
+        "creator": "U59EH5MC1",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U59EH5MC1",
+            "U5BF13UK0",
+            "U5MQK0JM8",
+            "U5Q5EMNGY",
+            "U5QMS8L1Y",
+            "UBN6K2U3Z",
+            "UC2LV8DEU",
+            "UCBA90Y3B",
+            "UCBJL7GTB",
+            "UCECX6YBA",
+            "UCEHR99MX",
+            "UCER64K70"
+        ],
+        "topic": {
+            "value": "Non-work banter and water cooler conversation",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C5A378X6G",
+        "name": "general",
+        "created": "1494231943",
+        "creator": "U59EH5MC1",
+        "is_archived": false,
+        "is_general": true,
+        "members": [
+            "U59EH5MC1",
+            "U5A5NA4U8",
+            "U5AQQ8P2R",
+            "U5BF13UK0",
+            "U5MQK0JM8",
+            "U5Q5EMNGY",
+            "U5QMS8L1Y",
+            "U68A32TMK",
+            "U6WQW8S91",
+            "U94B2N1PV",
+            "U9J7E8SDR",
+            "U9KPPBZ51",
+            "UAELWCAES",
+            "UBGJNU0LU",
+            "UBGVCCS6R",
+            "UBH0ATTU5",
+            "UBHA98S6B",
+            "UBHF5RBM2",
+            "UBHK0083F",
+            "UBHNRLWQ6",
+            "UBJBQE4NB",
+            "UBK0KKM3P",
+            "UBKBDPPJQ",
+            "UBKNY8HKN",
+            "UBKQ380DS",
+            "UBMB3BX2B",
+            "UBMR3E32B",
+            "UBMV3V95E",
+            "UBN6K2U3Z",
+            "UBP3398RE",
+            "UBRMU80M9",
+            "UBRT2T22W",
+            "UC0RUUHSQ",
+            "UC284DLTB",
+            "UC2CR5BJQ",
+            "UC2JE5DA4",
+            "UC2LL58KA",
+            "UC2LP8THN",
+            "UC2LV8DEU",
+            "UC2R64PUH",
+            "UC34XNNPN",
+            "UC353QKMJ",
+            "UC35XJDA8",
+            "UC385Q9M0",
+            "UC3DXG8G4",
+            "UC3S7AQQK",
+            "UC46AMTAM",
+            "UC6DGCNUD",
+            "UC6SHQKG9",
+            "UC72J7LNT",
+            "UC79TQ222",
+            "UC7BYS0GN",
+            "UC874LSM9",
+            "UCAGR0VLM",
+            "UCB1G2RH7",
+            "UCB2MEZNJ",
+            "UCBA90Y3B",
+            "UCBJL7GTB",
+            "UCCAC4ZLG",
+            "UCE81TYH2",
+            "UCEBVM257",
+            "UCEC80S84",
+            "UCECX6YBA",
+            "UCEDBAQFJ",
+            "UCEDH9UQ0",
+            "UCEDJHMEC",
+            "UCEFP238W",
+            "UCEHM29TK",
+            "UCEHR99MX",
+            "UCEQ49RSM",
+            "UCER64K70",
+            "UCESM7RFZ",
+            "UCET1PMM2",
+            "UCET49F44",
+            "UCETZ15C4",
+            "UCEU0NLR2",
+            "UCEU12W4U",
+            "UCEU6NMJQ",
+            "UCEU83HNY",
+            "UCF0RR7HB",
+            "UCF0TSF0B",
+            "UCF1FA40K",
+            "UCF1FGDHR",
+            "UCF1G8CTV",
+            "UCF22G90A",
+            "UCF4QG5E0",
+            "UCF57K37U",
+            "UCF9M84UD",
+            "UCFTXSG9M",
+            "UCFUWUNNA",
+            "UCGF77KHU"
+        ],
+        "pins": [
+            {
+                "id": "1535171676.000100",
+                "type": "C",
+                "created": 1535182034,
+                "user": "U5MQK0JM8",
+                "owner": "U5BF13UK0"
+            }
+        ],
+        "topic": {
+            "value": "Company-wide announcements and work-based matters",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "This channel is for team-wide communication and announcements. All team members are in this channel.",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C5BG2SR9D",
+        "name": "gesundheitsdaten",
+        "created": "1494328026",
+        "creator": "U59EH5MC1",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "CB1HA2BUL",
+        "name": "attendees",
+        "created": "1528192472",
+        "creator": "U5BF13UK0",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "CBPDGRX50",
+        "name": "dashboard",
+        "created": "1531402286",
+        "creator": "UBN6K2U3Z",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U59EH5MC1",
+            "U5BF13UK0",
+            "U5MQK0JM8",
+            "U5Q5EMNGY",
+            "U5QMS8L1Y",
+            "U9KPPBZ51",
+            "UAELWCAES",
+            "UBN6K2U3Z",
+            "UBP3398RE",
+            "UC2LV8DEU",
+            "UC34XNNPN",
+            "UCBA90Y3B",
+            "UCBJL7GTB",
+            "UCECX6YBA",
+            "UCER64K70"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "Talk about how to track progress and publish the results of the hackdays.",
+            "creator": "UBN6K2U3Z",
+            "last_set": "1531402287"
+        }
+    },
+    {
+        "id": "CC7E7905R",
+        "name": "tools_and_examples",
+        "created": "1534171099",
+        "creator": "U59EH5MC1",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U59EH5MC1",
+            "U5BF13UK0",
+            "U5MQK0JM8",
+            "U5Q5EMNGY",
+            "U5QMS8L1Y",
+            "UBHA98S6B",
+            "UBKBDPPJQ",
+            "UBN6K2U3Z",
+            "UC0RUUHSQ",
+            "UC2LP8THN",
+            "UC2LV8DEU",
+            "UC34XNNPN",
+            "UCBA90Y3B",
+            "UCBJL7GTB",
+            "UCECX6YBA",
+            "UCEDJHMEC",
+            "UCEFP238W",
+            "UCER64K70",
+            "UCEU0NLR2"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "Lets exchange about great tools and code examples that could be useful for the TWIST-Hackdays",
+            "creator": "U59EH5MC1",
+            "last_set": "1534171100"
+        }
+    },
+    {
+        "id": "CCAT7J77A",
+        "name": "support",
+        "created": "1534772053",
+        "creator": "UBN6K2U3Z",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U59EH5MC1",
+            "U5BF13UK0",
+            "U5MQK0JM8",
+            "U5Q5EMNGY",
+            "U5QMS8L1Y",
+            "U9KPPBZ51",
+            "UAELWCAES",
+            "UBN6K2U3Z",
+            "UC2LP8THN",
+            "UCB1G2RH7",
+            "UCB2MEZNJ",
+            "UCBA90Y3B",
+            "UCBJL7GTB",
+            "UCECX6YBA",
+            "UCEHR99MX",
+            "UCER64K70",
+            "UCF0TSF0B"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "If you are looking for enlightenment, you may not find it here, but we will be happy to answer your questions. For announcements to all, see <#C5A378X6G|general>",
+            "creator": "UAELWCAES",
+            "last_set": "1535034660"
+        }
+    },
+    {
+        "id": "CCEDCR1CY",
+        "name": "real_estate_zh",
+        "created": "1535186488",
+        "creator": "UC2LP8THN",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U5BF13UK0",
+            "U5MQK0JM8",
+            "UBN6K2U3Z",
+            "UC2LL58KA",
+            "UC2LP8THN",
+            "UCBJL7GTB",
+            "UCF57K37U",
+            "UCGF77KHU"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "CCEDDLFFS",
+        "name": "hardbrücke_14plus",
+        "created": "1535186739",
+        "creator": "UBP3398RE",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U59EH5MC1",
+            "U5BF13UK0",
+            "UBN6K2U3Z",
+            "UBP3398RE",
+            "UBRMU80M9",
+            "UCB1G2RH7",
+            "UCEC80S84",
+            "UCEDBAQFJ",
+            "UCEQ49RSM",
+            "UCER64K70",
+            "UCETZ15C4",
+            "UCF0RR7HB"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "CCEHWUT25",
+        "name": "airtraffic",
+        "created": "1535186791",
+        "creator": "U9KPPBZ51",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U59EH5MC1",
+            "U5BF13UK0",
+            "U5MQK0JM8",
+            "U9KPPBZ51",
+            "UBN6K2U3Z",
+            "UC46AMTAM",
+            "UC6DGCNUD",
+            "UCEBVM257",
+            "UCEFP238W",
+            "UCET1PMM2",
+            "UCEU0NLR2"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "CCETZA10U",
+        "name": "finance",
+        "created": "1535187558",
+        "creator": "UCF1G8CTV",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U5BF13UK0",
+            "UBN6K2U3Z",
+            "UCEU6NMJQ",
+            "UCF1FA40K",
+            "UCF1FGDHR",
+            "UCF1G8CTV",
+            "UCF4QG5E0"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "City of Zurich- Financial information",
+            "creator": "UCF1G8CTV",
+            "last_set": "1535187559"
+        }
+    },
+    {
+        "id": "CCF1CLWRH",
+        "name": "spatial_stat",
+        "created": "1535186291",
+        "creator": "UBHA98S6B",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U59EH5MC1",
+            "U5BF13UK0",
+            "U5Q5EMNGY",
+            "U5QMS8L1Y",
+            "UBHA98S6B",
+            "UBN6K2U3Z",
+            "UC2LP8THN",
+            "UC3S7AQQK",
+            "UC874LSM9",
+            "UCAGR0VLM"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "CCG6BJM47",
+        "name": "linked_data_6",
+        "created": "1535187598",
+        "creator": "UBKBDPPJQ",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U59EH5MC1",
+            "U5A5NA4U8",
+            "U5BF13UK0",
+            "U5MQK0JM8",
+            "U94B2N1PV",
+            "UBHF5RBM2",
+            "UBHNRLWQ6",
+            "UBKBDPPJQ",
+            "UBKNY8HKN",
+            "UBN6K2U3Z",
+            "UC2LV8DEU",
+            "UC72J7LNT",
+            "UC79TQ222",
+            "UCEDH9UQ0",
+            "UCEDJHMEC",
+            "UCEU0NLR2",
+            "UCF9M84UD",
+            "UCFUWUNNA"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "Linked Data of Statistik Stadt Zurich project",
+            "creator": "UBKBDPPJQ",
+            "last_set": "1535187802"
+        }
+    },
+    {
+        "id": "CCGFA8Q2J",
+        "name": "veloundco",
+        "created": "1535187962",
+        "creator": "UCCAC4ZLG",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U5BF13UK0",
+            "UBN6K2U3Z",
+            "UC34XNNPN",
+            "UCCAC4ZLG",
+            "UCESM7RFZ",
+            "UCEU12W4U",
+            "UCF22G90A",
+            "UCFTXSG9M"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    }
+]

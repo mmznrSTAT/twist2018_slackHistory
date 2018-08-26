@@ -1,0 +1,49 @@
+[
+    {
+        "user": "UCAGR0VLM",
+        "text": "<@UCAGR0VLM> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534503640.000200"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Hey <@UCAGR0VLM>, nice you joined.",
+        "client_msg_id": "52C1CAC6-BE4F-4F40-9BC8-78A25558BC41",
+        "ts": "1534505760.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "<!channel> One week till lift off <https:\/\/g.co\/kgs\/NZZUwC>",
+        "client_msg_id": "78121125-5A16-4569-836B-FA4CC6522D34",
+        "ts": "1534505856.000100",
+        "reactions": [
+            {
+                "name": "rocket",
+                "users": [
+                    "UBN6K2U3Z",
+                    "U5MQK0JM8",
+                    "UAELWCAES"
+                ],
+                "count": 3
+            },
+            {
+                "name": "alien",
+                "users": [
+                    "UBN6K2U3Z"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U5Q5EMNGY",
+                    "UAELWCAES"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

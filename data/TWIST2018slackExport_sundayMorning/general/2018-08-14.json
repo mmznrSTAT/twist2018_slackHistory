@@ -1,0 +1,34 @@
+[
+    {
+        "user": "UC874LSM9",
+        "text": "<@UC874LSM9> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534258815.000200",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "UBN6K2U3Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "welcome <@UC874LSM9>",
+        "client_msg_id": "6f342e09-8673-43f7-9fd5-16ce258b9bcf",
+        "ts": "1534263321.000100",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "UC874LSM9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

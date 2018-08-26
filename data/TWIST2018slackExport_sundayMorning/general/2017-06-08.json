@@ -1,0 +1,55 @@
+[
+    {
+        "user": "U5QMS8L1Y",
+        "text": "<@U5QMS8L1Y> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1496930065.004819"
+    },
+    {
+        "type": "message",
+        "user": "U5QMS8L1Y",
+        "text": "hi there. thanks for adding me to the slack. looking forward to a great event!*",
+        "ts": "1496930128.028529",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U5MQK0JM8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Hej <@U5QMS8L1Y>! Welcome and great to have you with us! :muscle:",
+        "ts": "1496930228.066352"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Hey <@U5QMS8L1Y>, nice having  you on board!",
+        "ts": "1496930284.088015"
+    },
+    {
+        "user": "U5Q5EMNGY",
+        "text": "<@U5Q5EMNGY> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1496938914.435439"
+    },
+    {
+        "type": "message",
+        "user": "U5Q5EMNGY",
+        "text": "Hey, thanks for adding me! ",
+        "ts": "1496939288.565058"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Hej <@U5Q5EMNGY> also welcome &amp; nice that you join us :+1:",
+        "ts": "1496941138.202391"
+    }
+]

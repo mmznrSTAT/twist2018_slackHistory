@@ -1,0 +1,16 @@
+[
+    {
+        "user": "UBRMU80M9",
+        "text": "<@UBRMU80M9> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1531825767.000185"
+    },
+    {
+        "user": "UBRT2T22W",
+        "text": "<@UBRT2T22W> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1531831265.000162"
+    }
+]

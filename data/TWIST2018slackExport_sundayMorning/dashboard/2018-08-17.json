@@ -1,0 +1,16 @@
+[
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "<@U59EH5MC1> got ETA on that subdomain?",
+        "client_msg_id": "db3e3e9a-5262-4a74-a681-196f53440d5c",
+        "ts": "1534507073.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "hi <@UC2LV8DEU>!",
+        "client_msg_id": "5780f142-2286-435e-b008-ad273a25fc27",
+        "ts": "1534507082.000100"
+    }
+]

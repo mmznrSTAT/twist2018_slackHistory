@@ -1,0 +1,80 @@
+[
+    {
+        "user": "UBN6K2U3Z",
+        "text": "<@UBN6K2U3Z> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1531138628.000010"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "Hello, :world_map: !",
+        "client_msg_id": "d57357ac-d4c9-4b82-b953-cb974c8b6604",
+        "ts": "1531138748.000282",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U5BF13UK0",
+                    "U5MQK0JM8",
+                    "U59EH5MC1"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Welcome <@UBN6K2U3Z> ",
+        "client_msg_id": "AC2F410F-8258-401F-82CD-45F8DDB8027D",
+        "ts": "1531138781.000338",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U59EH5MC1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "Sorry to be late to the party..have had lots going on!",
+        "client_msg_id": "185f2ea3-a4ec-442d-8ab7-694ab713107a",
+        "ts": "1531138805.000021"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "You‘re not late, <@UBN6K2U3Z>, always welcome",
+        "client_msg_id": "1FBDCFD3-1CCA-4966-B17B-06DD30254E7E",
+        "ts": "1531143656.000449",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59EH5MC1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UBMR3E32B",
+        "text": "Hi all!",
+        "client_msg_id": "1A8DDBCE-49CB-473E-ACB7-9421768DB0AD",
+        "ts": "1531165104.000030"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Welcome <@UBMR3E32B>, nice to have you here",
+        "client_msg_id": "12D0CE32-8ED7-4F53-970D-84FA94EC3A08",
+        "ts": "1531165146.000108"
+    }
+]

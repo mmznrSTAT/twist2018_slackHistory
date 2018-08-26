@@ -1,0 +1,87 @@
+[
+    {
+        "user": "UBKNY8HKN",
+        "text": "<@UBKNY8HKN> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1530870084.000055"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Hi <@UBKNY8HKN> and welcome here!",
+        "client_msg_id": "e8154ff6-2b74-4ccc-9d63-69be31804297",
+        "ts": "1530870439.000088",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5BF13UK0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UBKQ380DS",
+        "text": "<@UBKQ380DS> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1530874989.000022"
+    },
+    {
+        "type": "message",
+        "user": "UBKNY8HKN",
+        "text": "Hi @all",
+        "client_msg_id": "72A765D2-E9CC-4857-8698-44014812DF97",
+        "ts": "1530874997.000048",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59EH5MC1",
+                    "U5BF13UK0"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Hej <@UBKQ380DS> welcome and nice to have you here!",
+        "client_msg_id": "5742b944-0594-4bd7-a0b4-eb146c63770d",
+        "ts": "1530875099.000029"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Welcome <@UBKQ380DS>",
+        "client_msg_id": "03AEEF2B-5764-45B0-A7C6-62BCA65E9465",
+        "ts": "1530876407.000197"
+    },
+    {
+        "type": "message",
+        "user": "UBKQ380DS",
+        "text": "Thank you guys! Looking forward to meet you and be productive in a fun way",
+        "client_msg_id": "D26746D6-246F-432C-B87D-6A8CA337862A",
+        "ts": "1530877690.000313",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59EH5MC1",
+                    "U5BF13UK0"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "UBMB3BX2B",
+        "text": "<@UBMB3BX2B> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1530899519.000158"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "user": "UCEU0NLR2",
+        "text": "<@UCEU0NLR2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535188510.000200"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "it might be a nice exercise for us to get Observable masters like you and <@UCEU6NMJQ> and Python geeks like me and <@UCCAC4ZLG> to post more personal examples like this and offer to do little workshops. Still thinking of how to make <http:\/\/schoolofdata.ch|schoolofdata.ch> relevant, I guess..",
+        "client_msg_id": "545d188c-39a3-4a58-a8f2-e0ac7d639e49",
+        "thread_ts": "1534230354.000100",
+        "parent_user_id": "U5BF13UK0",
+        "ts": "1535213958.000100"
+    },
+    {
+        "user": "UCEDJHMEC",
+        "text": "<@UCEDJHMEC> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535221032.000200"
+    }
+]

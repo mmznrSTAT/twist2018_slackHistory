@@ -1,0 +1,42 @@
+[
+    {
+        "type": "message",
+        "user": "UAELWCAES",
+        "text": "50 participants would be cool, atm we are around 25 already",
+        "ts": "1527167081.000402"
+    },
+    {
+        "type": "message",
+        "user": "U5MQK0JM8",
+        "text": "25 registered?",
+        "ts": "1527167103.000038",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UAELWCAES",
+                    "UBKQ380DS"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U5MQK0JM8",
+        "text": "does the 50% no-show rate apply here as well?",
+        "ts": "1527167146.000513"
+    },
+    {
+        "type": "message",
+        "user": "UAELWCAES",
+        "text": "regarding the number of teams, I do not have any particular wishes",
+        "ts": "1527167180.000157"
+    },
+    {
+        "type": "message",
+        "user": "UAELWCAES",
+        "text": "yes, the quick status update should be an Elevator-pitch-like max 1 Minute thing, so that participants could switch teams in case their team is about to dissolve; and stay curious to continue their own project on the 2nd day, and become interested in the final presentation of the other teams at the end",
+        "ts": "1527167391.000276"
+    }
+]

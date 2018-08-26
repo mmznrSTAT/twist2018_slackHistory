@@ -1,0 +1,17 @@
+[
+    {
+        "user": "U5BF13UK0",
+        "text": "<@U5BF13UK0> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1528192473.000107"
+    },
+    {
+        "text": "Yay, one more! Mazenauer Matthias is attending TWIST 2018.",
+        "username": "eventbriteBot",
+        "bot_id": "BB17W1DHP",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1528192773.000443"
+    }
+]

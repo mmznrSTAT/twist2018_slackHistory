@@ -1,0 +1,403 @@
+[
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "New Blogpost from our friends in Basel. If you want to know more about their open data, read it here: <https:\/\/www.twist2018.ch\/post\/three_stories\/>",
+        "client_msg_id": "3d67eb3c-7f8c-4742-b714-e2f81de3dea2",
+        "ts": "1534153223.000030",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UBMV3V95E",
+                    "UBK0KKM3P",
+                    "UBN6K2U3Z",
+                    "UC2LP8THN",
+                    "UC2LV8DEU"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Thx <@UBMV3V95E> and <@UBK0KKM3P> for the post and your engagement!",
+        "client_msg_id": "dae31581-81f7-49e7-ae21-526248373f7d",
+        "ts": "1534153403.000043",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5BF13UK0",
+                    "UBK0KKM3P"
+                ],
+                "count": 2
+            },
+            {
+                "name": "man-surfing",
+                "users": [
+                    "UBK0KKM3P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UBMV3V95E",
+        "text": "<@U59EH5MC1> you're welcome, was a pleasure :slightly_smiling_face:",
+        "client_msg_id": "289a1f74-e7c7-4ea4-9dff-1443cfd81074",
+        "ts": "1534153742.000222",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U59EH5MC1",
+                    "U5BF13UK0",
+                    "UBK0KKM3P",
+                    "U9KPPBZ51"
+                ],
+                "count": 4
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "U5BF13UK0",
+                    "U9KPPBZ51"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "UC6SHQKG9",
+        "text": "<@UC6SHQKG9> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534154393.000080",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U5BF13UK0",
+                    "UBN6K2U3Z"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Hej <@UC6SHQKG9> from #SBBOpenData, welcome!",
+        "client_msg_id": "52301fb4-85a7-4aa5-a0e9-435063eb8ab2",
+        "ts": "1534160926.000086"
+    },
+    {
+        "type": "message",
+        "user": "UBKBDPPJQ",
+        "text": "Any tips to be ready for the Hackathon? Software that is best to be installed? Suggested readings? :nerd_face:",
+        "client_msg_id": "b1754ce6-5164-40dc-9024-ffbf4b9f0565",
+        "ts": "1534169821.000365"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "hey <@UBKBDPPJQ> thanks for this question. We discussed this issue at our last meeting and will soon write an email to all participants with tipps",
+        "client_msg_id": "5117f8ef-8c3d-4b0a-868c-21a6c5b0fce1",
+        "ts": "1534169915.000591",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UBKBDPPJQ",
+                    "UC2LP8THN"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "for now: it depends where you feel comfortable. some of the organizers wor a lot with R",
+        "client_msg_id": "47a81297-357b-4b87-9bf5-561cf8f4916c",
+        "ts": "1534169960.000540"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "<https:\/\/www.r-project.org\/>",
+        "client_msg_id": "dfca991a-9489-4297-88b3-2268452ee050",
+        "ts": "1534169986.000363"
+    },
+    {
+        "type": "message",
+        "user": "UBKBDPPJQ",
+        "text": "Python guy here :) never used R but I will install it on my laptop ",
+        "client_msg_id": "e2640987-7e8b-4d45-9cc0-7704fe25e9d5",
+        "ts": "1534170053.000556",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59EH5MC1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "perfect :slightly_smiling_face:",
+        "client_msg_id": "a3742313-614d-43a3-a86d-171401302acd",
+        "ts": "1534170090.000308"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "You could also check: <https:\/\/www.stadt-zuerich.ch\/portal\/de\/index\/ogd\/werkstatt.html> at the end under Tutorials",
+        "client_msg_id": "c4ef0685-fa45-4120-895c-019b28a9e915",
+        "edited": {
+            "user": "U59EH5MC1",
+            "ts": "1534170156.000000"
+        },
+        "ts": "1534170116.000409"
+    },
+    {
+        "type": "message",
+        "user": "UBKBDPPJQ",
+        "text": "Mega:top:",
+        "client_msg_id": "76a426dd-9392-4282-970b-9a4bb91031c2",
+        "ts": "1534170167.000325"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "And <@UBN6K2U3Z> surely has some great Python-Links too :wink: Other tipps from the <!channel> here?",
+        "client_msg_id": "38fcf86c-2ac9-4dfa-b667-991f16e80749",
+        "thread_ts": "1534170273.000569",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "UBN6K2U3Z",
+                "ts": "1534173315.000029"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1534170273.000569"
+    },
+    {
+        "type": "message",
+        "user": "UC2LP8THN",
+        "text": "I find python on a jupyter notebook env. great for quick prelim analysis and dataviz",
+        "client_msg_id": "47857d10-3e27-47ad-ac01-52bad3c0f322",
+        "thread_ts": "1534170378.000233",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "UC2LP8THN",
+                "ts": "1534170419.000370"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1534170378.000233",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5BF13UK0",
+                    "UBKBDPPJQ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "<@UBKBDPPJQ> you simulate waves in a computer! any tipps for us? :sunglasses:",
+        "client_msg_id": "08391d64-316b-41b2-baa2-d3312ed94516",
+        "ts": "1534170384.000291",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59EH5MC1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UC2LP8THN",
+        "text": "used it extensively for my neuroscience work, as well as for some general data science work at EPFL.",
+        "client_msg_id": "7866af4b-83c8-4646-b711-7eced533175d",
+        "thread_ts": "1534170378.000233",
+        "parent_user_id": "UC2LP8THN",
+        "ts": "1534170419.000370"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Here are a few interesting links i found about **jupyter notebooks** lately:\n\t• Olegs Examples using the Wikidata-API in a jupyter notebook: <https:\/\/github.com\/schoolofdata-ch\/wikidata_zurich_workshop\/blob\/master\/hands-on_sessions\/wikidata-api\/Wikidata%20Zurich%20-%20API%20by%20example.ipynb>\n\t• Oleg Bsp. mit WSL-Daten zu Lawinenunfällen mit Mapbox &amp; Jupyter: <https:\/\/nbviewer.jupyter.org\/gist\/loleg\/3ea36eefa9d2d50fb2d81cfd38809153\/avalanche_switzerland_mapboxgl.ipynb>\n\t• Use Mapbox GL JS to visualize data in a Python Jupyter notebook: <https:\/\/github.com\/mapbox\/mapboxgl-jupyter>",
+        "client_msg_id": "c411cae8-d01d-4d0f-864c-83bdb4c67659",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "schoolofdata-ch\/wikidata_zurich_workshop",
+                "title_link": "https:\/\/github.com\/schoolofdata-ch\/wikidata_zurich_workshop\/blob\/master\/hands-on_sessions\/wikidata-api\/Wikidata%20Zurich%20-%20API%20by%20example.ipynb",
+                "text": "Contribute to wikidata_zurich_workshop development by creating an account on Github.",
+                "fallback": "GitHub: schoolofdata-ch\/wikidata_zurich_workshop",
+                "from_url": "https:\/\/github.com\/schoolofdata-ch\/wikidata_zurich_workshop\/blob\/master\/hands-on_sessions\/wikidata-api\/Wikidata%20Zurich%20-%20API%20by%20example.ipynb",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/12089565?s=400&v=4",
+                "thumb_width": 240,
+                "thumb_height": 240,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/schoolofdata-ch\/wikidata_zurich_workshop\/blob\/master\/hands-on_sessions\/wikidata-api\/Wikidata%20Zurich%20-%20API%20by%20example.ipynb"
+            },
+            {
+                "title": "Notebook on nbviewer",
+                "title_link": "https:\/\/nbviewer.jupyter.org\/gist\/loleg\/3ea36eefa9d2d50fb2d81cfd38809153\/avalanche_switzerland_mapboxgl.ipynb",
+                "text": "Check out this Jupyter notebook!",
+                "fallback": "Notebook on nbviewer",
+                "from_url": "https:\/\/nbviewer.jupyter.org\/gist\/loleg\/3ea36eefa9d2d50fb2d81cfd38809153\/avalanche_switzerland_mapboxgl.ipynb",
+                "service_icon": "https:\/\/nbviewer.jupyter.org\/static\/ico\/apple-touch-icon-144-precomposed.png?v=5a3c9ede93e2a8b8ea9e3f8f3da1a905",
+                "service_name": "nbviewer.jupyter.org",
+                "id": 2,
+                "original_url": "https:\/\/nbviewer.jupyter.org\/gist\/loleg\/3ea36eefa9d2d50fb2d81cfd38809153\/avalanche_switzerland_mapboxgl.ipynb"
+            },
+            {
+                "service_name": "GitHub",
+                "title": "mapbox\/mapboxgl-jupyter",
+                "title_link": "https:\/\/github.com\/mapbox\/mapboxgl-jupyter",
+                "text": "mapboxgl-jupyter - Use Mapbox GL JS to visualize data in a Python Jupyter notebook",
+                "fallback": "GitHub: mapbox\/mapboxgl-jupyter",
+                "from_url": "https:\/\/github.com\/mapbox\/mapboxgl-jupyter",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/600935?s=400&v=4",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 3,
+                "original_url": "https:\/\/github.com\/mapbox\/mapboxgl-jupyter"
+            }
+        ],
+        "ts": "1534170733.000353"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "And this one by Tim Head with bicycle counting open from us: data <https:\/\/data.stadt-zuerich.ch\/showcase\/mybinder-org-use-case-mit-open-data-der-stadt-zurich>",
+        "client_msg_id": "1024b223-3530-4f1b-8b3e-b3e76b3196d0",
+        "attachments": [
+            {
+                "title": "Interaktive Jupyter Notebooks using Open Data from the City of Zurich - CKAN",
+                "title_link": "https:\/\/data.stadt-zuerich.ch\/showcase\/mybinder-org-use-case-mit-open-data-der-stadt-zurich",
+                "text": "Exploring open data This set of notebooks is meant to encourage the exploration of data from the world around us. Notebooks should: introduce people who are new to data analysis and programming...",
+                "fallback": "Interaktive Jupyter Notebooks using Open Data from the City of Zurich - CKAN",
+                "image_url": "https:\/\/data.stadt-zuerich.ch\/uploads\/showcase\/2018-08-09-093703.546521myBinderOGD-Bicy-expls.PNG",
+                "from_url": "https:\/\/data.stadt-zuerich.ch\/showcase\/mybinder-org-use-case-mit-open-data-der-stadt-zurich",
+                "image_width": 441,
+                "image_height": 250,
+                "image_bytes": 30961,
+                "service_icon": "https:\/\/data.stadt-zuerich.ch\/favicon.ico",
+                "service_name": "data.stadt-zuerich.ch",
+                "id": 1,
+                "original_url": "https:\/\/data.stadt-zuerich.ch\/showcase\/mybinder-org-use-case-mit-open-data-der-stadt-zurich"
+            }
+        ],
+        "ts": "1534170831.000128",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5BF13UK0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rocket",
+                "users": [
+                    "UBKBDPPJQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "I've created a new <#CC7E7905R|tools_and_examples> -Channel, let's continue there about further useful tools and examples.",
+        "client_msg_id": "e121d37c-a861-4b69-be42-e49816a58d19",
+        "edited": {
+            "user": "U59EH5MC1",
+            "ts": "1534171346.000000"
+        },
+        "ts": "1534171329.000350",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5BF13UK0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "Thanks for the kudos &amp; refs Marco. The best Python link I have is <https:\/\/www.python.org\/dev\/peps\/pep-0020\/> :man_in_lotus_position: And seriously, installing the interpreter or an IDE like Jupyter or PyCharm is the best way to get going. If you're planning to dig into data science, beginners tend to find Anaconda easiest to install Pandas, Numpy, Scikit-Learn, etc. on your local machine. But then again, these days you can even more easily use any language you want in the cloud.. There's a wealth of knowledge from the Swiss Python community available at <https:\/\/www.python-summit.ch\/pages\/recordings.html>",
+        "client_msg_id": "86ae1feb-a078-472b-8d86-81db7f1c9b6e",
+        "thread_ts": "1534170273.000569",
+        "is_thread_broadcast": true,
+        "attachments": [
+            {
+                "service_name": "Python.org",
+                "title": "PEP 20 -- The Zen of Python",
+                "title_link": "https:\/\/www.python.org\/dev\/peps\/pep-0020\/",
+                "text": "The official home of the Python Programming Language",
+                "fallback": "Python.org: PEP 20 -- The Zen of Python",
+                "from_url": "https:\/\/www.python.org\/dev\/peps\/pep-0020\/",
+                "thumb_url": "https:\/\/www.python.org\/static\/opengraph-icon-200x200.png",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.python.org\/static\/apple-touch-icon-precomposed.png",
+                "id": 1,
+                "original_url": "https:\/\/www.python.org\/dev\/peps\/pep-0020\/"
+            },
+            {
+                "title": "Talk Recordings - Swiss Python Summit",
+                "title_link": "https:\/\/www.python-summit.ch\/pages\/recordings.html",
+                "text": "Python Summit Talk Recordings We record all the talks at our conference. You can find the recordings as well as the talk slides on this page! 2018 Slides that are not yet listed here will be added...",
+                "fallback": "Talk Recordings - Swiss Python Summit",
+                "from_url": "https:\/\/www.python-summit.ch\/pages\/recordings.html",
+                "service_name": "python-summit.ch",
+                "id": 2,
+                "original_url": "https:\/\/www.python-summit.ch\/pages\/recordings.html"
+            }
+        ],
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "user": "UBN6K2U3Z",
+        "root": {
+            "type": "message",
+            "user": "U59EH5MC1",
+            "text": "And <@UBN6K2U3Z> surely has some great Python-Links too :wink: Other tipps from the <!channel> here?",
+            "client_msg_id": "38fcf86c-2ac9-4dfa-b667-991f16e80749",
+            "thread_ts": "1534170273.000569",
+            "reply_count": 1,
+            "replies": [
+                {
+                    "user": "UBN6K2U3Z",
+                    "ts": "1534173315.000029"
+                }
+            ],
+            "unread_count": 1,
+            "ts": "1534170273.000569"
+        },
+        "ts": "1534173315.000029"
+    }
+]

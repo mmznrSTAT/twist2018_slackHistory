@@ -1,0 +1,9 @@
+[
+    {
+        "user": "UAELWCAES",
+        "text": "<@UAELWCAES> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1524753905.000898"
+    }
+]

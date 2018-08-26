@@ -1,0 +1,107 @@
+[
+    {
+        "user": "U5MQK0JM8",
+        "text": "<@U5MQK0JM8> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535009287.000200"
+    },
+    {
+        "user": "UAELWCAES",
+        "purpose": "If you are looking for enlightenment, you may not find it here, but we will be happy to answer your questions. For announcements to all, see <#C5A378X6G|general>",
+        "text": "<@UAELWCAES> set the channel purpose: If you are looking for enlightenment, you may not find it here, but we will be happy to answer your questions. For announcements to all, see <#C5A378X6G|general>",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1535034660.000100"
+    },
+    {
+        "type": "message",
+        "user": "UAELWCAES",
+        "text": "<@UBN6K2U3Z>: I translated the goal phrase to English and tried to make the distinction of this channel to <#C5A378X6G|general> clear for our participants and us.",
+        "client_msg_id": "d3bfda8b-3a54-4caa-b754-dcf703ab0496",
+        "thread_ts": "1535034731.000100",
+        "reply_count": 3,
+        "replies": [
+            {
+                "user": "UBN6K2U3Z",
+                "ts": "1535037147.000100"
+            },
+            {
+                "user": "UAELWCAES",
+                "ts": "1535037351.000100"
+            },
+            {
+                "user": "UBN6K2U3Z",
+                "ts": "1535056015.000100"
+            }
+        ],
+        "unread_count": 3,
+        "ts": "1535034731.000100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UBN6K2U3Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "That sounds Supercalifragilisticexpialidocious!",
+        "client_msg_id": "d27a1815-75d1-46ed-b34b-7d1e179d83a5",
+        "thread_ts": "1535034731.000100",
+        "parent_user_id": "UAELWCAES",
+        "ts": "1535037147.000100"
+    },
+    {
+        "type": "message",
+        "user": "UAELWCAES",
+        "text": "and that's positive? :slightly_smiling_face:",
+        "client_msg_id": "083e0b4d-e12e-4567-b25a-17112ff5a280",
+        "thread_ts": "1535034731.000100",
+        "parent_user_id": "UAELWCAES",
+        "ts": "1535037351.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "<https:\/\/www.youtube.com\/watch?v=uZNRzc3hWvE>",
+        "client_msg_id": "88efda91-9b7d-4d02-b594-06243a620644",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Mary Poppins (1964) - \"Supercalifragilisticexpialidocious\" - Video\/Lyrics",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=uZNRzc3hWvE",
+                "author_name": "ItsMusicallyLyrical",
+                "author_link": "https:\/\/www.youtube.com\/user\/ItsMusicallyLyrical",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/uZNRzc3hWvE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Mary Poppins (1964) - \"Supercalifragilisticexpialidocious\" - Video\/Lyrics",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/uZNRzc3hWvE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=uZNRzc3hWvE",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=uZNRzc3hWvE"
+            }
+        ],
+        "thread_ts": "1535034731.000100",
+        "parent_user_id": "UAELWCAES",
+        "ts": "1535056015.000100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UAELWCAES"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

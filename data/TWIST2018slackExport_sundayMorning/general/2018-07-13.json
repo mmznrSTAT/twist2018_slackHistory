@@ -1,0 +1,70 @@
+[
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Hi <@UBP3398RE>, welcome!",
+        "client_msg_id": "99A010D3-630C-4387-91F5-027FB875D6CE",
+        "ts": "1531470778.000143"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "<!channel> We‘ve got a new Blog Post about Linked Data with a nice example from <@U5BF13UK0>. If you have questions or feedback just ask us here. \n<https:\/\/www.twist2018.ch\/news\/three_steps\/>\n\n<https:\/\/twitter.com\/twist2018\/status\/1017682486522990592?s=21>",
+        "client_msg_id": "76FCE6D6-78A7-4E6E-A3DD-63304FDCCEC6",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/TWIST2018|@TWIST2018>: Join the @TWIST-Hackdays and dive with us into the #LinkedOpenData future! \n\nThree steps from data desert to a thriving data ecosystem: <https:\/\/www.twist2018.ch\/post\/three_steps\/>\n\nSee you at #TWIST2018 ! <https:\/\/pbs.twimg.com\/media\/Dh-DQ5CXUAYXIst.jpg>",
+                "ts": 1531469387,
+                "author_name": "TWIST2018",
+                "author_link": "https:\/\/twitter.com\/TWIST2018\/status\/1017682486522990592",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/969598770450239488\/1AiVuYeg_normal.jpg",
+                "author_subname": "@TWIST2018",
+                "text": "Join the @TWIST-Hackdays and dive with us into the #LinkedOpenData future! \n\nThree steps from data desert to a thriving data ecosystem: <https:\/\/www.twist2018.ch\/post\/three_steps\/>\n\nSee you at #TWIST2018 ! <https:\/\/pbs.twimg.com\/media\/Dh-DQ5CXUAYXIst.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/twist2018\/status\/1017682486522990592?s=21",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/Dh-DQ5CXUAYXIst.jpg",
+                "image_width": 1000,
+                "image_height": 337,
+                "image_bytes": 106375,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/twist2018\/status\/1017682486522990592?s=21",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "edited": {
+            "user": "U59EH5MC1",
+            "ts": "1531693044.000000"
+        },
+        "ts": "1531471102.000070",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UBN6K2U3Z",
+                    "U5MQK0JM8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U94B2N1PV",
+        "text": "And <@U5A5NA4U8> is doing a great effort on importing this into Wikidata, too :slightly_smiling_face:",
+        "client_msg_id": "32483066-8799-4b72-bfab-f6f4f953cf14",
+        "thread_ts": "1531291169.000087",
+        "parent_user_id": "UBJBQE4NB",
+        "ts": "1531471714.000266",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U59EH5MC1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

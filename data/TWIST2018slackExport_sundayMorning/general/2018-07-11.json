@@ -1,0 +1,83 @@
+[
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Hej <@UBJBQE4NB> Jep, the latest Quartierspiegel come from 2015 (see Link below). Actually, we are about to transform all data from the Statistical Yearbooks into Linked Data and this data will be available at TWIST. The Data from the Quartierspiegel are not completely available until then, but will follow a bit later.  \n\n<https:\/\/www.stadt-zuerich.ch\/prd\/de\/index\/statistik\/publikationen-angebote\/publikationen.html?ob=jcr%3Acontent%2F%40publicationDate&amp;om=desc&amp;sfExtended=false&amp;q=quartierspiegel&amp;q_tg=&amp;q_type=publicationstatistik#resultStart>",
+        "client_msg_id": "5b97e684-41e1-4361-84b1-6bb98d5027a1",
+        "thread_ts": "1531291169.000087",
+        "parent_user_id": "UBJBQE4NB",
+        "ts": "1531301105.000269",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UBJBQE4NB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Also the data that is contained in ZüriZahlen-App will be in Linked Data. Currently we have this as Open Data, but it's not a DB that's accessible: <https:\/\/data.stadt-zuerich.ch\/dataset\/daten-zur-zuerizahlen-app>",
+        "client_msg_id": "9a3c0ea4-8acc-41df-85fe-e609cb81ced7",
+        "attachments": [
+            {
+                "title": "Daten zur ZüriZahlen App - CKAN",
+                "title_link": "https:\/\/data.stadt-zuerich.ch\/dataset\/daten-zur-zuerizahlen-app",
+                "text": "Dieser Datensatz gibt dem interessierten Entwickler die Möglichkeit, auf Datensätze aus der ZüriZahlen App zuzugreifen.",
+                "fallback": "Daten zur ZüriZahlen App - CKAN",
+                "from_url": "https:\/\/data.stadt-zuerich.ch\/dataset\/daten-zur-zuerizahlen-app",
+                "service_icon": "https:\/\/data.stadt-zuerich.ch\/favicon.ico",
+                "service_name": "data.stadt-zuerich.ch",
+                "id": 1,
+                "original_url": "https:\/\/data.stadt-zuerich.ch\/dataset\/daten-zur-zuerizahlen-app"
+            }
+        ],
+        "thread_ts": "1531291169.000087",
+        "parent_user_id": "UBJBQE4NB",
+        "ts": "1531301188.000157",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UBJBQE4NB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Current Open Data based on Stadtquartiere: <https:\/\/data.stadt-zuerich.ch\/dataset?q=stadtquartier&amp;page=1> \nI konw, it's not as handy yet, but there will be much more as Linked Data and over much lager time ranges...",
+        "client_msg_id": "468361a4-267c-46f1-800f-b6c93b0b6216",
+        "thread_ts": "1531291169.000087",
+        "parent_user_id": "UBJBQE4NB",
+        "ts": "1531301702.000225",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UBJBQE4NB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UBMV3V95E",
+        "text": "<@UBMV3V95E> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1531315561.000263"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Hej <@UBMV3V95E> welcome!",
+        "client_msg_id": "15ce5458-2034-4144-a6c5-7d548b749a64",
+        "ts": "1531316976.000436"
+    }
+]

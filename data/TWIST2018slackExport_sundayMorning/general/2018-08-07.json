@@ -1,0 +1,18 @@
+[
+    {
+        "user": "UC3S7AQQK",
+        "text": "<@UC3S7AQQK> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1533631225.000171",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U5BF13UK0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

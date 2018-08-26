@@ -1,0 +1,62 @@
+[
+    {
+        "type": "message",
+        "user": "UC2LP8THN",
+        "text": "this is great! Looking forward to some interesting visualisations.",
+        "client_msg_id": "1afa8b8b-f2de-4778-98ea-a05fb6b2f245",
+        "ts": "1534771699.000100"
+    },
+    {
+        "type": "message",
+        "user": "UC2LP8THN",
+        "text": "Any information about team formation etc?",
+        "client_msg_id": "203200a6-56ab-40ea-95b0-0e2494ff42b7",
+        "ts": "1534771817.000100"
+    },
+    {
+        "user": "UCBA90Y3B",
+        "text": "<@UCBA90Y3B> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534793183.000200"
+    },
+    {
+        "user": "U5MQK0JM8",
+        "text": "<@U5MQK0JM8> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534793915.000200"
+    },
+    {
+        "user": "U5Q5EMNGY",
+        "text": "<@U5Q5EMNGY> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534794997.000200"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "<@UC2LP8THN> team formation: during data pitches the participants are asked to write down their ideas and the teams will form around this clustered ideas. thats the plan :slightly_smiling_face:",
+        "client_msg_id": "CD7E0D18-5BB9-4973-B631-9476C475CAFC",
+        "thread_ts": "1534795160.000100",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "UC2LP8THN",
+                "ts": "1535060234.000100"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1534795160.000100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UC2LP8THN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "user": "UCB1G2RH7",
+        "text": "<@UCB1G2RH7> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534769397.000200"
+    },
+    {
+        "type": "message",
+        "user": "UC3DXG8G4",
+        "text": "Hi all, is it available health dataset?",
+        "client_msg_id": "1427f3bb-0460-42c9-98ac-2a07d3edaef9",
+        "ts": "1534786297.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Hi <@UC3DXG8G4> no specific health data. See <https:\/\/www.twist2018.ch\/ideas\/> for available data. Still work in progress, though :wink:",
+        "client_msg_id": "0F587BAD-0668-40CA-910C-57C62C0F1075",
+        "ts": "1534789221.000100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UC3DXG8G4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UCBA90Y3B",
+        "text": "<@UCBA90Y3B> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534792858.000100"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Welcome <@UCB1G2RH7> and <@UCBA90Y3B> :+1:",
+        "client_msg_id": "8D6E9061-F08E-4E9E-BC5B-3E9012644A7A",
+        "ts": "1534792931.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCBA90Y3B",
+        "text": "Thanks <@U59EH5MC1>. <@UC2LP8THN> asked over in <#CC7E7905R|tools_and_examples>  about team formation, which I think better belongs here, or maybe in the info channel.",
+        "client_msg_id": "1d369f48-f0da-49ac-940e-24ebe9f1c14a",
+        "ts": "1534793360.000100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5BF13UK0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

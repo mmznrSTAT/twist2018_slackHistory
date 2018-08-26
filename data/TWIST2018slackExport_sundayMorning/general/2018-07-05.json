@@ -1,0 +1,91 @@
+[
+    {
+        "user": "UBKBDPPJQ",
+        "text": "<@UBKBDPPJQ> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1530811637.000055"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Hej <@UBKBDPPJQ> , welcome and i’m glad it worked now :muscle:",
+        "client_msg_id": "50CB54D9-95A6-449F-B472-89D71316FE22",
+        "thread_ts": "1530812080.000394",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "UBKBDPPJQ",
+                "ts": "1530812651.000270"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1530812080.000394",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UBKBDPPJQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "Thanks! Did I miss anything? ",
+        "unfurl_links": true,
+        "client_msg_id": "78f186d5-a5a1-4390-9c23-493870ea456f",
+        "unfurl_media": true,
+        "thread_ts": "1530812080.000394",
+        "is_thread_broadcast": true,
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "user": "UBKBDPPJQ",
+        "root": {
+            "type": "message",
+            "user": "U59EH5MC1",
+            "text": "Hej <@UBKBDPPJQ> , welcome and i’m glad it worked now :muscle:",
+            "client_msg_id": "50CB54D9-95A6-449F-B472-89D71316FE22",
+            "thread_ts": "1530812080.000394",
+            "reply_count": 1,
+            "replies": [
+                {
+                    "user": "UBKBDPPJQ",
+                    "ts": "1530812651.000270"
+                }
+            ],
+            "unread_count": 1,
+            "ts": "1530812080.000394"
+        },
+        "ts": "1530812651.000270",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U5BF13UK0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "No no, not yet. Do you want to know or tell us something? ",
+        "client_msg_id": "38D7683D-379F-4AC7-A08C-5BA3FB3D6309",
+        "thread_ts": "1530815704.000268",
+        "reply_count": 2,
+        "replies": [
+            {
+                "user": "UBKBDPPJQ",
+                "ts": "1530953226.000021"
+            },
+            {
+                "user": "U59EH5MC1",
+                "ts": "1530982866.000009"
+            }
+        ],
+        "unread_count": 2,
+        "ts": "1530815704.000268"
+    }
+]

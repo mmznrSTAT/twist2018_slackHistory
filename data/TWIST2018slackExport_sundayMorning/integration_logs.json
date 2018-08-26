@@ -1,0 +1,362 @@
+[
+    {
+        "user_id": "UCEHR99MX",
+        "user_name": "mholub",
+        "date": "1535268455",
+        "change_type": "added",
+        "app_type": "Dribdat",
+        "app_id": "AC8UQRU5U",
+        "scope": "identity.basic,identity.email"
+    },
+    {
+        "user_id": "UBP3398RE",
+        "user_name": "wpetry",
+        "date": "1535266585",
+        "change_type": "added",
+        "app_type": "Dribdat",
+        "app_id": "AC8UQRU5U",
+        "scope": "identity.basic,identity.email"
+    },
+    {
+        "user_id": "UCAGR0VLM",
+        "user_name": "oli",
+        "date": "1535214083",
+        "change_type": "added",
+        "app_type": "Dribdat",
+        "app_id": "AC8UQRU5U",
+        "scope": "identity.basic,identity.email"
+    },
+    {
+        "user_id": "UBHA98S6B",
+        "user_name": "craig.wang",
+        "date": "1535213959",
+        "change_type": "added",
+        "app_type": "Dribdat",
+        "app_id": "AC8UQRU5U",
+        "scope": "identity.basic,identity.email"
+    },
+    {
+        "user_id": "UC874LSM9",
+        "user_name": "francois.delavy",
+        "date": "1535213934",
+        "change_type": "added",
+        "app_type": "Dribdat",
+        "app_id": "AC8UQRU5U",
+        "scope": "identity.basic,identity.email"
+    },
+    {
+        "user_id": "UC2LP8THN",
+        "user_name": "sharbatanu444",
+        "date": "1535207638",
+        "change_type": "added",
+        "app_type": "Dribdat",
+        "app_id": "AC8UQRU5U",
+        "scope": "identity.basic,identity.email"
+    },
+    {
+        "user_id": "UCCAC4ZLG",
+        "user_name": "jonas.oesch",
+        "date": "1535205704",
+        "change_type": "added",
+        "app_type": "Dribdat",
+        "app_id": "AC8UQRU5U",
+        "scope": "identity.basic,identity.email"
+    },
+    {
+        "user_id": "UBN6K2U3Z",
+        "user_name": "oleg",
+        "date": "1535203830",
+        "change_type": "added",
+        "app_type": "Polly",
+        "app_id": "A04E6JX41",
+        "scope": "identify,bot,commands"
+    },
+    {
+        "user_id": "U5Q5EMNGY",
+        "user_name": "dohupe",
+        "date": "1535199951",
+        "change_type": "added",
+        "app_type": "Dribdat",
+        "app_id": "AC8UQRU5U",
+        "scope": "identity.basic,identity.email"
+    },
+    {
+        "user_id": "U5QMS8L1Y",
+        "user_name": "muriel",
+        "date": "1535198225",
+        "change_type": "added",
+        "app_type": "Dribdat",
+        "app_id": "AC8UQRU5U",
+        "scope": "identity.basic,identity.email"
+    },
+    {
+        "user_id": "UCEU12W4U",
+        "user_name": "adrian.leuenberger",
+        "date": "1535197854",
+        "change_type": "added",
+        "app_type": "Dribdat",
+        "app_id": "AC8UQRU5U",
+        "scope": "identity.basic,identity.email"
+    },
+    {
+        "user_id": "U5A5NA4U8",
+        "user_name": "grandgrue",
+        "date": "1535197618",
+        "change_type": "added",
+        "app_type": "Dribdat",
+        "app_id": "AC8UQRU5U",
+        "scope": "identity.basic,identity.email"
+    },
+    {
+        "user_id": "UC72J7LNT",
+        "user_name": "eliane",
+        "date": "1535195696",
+        "change_type": "added",
+        "app_type": "Dribdat",
+        "app_id": "AC8UQRU5U",
+        "scope": "identity.basic,identity.email"
+    },
+    {
+        "user_id": "UC79TQ222",
+        "user_name": "dominik",
+        "date": "1535194749",
+        "change_type": "added",
+        "app_type": "Dribdat",
+        "app_id": "AC8UQRU5U",
+        "scope": "identity.basic,identity.email"
+    },
+    {
+        "user_id": "UCER64K70",
+        "user_name": "renaudjollet",
+        "date": "1535194719",
+        "change_type": "added",
+        "app_type": "Google Drive",
+        "app_id": "A6NL8MJ6Q",
+        "scope": "identify,bot,channels:read,files:read,team:read,users:read,users:read.email,chat:write:bot,links:read"
+    },
+    {
+        "user_id": "UCF1FA40K",
+        "user_name": "meuli.christian",
+        "date": "1535194248",
+        "change_type": "added",
+        "app_type": "Dribdat",
+        "app_id": "AC8UQRU5U",
+        "scope": "identity.basic,identity.email"
+    },
+    {
+        "user_id": "UCF9M84UD",
+        "user_name": "mail966",
+        "date": "1535188046",
+        "change_type": "added",
+        "app_type": "Dribdat",
+        "app_id": "AC8UQRU5U",
+        "scope": "identity.basic,identity.email"
+    },
+    {
+        "user_id": "UBHA98S6B",
+        "user_name": "craig.wang",
+        "date": "1535186328",
+        "change_type": "added",
+        "app_type": "Google Drive",
+        "app_id": "A6NL8MJ6Q",
+        "scope": "identify,bot,channels:read,files:read,team:read,users:read,users:read.email,chat:write:bot,links:read"
+    },
+    {
+        "user_id": "UC2LV8DEU",
+        "user_name": "mfilipav",
+        "date": "1535160794",
+        "change_type": "added",
+        "app_type": "Dribdat",
+        "app_id": "AC8UQRU5U",
+        "scope": "identity.basic,identity.email"
+    },
+    {
+        "user_id": "UCF0RR7HB",
+        "user_name": "peggy.neubert",
+        "date": "1535130781",
+        "change_type": "added",
+        "app_type": "Dribdat",
+        "app_id": "AC8UQRU5U",
+        "scope": "identity.basic,identity.email"
+    },
+    {
+        "user_id": "U94B2N1PV",
+        "user_name": "sarasua",
+        "date": "1535120378",
+        "change_type": "added",
+        "app_type": "Dribdat",
+        "app_id": "AC8UQRU5U",
+        "scope": "identity.basic,identity.email"
+    },
+    {
+        "user_id": "UBMV3V95E",
+        "user_name": "bjoern.lietzke",
+        "date": "1535099036",
+        "change_type": "added",
+        "app_type": "Dribdat",
+        "app_id": "AC8UQRU5U",
+        "scope": "identity.basic,identity.email"
+    },
+    {
+        "user_id": "U68A32TMK",
+        "user_name": "retowick",
+        "date": "1535024240",
+        "change_type": "added",
+        "app_type": "Dribdat",
+        "app_id": "AC8UQRU5U",
+        "scope": "identity.basic,identity.email"
+    },
+    {
+        "user_id": "UCESM7RFZ",
+        "user_name": "robert.dorbritz",
+        "date": "1535022757",
+        "change_type": "added",
+        "app_type": "Dribdat",
+        "app_id": "AC8UQRU5U",
+        "scope": "identity.basic,identity.email"
+    },
+    {
+        "user_id": "U5BF13UK0",
+        "user_name": "mmznr",
+        "date": "1535011235",
+        "change_type": "added",
+        "app_type": "Dribdat",
+        "app_id": "AC8UQRU5U",
+        "scope": "identity.basic,identity.email"
+    },
+    {
+        "user_id": "U59EH5MC1",
+        "user_name": "marco",
+        "date": "1534855755",
+        "change_type": "added",
+        "app_type": "Dribdat",
+        "app_id": "AC8UQRU5U",
+        "scope": "identity.basic,identity.email"
+    },
+    {
+        "user_id": "U5MQK0JM8",
+        "user_name": "gonzalocasas",
+        "date": "1534842942",
+        "change_type": "added",
+        "app_type": "Dribdat",
+        "app_id": "AC8UQRU5U",
+        "scope": "identity.basic,identity.email"
+    },
+    {
+        "user_id": "U9KPPBZ51",
+        "user_name": "th.lorusso",
+        "date": "1534798939",
+        "change_type": "added",
+        "app_type": "Dribdat",
+        "app_id": "AC8UQRU5U",
+        "scope": "identity.basic,identity.email"
+    },
+    {
+        "user_id": "UBN6K2U3Z",
+        "user_name": "oleg",
+        "date": "1534778309",
+        "change_type": "added",
+        "app_type": "Dribdat",
+        "app_id": "AC8UQRU5U",
+        "scope": "identity.basic,identity.email"
+    },
+    {
+        "user_id": "U9KPPBZ51",
+        "user_name": "th.lorusso",
+        "date": "1531915270",
+        "change_type": "updated",
+        "service_id": "400653315106",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U9KPPBZ51",
+        "user_name": "th.lorusso",
+        "date": "1531915252",
+        "change_type": "added",
+        "service_id": "400653315106",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U9KPPBZ51",
+        "user_name": "th.lorusso",
+        "date": "1531901972",
+        "change_type": "added",
+        "app_type": "Simple Poll",
+        "app_id": "A0HFW7MR6",
+        "scope": "identify,commands,chat:write:bot,reactions:write"
+    },
+    {
+        "user_id": "U59EH5MC1",
+        "user_name": "marco",
+        "date": "1531427141",
+        "change_type": "added",
+        "app_type": "Google Drive",
+        "app_id": "A6NL8MJ6Q",
+        "scope": "identify,bot,channels:read,files:read,team:read,users:read,users:read.email,chat:write:bot,links:read"
+    },
+    {
+        "user_id": "U59EH5MC1",
+        "user_name": "marco",
+        "date": "1531379308",
+        "change_type": "removed",
+        "app_type": "Google Drive",
+        "app_id": "A6NL8MJ6Q",
+        "scope": "identify,bot,channels:read,files:read,team:read,users:read,users:read.email,chat:write:bot,links:read"
+    },
+    {
+        "user_id": "U5BF13UK0",
+        "user_name": "mmznr",
+        "date": "1528192493",
+        "change_type": "added",
+        "app_type": "Zapier",
+        "app_id": "A024R9PQM",
+        "scope": "identify,channels:history,groups:history,channels:read,emoji:read,files:read,groups:read,reactions:read,search:read,stars:read,team:read,users:read,users:read.email,channels:write,chat:write:user,chat:write:bot,reminders:write,users.profile:write"
+    },
+    {
+        "user_id": "U5AQQ8P2R",
+        "user_name": "tlo",
+        "date": "1528101217",
+        "change_type": "added",
+        "app_type": "Google Drive",
+        "app_id": "A6NL8MJ6Q",
+        "scope": "identify,bot,channels:read,files:read,team:read,users:read,users:read.email,chat:write:bot,links:read"
+    },
+    {
+        "user_id": "UAELWCAES",
+        "user_name": "andreas.amsler",
+        "date": "1526973598",
+        "change_type": "added",
+        "app_type": "Google Drive",
+        "app_id": "A6NL8MJ6Q",
+        "scope": "identify,bot,channels:read,files:read,team:read,users:read,users:read.email,chat:write:bot,links:read"
+    },
+    {
+        "user_id": "U5BF13UK0",
+        "user_name": "mmznr",
+        "date": "1519983413",
+        "change_type": "added",
+        "app_type": "Google Drive",
+        "app_id": "A6NL8MJ6Q",
+        "scope": "identify,bot,channels:read,files:read,team:read,users:read,users:read.email,chat:write:bot,links:read"
+    },
+    {
+        "user_id": "U5MQK0JM8",
+        "user_name": "gonzalocasas",
+        "date": "1499710025",
+        "change_type": "added",
+        "service_id": "211353225558",
+        "service_type": "Twitter",
+        "scope": "incoming-webhook"
+    },
+    {
+        "user_id": 0,
+        "user_name": "slack",
+        "date": "1494231943",
+        "change_type": "added",
+        "service_id": "180155101605",
+        "service_type": "Google Drive",
+        "scope": "files:write:user"
+    }
+]

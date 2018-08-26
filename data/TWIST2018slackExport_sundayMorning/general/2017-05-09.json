@@ -1,0 +1,71 @@
+[
+    {
+        "user": "U5BF13UK0",
+        "text": "<@U5BF13UK0> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494325011.036219"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "ah es klappt :slightly_smiling_face:",
+        "ts": "1494325095.052817"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": ":muscle::muscle::muscle::muscle:",
+        "ts": "1494327190.447485"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "der NZZ-Artikel den ihr heute getwittert habt, das wär doch was für den Hackathon",
+        "ts": "1494327239.455938"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "ja, die daten scheinen ja bereits online, aber soooooooo 'kompliziert' zu sein, dass es ja wieder einmal nur die fachleute verstehen. immer die gleiche leier und v.a. aus dem gesundheitsbereich. aber der diego meldete sich ja dann auch sofort und meinte etwas dazu, dass die datenqualität schlecht sei... anyway: ja, ich denke das wäre ein thema.",
+        "ts": "1494327989.595980"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "ich hab auf alle Fälle mal Stefan NEubert von der GEsundheitsdirektion geschrieben und auf den Artikel und den Hackathon hingewiesen.",
+        "ts": "1494329616.887715"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "cool!",
+        "ts": "1494330085.974661"
+    },
+    {
+        "user": "U5AQQ8P2R",
+        "text": "<@U5AQQ8P2R> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494330984.143784"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Welcome <@U5AQQ8P2R> +1",
+        "ts": "1494338258.170592"
+    },
+    {
+        "user": "U5A5NA4U8",
+        "text": "<@U5A5NA4U8> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494342653.946153"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Yeah, welcome <@U5A5NA4U8> :+1:",
+        "ts": "1494351933.429797"
+    }
+]

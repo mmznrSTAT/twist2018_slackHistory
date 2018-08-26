@@ -1,0 +1,25 @@
+[
+    {
+        "user": "UBMR3E32B",
+        "text": "<@UBMR3E32B> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1531052607.000039",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U5BF13UK0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Hej <@UBMR3E32B>, welcome!",
+        "client_msg_id": "bea98768-fbe9-4d30-97e3-562418b2a656",
+        "ts": "1531119060.000001"
+    }
+]

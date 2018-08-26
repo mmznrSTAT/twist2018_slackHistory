@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U5QMS8L1Y",
+        "text": "<@U5QMS8L1Y> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534929545.000200"
+    },
+    {
+        "user": "UCER64K70",
+        "text": "<@UCER64K70> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534971570.000100"
+    }
+]

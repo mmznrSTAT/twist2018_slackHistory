@@ -1,0 +1,42 @@
+[
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Name: Hack the Stats",
+        "ts": "1507043527.000017"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Um mal die Vorschlagsrunde zu eröffnen ;)",
+        "ts": "1507043542.000207",
+        "reactions": [
+            {
+                "name": "wink",
+                "users": [
+                    "U5MQK0JM8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U5MQK0JM8",
+        "text": "`Hacking the truth` could also be, maybe name, or maybe a punch line; and in that context, we could somehow reference Bruce Sterling's definition of truth: <https:\/\/en.wikipedia.org\/wiki\/Major_consensus_narrative>  (to reduce on the normativity)",
+        "edited": {
+            "user": "U5MQK0JM8",
+            "ts": "1507043694.000000"
+        },
+        "ts": "1507043690.000201",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5BF13UK0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

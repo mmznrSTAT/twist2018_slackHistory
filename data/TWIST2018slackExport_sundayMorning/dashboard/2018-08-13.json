@@ -1,0 +1,63 @@
+[
+    {
+        "type": "message",
+        "user": "UAELWCAES",
+        "text": "<@UBN6K2U3Z> are you reachable by phone now?",
+        "client_msg_id": "392a242e-b1eb-4681-8f24-488e24328430",
+        "thread_ts": "1534167871.000098",
+        "reply_count": 2,
+        "replies": [
+            {
+                "user": "UBN6K2U3Z",
+                "ts": "1534168197.000302"
+            },
+            {
+                "user": "UAELWCAES",
+                "ts": "1534168433.000204"
+            }
+        ],
+        "unread_count": 2,
+        "ts": "1534167871.000098"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "I am now :slightly_smiling_face:",
+        "client_msg_id": "b3b3cbe3-8bfb-4d68-841e-e968bfaa4341",
+        "thread_ts": "1534167871.000098",
+        "parent_user_id": "UAELWCAES",
+        "ts": "1534168197.000302"
+    },
+    {
+        "type": "message",
+        "user": "UAELWCAES",
+        "text": "what number? :slightly_smiling_face:",
+        "client_msg_id": "361f2e69-c8fd-4717-b13b-9bc72733d002",
+        "thread_ts": "1534167871.000098",
+        "parent_user_id": "UAELWCAES",
+        "ts": "1534168433.000204"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "<@U59EH5MC1> <https:\/\/api.slack.com\/docs\/sign-in-with-slack>",
+        "client_msg_id": "95b4f9a8-172d-417c-a36f-933520bcc30e",
+        "attachments": [
+            {
+                "service_name": "api.slack.com",
+                "title": "Sign in with Slack",
+                "title_link": "https:\/\/api.slack.com\/docs\/sign-in-with-slack",
+                "text": "Learn how to build bot users, send notifications, and interact with workspaces using our APIs.",
+                "fallback": "api.slack.com: Sign in with Slack",
+                "thumb_url": "https:\/\/a.slack-edge.com\/f30f\/img\/services\/api_200.png",
+                "from_url": "https:\/\/api.slack.com\/docs\/sign-in-with-slack",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/a.slack-edge.com\/436da\/marketing\/img\/meta\/ios-152.png",
+                "id": 1,
+                "original_url": "https:\/\/api.slack.com\/docs\/sign-in-with-slack"
+            }
+        ],
+        "ts": "1534170489.000256"
+    }
+]

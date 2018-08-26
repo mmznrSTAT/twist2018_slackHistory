@@ -1,0 +1,200 @@
+[
+    {
+        "user": "UBN6K2U3Z",
+        "text": "<@UBN6K2U3Z> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535170989.000200"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": " :sleeping: ",
+        "client_msg_id": "ecadc05a-b138-49a8-bdb0-b80acdde92ad",
+        "ts": "1535171005.000100"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FCEGW9V2M",
+                "created": 1535171176,
+                "timestamp": 1535171176,
+                "name": "IMG_20180825_062436-01.jpeg",
+                "title": "IMG_20180825_062436-01.jpeg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UBN6K2U3Z",
+                "editable": false,
+                "size": 47269,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCEGW9V2M\/img_20180825_062436-01.jpeg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCEGW9V2M\/download\/img_20180825_062436-01.jpeg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCEGW9V2M-5e9c406415\/img_20180825_062436-01_64.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCEGW9V2M-5e9c406415\/img_20180825_062436-01_80.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCEGW9V2M-5e9c406415\/img_20180825_062436-01_360.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCEGW9V2M-5e9c406415\/img_20180825_062436-01_480.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCEGW9V2M-5e9c406415\/img_20180825_062436-01_160.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCEGW9V2M-5e9c406415\/img_20180825_062436-01_720.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCEGW9V2M-5e9c406415\/img_20180825_062436-01_800.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "image_exif_rotation": 1,
+                "original_w": 800,
+                "original_h": 600,
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UBN6K2U3Z\/FCEGW9V2M\/img_20180825_062436-01.jpeg",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCEGW9V2M-fd6fa9261f"
+            }
+        ],
+        "upload": true,
+        "user": "UBN6K2U3Z",
+        "display_as_bot": false,
+        "client_msg_id": "c09c858e-2fb7-4ae8-9101-029734abe961",
+        "ts": "1535171178.000100",
+        "reactions": [
+            {
+                "name": "blush",
+                "users": [
+                    "UBN6K2U3Z"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bus",
+                "users": [
+                    "UBN6K2U3Z"
+                ],
+                "count": 1
+            },
+            {
+                "name": "alarm_clock",
+                "users": [
+                    "UBN6K2U3Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": ":smiley:",
+        "client_msg_id": "E55A2699-85BA-4A61-8206-063152E9FB71",
+        "ts": "1535171226.000300"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "<https:\/\/youtu.be\/eOvibLXJxQ8>",
+        "client_msg_id": "54ce15bc-af29-4196-9e44-05ffa0053449",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Nana Mouskouri - Guten Morgen Sonnenschein",
+                "title_link": "https:\/\/youtu.be\/eOvibLXJxQ8",
+                "author_name": "Schlagermusikgirl18",
+                "author_link": "https:\/\/www.youtube.com\/user\/Schlagermusikgirl18",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/eOvibLXJxQ8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Nana Mouskouri - Guten Morgen Sonnenschein",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/eOvibLXJxQ8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/youtu.be\/eOvibLXJxQ8",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/eOvibLXJxQ8"
+            }
+        ],
+        "thread_ts": "1535173145.000100",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "UBN6K2U3Z",
+                "ts": "1535173514.000100"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1535173145.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": ":smile:",
+        "client_msg_id": "04452E5F-1D61-4406-8D63-73578393AF92",
+        "ts": "1535173434.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "Alles kannst du ja sehen\nAuf dieser erde, auf dieser erde\nDoch nun ist es geschehen\nDass ich auch ohne dich glücklich werde\nDie allerschönsten stunden\nIn meinem leben, in meinem leben\nHab ich heut nacht gefunden\nDu hast geschlafen, so ist das eben",
+        "client_msg_id": "05ece215-f8b3-4063-8fe0-0e1a37b05d79",
+        "edited": {
+            "user": "UBN6K2U3Z",
+            "ts": "1535173523.000000"
+        },
+        "thread_ts": "1535173145.000100",
+        "parent_user_id": "UBN6K2U3Z",
+        "ts": "1535173514.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "<https:\/\/youtu.be\/S0KQWTBljjg>",
+        "client_msg_id": "1ED8A1BF-BEC3-46CB-A4EC-11D33B6282C0",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Johnny Cash - What is Truth",
+                "title_link": "https:\/\/youtu.be\/S0KQWTBljjg",
+                "author_name": "GreenGreenGrasOfHome",
+                "author_link": "https:\/\/www.youtube.com\/user\/GreenGreenGrasOfHome",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/S0KQWTBljjg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Johnny Cash - What is Truth",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/S0KQWTBljjg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/youtu.be\/S0KQWTBljjg",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/S0KQWTBljjg"
+            }
+        ],
+        "ts": "1535173549.000100",
+        "reactions": [
+            {
+                "name": "alien",
+                "users": [
+                    "UBN6K2U3Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UCECX6YBA",
+        "text": "<@UCECX6YBA> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535179671.000200"
+    }
+]

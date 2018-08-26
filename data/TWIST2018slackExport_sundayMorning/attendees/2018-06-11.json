@@ -1,0 +1,37 @@
+[
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Sniff, keine Registrierung nach Thomas' Blogpost? Schade... oder hat der Bot gestreickt...?",
+        "client_msg_id": "afb3c054-94d3-4b28-848c-0a9ba6a9b3bb",
+        "ts": "1528700689.000237"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Die gute Nachricht ist, der Bot hat nicht gestreikt, die schlechte Nachricht ist, der Bot hat nicht gestreikt...",
+        "client_msg_id": "CC0273ED-385A-4D12-B38D-73C2F5D21E68",
+        "ts": "1528701044.000372"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "hehe... gut UND schade ;D",
+        "client_msg_id": "95b51ec1-767e-446f-aa85-1e1c8be72594",
+        "ts": "1528702636.000477"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "müssen den Kreis mal erweitern... hat statistik stadt zürich bald einen newsletter?",
+        "client_msg_id": "8ff8408d-5d58-41de-9257-6f8d1e5bf278",
+        "ts": "1528703077.000204"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "und vielleicht beim smart city anlass erwähnen?",
+        "client_msg_id": "29fb9e1b-54ca-46f3-8f36-0b2c01a696f2",
+        "ts": "1528703091.000256"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "user": "U94B2N1PV",
+        "text": "<@U94B2N1PV> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1517905787.000066"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Welcome<@U94B2N1PV>!",
+        "edited": {
+            "user": "U59EH5MC1",
+            "ts": "1517917420.000000"
+        },
+        "ts": "1517917411.000052"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Hey Cristina, nice to have you n board",
+        "client_msg_id": "A3572FDE-68ED-4B7F-8441-9B813F08DB66",
+        "ts": "1517918604.000212"
+    },
+    {
+        "type": "message",
+        "user": "U94B2N1PV",
+        "text": "sehr gerne!",
+        "ts": "1517919842.000160"
+    }
+]

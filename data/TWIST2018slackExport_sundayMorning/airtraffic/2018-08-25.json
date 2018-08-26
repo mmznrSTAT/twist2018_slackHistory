@@ -1,0 +1,210 @@
+[
+    {
+        "user": "U9KPPBZ51",
+        "text": "<@U9KPPBZ51> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535186791.000200"
+    },
+    {
+        "user": "UC46AMTAM",
+        "inviter": "U9KPPBZ51",
+        "text": "<@UC46AMTAM> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535186792.000200"
+    },
+    {
+        "user": "UC6DGCNUD",
+        "inviter": "U9KPPBZ51",
+        "text": "<@UC6DGCNUD> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535186792.000400"
+    },
+    {
+        "user": "UCET1PMM2",
+        "inviter": "U9KPPBZ51",
+        "text": "<@UCET1PMM2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535186792.000600"
+    },
+    {
+        "user": "UCEFP238W",
+        "inviter": "U9KPPBZ51",
+        "text": "<@UCEFP238W> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535186792.000800"
+    },
+    {
+        "user": "UCEBVM257",
+        "inviter": "U9KPPBZ51",
+        "text": "<@UCEBVM257> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535186793.000200"
+    },
+    {
+        "type": "message",
+        "user": "U9KPPBZ51",
+        "text": "<https:\/\/drive.google.com\/drive\/folders\/15ppyO7coDw9Ufb6txb-8pE9ZYPTBi5AR?usp=sharing>",
+        "client_msg_id": "e09a38f7-e113-42a3-b8cd-71190e62cd2a",
+        "ts": "1535186912.000100"
+    },
+    {
+        "type": "message",
+        "user": "UC46AMTAM",
+        "text": "<https:\/\/github.com\/tlorusso\/twist_zrh>",
+        "client_msg_id": "61d71bb6-c5f2-431d-96be-915124203ec0",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "tlorusso\/twist_zrh",
+                "title_link": "https:\/\/github.com\/tlorusso\/twist_zrh",
+                "text": "twist_zrh - flight data for the twist-hackdays",
+                "fallback": "GitHub: tlorusso\/twist_zrh",
+                "from_url": "https:\/\/github.com\/tlorusso\/twist_zrh",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/17902112?s=400&v=4",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/tlorusso\/twist_zrh"
+            }
+        ],
+        "ts": "1535186961.000200"
+    },
+    {
+        "user": "U59EH5MC1",
+        "text": "<@U59EH5MC1> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535186963.000200"
+    },
+    {
+        "type": "message",
+        "user": "U9KPPBZ51",
+        "text": "flights &lt;-read.csv(\"<https:\/\/raw.githubusercontent.com\/tlorusso\/twist_zrh\/master\/flightdata_zrh.csv>\",sep=\";\")",
+        "client_msg_id": "d84b06ed-9f37-434a-b575-e70e38ab5ede",
+        "ts": "1535187445.000100"
+    },
+    {
+        "type": "message",
+        "user": "U9KPPBZ51",
+        "text": "flights &lt;-read.csv(\"<https:\/\/raw.githubusercontent.com\/tlorusso\/twist_zrh\/master\/flightdata_zrh.csv>\",sep=\";\")",
+        "client_msg_id": "262ebc76-52c3-48d9-8380-40f71c905a86",
+        "ts": "1535187446.000100"
+    },
+    {
+        "type": "message",
+        "user": "U9KPPBZ51",
+        "text": "sorry wrong file without weather data!",
+        "client_msg_id": "6aaeaf82-c67e-4f4e-9c36-1da2951d6dd5",
+        "ts": "1535187594.000100"
+    },
+    {
+        "type": "message",
+        "user": "U9KPPBZ51",
+        "text": "flights &lt;-read.csv(\"<https:\/\/raw.githubusercontent.com\/tlorusso\/twist_zrh\/master\/twist_zrh.csv>\",sep=\";\")",
+        "client_msg_id": "11acccdf-7322-4dc3-8a0b-c314d3aba0a4",
+        "ts": "1535187602.000100"
+    },
+    {
+        "type": "message",
+        "user": "U9KPPBZ51",
+        "text": "flights &lt;-read.csv(\"<https:\/\/raw.githubusercontent.com\/tlorusso\/twist_zrh\/master\/twist_zrh.csv>\",sep=\",\")",
+        "client_msg_id": "84b1d126-740a-491c-a9b9-ac018ad4c48b",
+        "ts": "1535187766.000100"
+    },
+    {
+        "type": "message",
+        "user": "U9KPPBZ51",
+        "text": "(wrong sepatator)",
+        "client_msg_id": "eb9c1311-de9f-4078-8bb2-08a9fac1f480",
+        "ts": "1535187779.000100"
+    },
+    {
+        "user": "UCEU0NLR2",
+        "text": "<@UCEU0NLR2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535188401.000200"
+    },
+    {
+        "user": "U5MQK0JM8",
+        "text": "<@U5MQK0JM8> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535199193.000200"
+    },
+    {
+        "user": "UBN6K2U3Z",
+        "text": "<@UBN6K2U3Z> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535201033.000200"
+    },
+    {
+        "type": "message",
+        "user": "U9KPPBZ51",
+        "text": "---\ntitle: \"Air Traffic Challenge\"\noutput:\n  prettydoc::html_pretty:\n    theme: cayman\n    highlight: github\n    toc: true\n    number_sections: true\n    df_print: paged\n---",
+        "client_msg_id": "dd2830ce-8eeb-49a3-bce7-005ca0f3b390",
+        "ts": "1535220661.000100"
+    },
+    {
+        "type": "message",
+        "user": "U9KPPBZ51",
+        "text": "<https:\/\/www.meetup.com\/de-DE\/Zurich-R-User-Group\/?chapter_analytics_code=UA-94107719-1>",
+        "client_msg_id": "258d2060-d3d4-46d3-a7c5-2078896cd819",
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Zurich R User Group (Zürich, Schweiz)",
+                "title_link": "https:\/\/www.meetup.com\/de-DE\/Zurich-R-User-Group\/?chapter_analytics_code=UA-94107719-1",
+                "text": "This meetup is for everyone that loves working with R and wants to learn more. Check out the website (<http:\/\/zurich-r-user-group.github.io\/>).",
+                "fallback": "Meetup: Zurich R User Group (Zürich, Schweiz)",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/c\/e\/3\/0\/600_466012784.jpeg",
+                "from_url": "https:\/\/www.meetup.com\/de-DE\/Zurich-R-User-Group\/?chapter_analytics_code=UA-94107719-1",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 13140,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/de-DE\/4f86abc993eecccc33a115d00b405ced.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/de-DE\/Zurich-R-User-Group\/?chapter_analytics_code=UA-94107719-1"
+            }
+        ],
+        "ts": "1535221716.000100"
+    },
+    {
+        "type": "message",
+        "user": "UC46AMTAM",
+        "text": "<https:\/\/journal.r-project.org\/archive\/2018\/RJ-2018-009\/RJ-2018-009.pdf>",
+        "client_msg_id": "a49aab82-4fe4-46c3-808d-cb383891d957",
+        "ts": "1535222363.000100"
+    },
+    {
+        "type": "message",
+        "user": "U9KPPBZ51",
+        "text": "sf &amp; rasterpackage data-camp kurs: <https:\/\/www.datacamp.com\/courses\/spatial-analysis-in-r-with-sf-and-raster>",
+        "client_msg_id": "2b4aab9d-0b11-4916-9d16-751449a467c6",
+        "attachments": [
+            {
+                "title": "Spatial Analysis in R with sf and raster | DataCamp",
+                "title_link": "https:\/\/www.datacamp.com\/courses\/spatial-analysis-in-r-with-sf-and-raster",
+                "text": "Analyze spatial data using the sf and raster packages.",
+                "fallback": "Spatial Analysis in R with sf and raster | DataCamp",
+                "thumb_url": "https:\/\/assets.datacamp.com\/production\/course_4422\/shields\/original\/shield_image_course_4422_20171228-12-175ok4u?1514479287",
+                "from_url": "https:\/\/www.datacamp.com\/courses\/spatial-analysis-in-r-with-sf-and-raster",
+                "thumb_width": 464,
+                "thumb_height": 482,
+                "service_icon": "https:\/\/cdn.datacamp.com\/main-app\/assets\/favicon-335cd0394b32102a39221d79e5fd7e51078e6d32a0c8aea59676a6869f84e9d8.ico",
+                "service_name": "datacamp.com",
+                "id": 1,
+                "original_url": "https:\/\/www.datacamp.com\/courses\/spatial-analysis-in-r-with-sf-and-raster"
+            }
+        ],
+        "ts": "1535222838.000100"
+    }
+]

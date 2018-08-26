@@ -1,0 +1,92 @@
+[
+    {
+        "user": "UCCAC4ZLG",
+        "text": "<@UCCAC4ZLG> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534933476.000200"
+    },
+    {
+        "type": "message",
+        "user": "UCCAC4ZLG",
+        "text": "Hello everyone :wave:",
+        "client_msg_id": "64ac57b6-b269-4d31-8c45-ee2014bf8597",
+        "ts": "1534941983.000100",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UBN6K2U3Z",
+                    "U5BF13UK0",
+                    "UAELWCAES"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Hej <@UCCAC4ZLG>, nice to have you here :+1:",
+        "client_msg_id": "E1459A38-BC32-49C8-BC4E-768011D35FB9",
+        "ts": "1534942772.000100"
+    },
+    {
+        "user": "UCEFP238W",
+        "text": "<@UCEFP238W> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534946509.000200"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Hey <@UCEFP238W>, welcome to out TWIST2018 Slack channel",
+        "client_msg_id": "1F579EEA-8CFC-41FA-A078-B41601A89EB6",
+        "ts": "1534955273.000100",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "UCEFP238W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UCB2MEZNJ",
+        "text": "Hi all",
+        "client_msg_id": "1f02fd1a-1a40-45ab-9737-c8452584e36b",
+        "ts": "1534956004.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCB2MEZNJ",
+        "text": "Most prob. won't make it for Saturday due to funeral in Germany. Does is make any sense to join one of the teams on Sunday?",
+        "client_msg_id": "7f93af90-6bb9-4264-93a6-136f45534061",
+        "ts": "1534956042.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Hey <@UCB2MEZNJ> i‘m sorry! Yes, sure, you are always welcome",
+        "client_msg_id": "17CD52EC-AF5E-45BC-AD69-C8AA3783E88C",
+        "ts": "1534956179.000100"
+    },
+    {
+        "user": "UCER64K70",
+        "text": "<@UCER64K70> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534971380.000200"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "welcome <@UCER64K70>",
+        "client_msg_id": "4fde1e7e-0c4b-497c-8f82-f0f9a2031706",
+        "ts": "1535006072.000100"
+    }
+]

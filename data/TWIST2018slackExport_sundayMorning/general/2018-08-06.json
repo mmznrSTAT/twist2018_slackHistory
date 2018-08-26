@@ -1,0 +1,266 @@
+[
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "welcome <@UC2CR5BJQ> and <@UC284DLTB>",
+        "client_msg_id": "411a6e36-772a-4af3-b3c0-ba1cb047c844",
+        "ts": "1533540345.000201"
+    },
+    {
+        "user": "UC385Q9M0",
+        "text": "<@UC385Q9M0> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1533542165.000214"
+    },
+    {
+        "user": "UC2JE5DA4",
+        "text": "<@UC2JE5DA4> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1533549856.000334"
+    },
+    {
+        "type": "message",
+        "user": "UC2JE5DA4",
+        "text": "Hi :slightly_smiling_face: I'm thinking of signing up for the hackday, but not sure what sort of people you're looking for (or if poor German skills are a problem)",
+        "client_msg_id": "5c05da26-8797-44d1-80bd-09a5a3f00bf8",
+        "ts": "1533550143.000096"
+    },
+    {
+        "type": "message",
+        "user": "U5QMS8L1Y",
+        "text": "hi paul\npoor german skills are no problem at all, - no.\nwe are generally looking for motivated people who help us unmask twisted truths with statistics. if you're keen and interested, *you should sign up*. it will for sure be a lot of fun!  :balloon:",
+        "client_msg_id": "bb5c6707-43d0-4343-a2bc-353a7cb943d1",
+        "ts": "1533550342.000126",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5MQK0JM8",
+                    "U59EH5MC1",
+                    "U5BF13UK0"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U5QMS8L1Y",
+        "text": "and talking about truth and fake-news ... <https:\/\/www.nzz.ch\/feuilleton\/fake-news-wohin-das-auge-reicht-und-die-wahrheit-ist-am-ende-mitnichten-wir-haben-es-mit-vielen-kleinen-wahrheiten-zu-tun-und-das-ist-ein-fortschritt-ld.1408345> - _unfortunately in german_!",
+        "client_msg_id": "4a3300b1-c793-429e-b7b0-2fc683edb899",
+        "attachments": [
+            {
+                "service_name": "Neue Zürcher Zeitung",
+                "title": "Fake-News, wohin das Auge reicht, und die Wahrheit ist am Ende? Mitnichten. Wir haben es mit vielen kleinen Wahrheiten zu tun, und das ist ein Fortschritt. | NZZ",
+                "title_link": "https:\/\/www.nzz.ch\/feuilleton\/fake-news-wohin-das-auge-reicht-und-die-wahrheit-ist-am-ende-mitnichten-wir-haben-es-mit-vielen-kleinen-wahrheiten-zu-tun-und-das-ist-ein-fortschritt-ld.1408345",
+                "text": "Manipulation und Verzerrung gehören zum Nachrichtengeschäft. Das war früher nicht anders als heute. Eines jedoch hat sich tatsächlich geändert: Die grosse liberal-demokratische Meistererzählung, die Establishment und Basis einte, gelangt an ihr Ende. Was einige bedauern, sehen andere als Chance.",
+                "fallback": "Neue Zürcher Zeitung: Fake-News, wohin das Auge reicht, und die Wahrheit ist am Ende? Mitnichten. Wir haben es mit vielen kleinen Wahrheiten zu tun, und das ist ein Fortschritt. | NZZ",
+                "image_url": "https:\/\/img.nzz.ch\/C=W2444,H1374,X0,Y561\/S=W1200\/O=75\/https:\/\/nzz-img.s3.amazonaws.com\/2018\/8\/3\/aad188c4-6b34-47f9-a27a-3ad1760734e8.jpeg?wmark=nzz",
+                "from_url": "https:\/\/www.nzz.ch\/feuilleton\/fake-news-wohin-das-auge-reicht-und-die-wahrheit-ist-am-ende-mitnichten-wir-haben-es-mit-vielen-kleinen-wahrheiten-zu-tun-und-das-ist-ein-fortschritt-ld.1408345",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 292202,
+                "service_icon": "http:\/\/assets.static-nzz.ch\/nzz-niobe\/assets\/i\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.nzz.ch\/feuilleton\/fake-news-wohin-das-auge-reicht-und-die-wahrheit-ist-am-ende-mitnichten-wir-haben-es-mit-vielen-kleinen-wahrheiten-zu-tun-und-das-ist-ein-fortschritt-ld.1408345"
+            }
+        ],
+        "ts": "1533550393.000014"
+    },
+    {
+        "type": "message",
+        "user": "UC2JE5DA4",
+        "text": "thanks muriel! I'll sign up",
+        "client_msg_id": "7ebeff7a-2933-4db2-a412-7122245e0bb3",
+        "ts": "1533550578.000217"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "great <@UC2JE5DA4>, looking forward :slightly_smiling_face:",
+        "client_msg_id": "fd657d26-949f-4365-845e-28dfa48c48e4",
+        "ts": "1533555458.000066"
+    },
+    {
+        "user": "UC34XNNPN",
+        "text": "<@UC34XNNPN> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1533558701.000012"
+    },
+    {
+        "user": "UC2R64PUH",
+        "text": "<@UC2R64PUH> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1533558820.000123"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "welcome <@UC34XNNPN> and <@UC2R64PUH>, nice to have you on board!",
+        "client_msg_id": "d862631a-681f-4b82-b6cb-a983d4458bbe",
+        "ts": "1533559282.000319"
+    },
+    {
+        "user": "UC353QKMJ",
+        "text": "<@UC353QKMJ> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1533559393.000310",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U5BF13UK0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UC2LL58KA",
+        "text": "<@UC2LL58KA> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1533559530.000199"
+    },
+    {
+        "user": "UC2LP8THN",
+        "text": "<@UC2LP8THN> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1533559876.000032"
+    },
+    {
+        "type": "message",
+        "user": "UC2LP8THN",
+        "text": "Hi, feels great to be a part of this, would be looking forward to TWIST hackdays!",
+        "client_msg_id": "4f8ddb79-c209-453e-b647-f8bf95a2485e",
+        "ts": "1533560105.000267"
+    },
+    {
+        "type": "message",
+        "user": "UC2LP8THN",
+        "text": "I already signed up with my friend, and we'll be coming from Lausanne.",
+        "client_msg_id": "af5167d8-2156-4c2f-af9f-f75af971ce9f",
+        "ts": "1533560122.000274",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U5BF13UK0",
+                    "U59EH5MC1",
+                    "U9KPPBZ51"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "welcome <@UC2LP8THN>, great you're with us.",
+        "client_msg_id": "a879cd36-33ec-4fa3-8929-e05f63489ffa",
+        "ts": "1533560170.000355",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UC2LP8THN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UC2LV8DEU",
+        "text": "<@UC2LV8DEU> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1533560466.000131",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U5BF13UK0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UC34XNNPN",
+        "text": "Thank's <@U5BF13UK0>, great to be part of the team! :slightly_smiling_face:",
+        "client_msg_id": "14295766-61a3-4615-b741-743aaf623b3d",
+        "ts": "1533560605.000374",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U5BF13UK0",
+                    "U59EH5MC1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "UC35XJDA8",
+        "text": "<@UC35XJDA8> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1533562091.000281",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U5BF13UK0",
+                    "U59EH5MC1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "trophy",
+                "users": [
+                    "U5QMS8L1Y"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UC2R64PUH",
+        "text": "<@U5BF13UK0> Thank you!",
+        "client_msg_id": "da5c9ccc-6972-4e66-8537-9e6ce9f0c68d",
+        "ts": "1533563663.000076"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "<@UC2R64PUH> you are welcome :blush:",
+        "client_msg_id": "187F82EC-B870-49A0-B637-7F5F5372D6A4",
+        "ts": "1533563824.000112"
+    },
+    {
+        "user": "UC3DXG8G4",
+        "text": "<@UC3DXG8G4> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1533584211.000354",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U5BF13UK0",
+                    "U59EH5MC1"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

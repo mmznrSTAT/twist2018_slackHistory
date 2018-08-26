@@ -1,0 +1,41 @@
+[
+    {
+        "user": "UC46AMTAM",
+        "text": "<@UC46AMTAM> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1533715509.000248"
+    },
+    {
+        "type": "message",
+        "user": "UC46AMTAM",
+        "text": "Hello everyone, thanks for the invitation. I'm looking forward to the 25th!",
+        "client_msg_id": "6e4fa1b0-d6a5-4617-854e-42a23535bcb8",
+        "ts": "1533715754.000203",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59EH5MC1",
+                    "U9KPPBZ51"
+                ],
+                "count": 2
+            },
+            {
+                "name": "muscle::skin-tone-4",
+                "users": [
+                    "U5QMS8L1Y",
+                    "U9KPPBZ51"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Hey <@UC46AMTAM> welcome to the channel! We are very much looking forward to it as well :smiley:",
+        "client_msg_id": "BCF035DD-8622-46F0-A069-BB91C59D7714",
+        "ts": "1533717555.000368"
+    }
+]

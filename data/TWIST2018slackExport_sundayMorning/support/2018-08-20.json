@@ -1,0 +1,55 @@
+[
+    {
+        "user": "UBN6K2U3Z",
+        "text": "<@UBN6K2U3Z> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534772054.000200"
+    },
+    {
+        "user": "U5BF13UK0",
+        "inviter": "UBN6K2U3Z",
+        "text": "<@U5BF13UK0> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534772054.000500"
+    },
+    {
+        "user": "U9KPPBZ51",
+        "inviter": "UBN6K2U3Z",
+        "text": "<@U9KPPBZ51> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534772055.000200"
+    },
+    {
+        "user": "UAELWCAES",
+        "inviter": "UBN6K2U3Z",
+        "text": "<@UAELWCAES> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534772055.000400"
+    },
+    {
+        "user": "UBN6K2U3Z",
+        "purpose": "Wer die Erleuchtung sucht findet es vielleicht nicht hier, aber zur allgemeine Fragen und Antworten geben wir sehr gerne Auskunft",
+        "text": "<@UBN6K2U3Z> set the channel purpose: Wer die Erleuchtung sucht findet es vielleicht nicht hier, aber zur allgemeine Fragen und Antworten geben wir sehr gerne Auskunft",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1534772079.000100"
+    },
+    {
+        "user": "UCBA90Y3B",
+        "text": "<@UCBA90Y3B> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534793369.000200"
+    },
+    {
+        "user": "U59EH5MC1",
+        "text": "<@U59EH5MC1> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534793562.000200"
+    }
+]

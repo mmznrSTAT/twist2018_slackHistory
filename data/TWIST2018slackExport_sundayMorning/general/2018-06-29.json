@@ -1,0 +1,67 @@
+[
+    {
+        "user": "UBHA98S6B",
+        "text": "<@UBHA98S6B> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1530263596.000098"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Hi <@UBHA98S6B> , glad it worked out :muscle: What was the problem or how did u solve it? Just in case others have the same issue...",
+        "client_msg_id": "217B8B06-A416-47A9-BA29-2663C5FDCEE0",
+        "ts": "1530265802.000209"
+    },
+    {
+        "type": "message",
+        "user": "UBHA98S6B",
+        "text": "Hi <@U59EH5MC1> I got an email from Andreas mentioning the slack channel. I tried to join it but it says I don't have an account with TWIST2018 workspace yet, and I need an invitation. Then Andreas sent me an invite and everything worked fine.",
+        "client_msg_id": "9d591951-d16e-48b4-b2e1-070eb0cd296b",
+        "ts": "1530268398.000178"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Ah, ok, thx <@UBHA98S6B> . I‘ll have to change the settings then. <@UAELWCAES> i‘m offline today :expressionless: will do it asap",
+        "client_msg_id": "C7E7706B-B09E-42FA-BD95-8495D7138476",
+        "ts": "1530268731.000095",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U9J7E8SDR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UBHA98S6B",
+        "text": ":+1:",
+        "client_msg_id": "5dfd3c81-ffaf-4013-85cc-90ff75bc1087",
+        "ts": "1530268893.000062"
+    },
+    {
+        "type": "message",
+        "user": "U5QMS8L1Y",
+        "text": "welcome, craig - cool that you're joining us! :wink:",
+        "client_msg_id": "97e91cc2-0afd-40e0-bb89-a6f9871531eb",
+        "ts": "1530271390.000095"
+    },
+    {
+        "type": "message",
+        "user": "U5Q5EMNGY",
+        "text": ":+1: ",
+        "client_msg_id": "ddba8d92-8840-4c52-9a5a-0e8ac9cd79d4",
+        "ts": "1530271403.000123"
+    },
+    {
+        "type": "message",
+        "user": "UBHA98S6B",
+        "text": "<@U5QMS8L1Y> <@U5Q5EMNGY> I would've asked you to invite me if I knew :wink:",
+        "client_msg_id": "f8752422-4103-4ab7-9c2a-6f22fb2e2639",
+        "ts": "1530305397.000066"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "user": "UCF4QG5E0",
+        "text": "<@UCF4QG5E0> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535270118.000200"
+    },
+    {
+        "type": "message",
+        "user": "U94B2N1PV",
+        "text": "Hey participants! If today is your first day, come talk to us (orange lanyards) and we can help you.",
+        "client_msg_id": "29d00fb8-7381-4e14-bec5-1887b988e5c0",
+        "ts": "1535270144.000100"
+    },
+    {
+        "user": "UCEQ49RSM",
+        "text": "<@UCEQ49RSM> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535270462.000200"
+    },
+    {
+        "type": "message",
+        "user": "UCF4QG5E0",
+        "text": "Hey guys, I just arrived today. I don't have a group yet, and I don't need to be in one particular. If you need help in listening to your presentation, pitch, visualisation or just want someone to debrief to, let me know. I'm in a grey jumper or red shirt depending on how cold I get. I also can also be a resource for finance and health domains.",
+        "client_msg_id": "b1e0a686-2edc-4911-9714-1f5b60c7ecaa",
+        "ts": "1535270670.000100"
+    }
+]

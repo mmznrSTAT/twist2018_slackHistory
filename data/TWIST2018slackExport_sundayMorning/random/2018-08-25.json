@@ -1,0 +1,273 @@
+[
+    {
+        "user": "UCEHR99MX",
+        "text": "<@UCEHR99MX> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535184680.000200"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FCGFEBXL6",
+                "created": 1535189290,
+                "timestamp": 1535189290,
+                "name": "IMG_20180825_104510-01.jpeg",
+                "title": "Image from Android",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UBN6K2U3Z",
+                "editable": false,
+                "size": 86205,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCGFEBXL6\/img_20180825_104510-01.jpeg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCGFEBXL6\/download\/img_20180825_104510-01.jpeg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCGFEBXL6-5a7ba79132\/img_20180825_104510-01_64.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCGFEBXL6-5a7ba79132\/img_20180825_104510-01_80.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCGFEBXL6-5a7ba79132\/img_20180825_104510-01_360.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCGFEBXL6-5a7ba79132\/img_20180825_104510-01_480.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCGFEBXL6-5a7ba79132\/img_20180825_104510-01_160.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCGFEBXL6-5a7ba79132\/img_20180825_104510-01_720.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCGFEBXL6-5a7ba79132\/img_20180825_104510-01_800.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "image_exif_rotation": 1,
+                "original_w": 800,
+                "original_h": 600,
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UBN6K2U3Z\/FCGFEBXL6\/img_20180825_104510-01.jpeg",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCGFEBXL6-f48d8a4652"
+            }
+        ],
+        "upload": true,
+        "user": "UBN6K2U3Z",
+        "display_as_bot": false,
+        "client_msg_id": "1dde33f7-e1e5-4c8b-9798-a1fe180478f3",
+        "ts": "1535189294.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "<https:\/\/www.linkedin.com\/pulse\/20140916153402-797731-the-awesome-truth-about-hackers>",
+        "client_msg_id": "f0ba833d-39e3-4976-a465-5a095fbc58e6",
+        "ts": "1535201370.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "&gt; Hacking is a type of methodology. It's a way to do research. Have you ever tried something again and again in different ways to get it to do what you wanted? Have you ever opened up a machine or a device to see how it works, read up on what the components are, and then make adjustments to see what now worked differently? That's hacking. You are hacking whenever you deeply examine how something really works in order to manipulate it, often creatively, into doing what you want.",
+        "client_msg_id": "69e77047-1864-49ed-a46c-f82b59cdb844",
+        "ts": "1535201390.000100",
+        "reactions": [
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U5MQK0JM8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "<@UBN6K2U3Z> has a poll for you!",
+        "username": "Polly",
+        "icons": {
+            "image_48": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/bot_icons\/2018-08-25\/422672065089_48.png"
+        },
+        "bot_id": "BCEF0EQ8Y",
+        "attachments": [
+            {
+                "callback_id": "EeLBbNXsuyk78MEAo",
+                "fallback": "Instapoll: how's it hacking?",
+                "title": "Instapoll: how's it hacking?",
+                "id": 1,
+                "color": "35A8E0",
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "one",
+                        "text": "1",
+                        "type": "button",
+                        "value": "0",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "two",
+                        "text": "2",
+                        "type": "button",
+                        "value": "1",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "three",
+                        "text": "3",
+                        "type": "button",
+                        "value": "2",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "four",
+                        "text": "4",
+                        "type": "button",
+                        "value": "3",
+                        "style": ""
+                    },
+                    {
+                        "id": "5",
+                        "name": "add_option_to_existing_poll",
+                        "text": "＋ Add Option",
+                        "type": "button",
+                        "value": "jmeDtgQRmaJarkPDB",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "callback_id": "EeLBbNXsuyk78MEAo",
+                "fallback": "Instapoll: how's it hacking?",
+                "id": 2,
+                "fields": [
+                    {
+                        "title": "",
+                        "value": "*1*: I'm TWIST-and-loving it!\n`▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇` 100% (2)\n<@U59EH5MC1>, <@U5BF13UK0>",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": "*2*: Can't get enough hack.\n`⁢` 0%",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": "*3*: Starting to feel the tired.\n`⁢` 0%",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": "*4*: I'm all flipped out. Zzzzz...\n`⁢` 0%",
+                        "short": false
+                    },
+                    {
+                        "title": "Total votes",
+                        "value": "2",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "6",
+                        "name": "add_comments",
+                        "text": "Add a Comment",
+                        "type": "button",
+                        "value": "jmeDtgQRmaJarkPDB",
+                        "style": ""
+                    }
+                ],
+                "mrkdwn_in": [
+                    "fields"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1535206883.000100"
+    },
+    {
+        "user": "U5Q5EMNGY",
+        "text": "<@U5Q5EMNGY> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535207687.000200"
+    },
+    {
+        "type": "message",
+        "text": "5 minutes of sketching! An insta-workshop starting in 5 minutes in the main room! Bring :pencil: ! <!channel>",
+        "files": [
+            {
+                "id": "FCEKWBN6M",
+                "created": 1535208187,
+                "timestamp": 1535208187,
+                "name": "Screenshot from 2018-08-25 16-42-21.png",
+                "title": "Screenshot from 2018-08-25 16-42-21.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UBN6K2U3Z",
+                "editable": false,
+                "size": 136966,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCEKWBN6M\/screenshot_from_2018-08-25_16-42-21.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCEKWBN6M\/download\/screenshot_from_2018-08-25_16-42-21.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCEKWBN6M-e7c9fc26cc\/screenshot_from_2018-08-25_16-42-21_64.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCEKWBN6M-e7c9fc26cc\/screenshot_from_2018-08-25_16-42-21_80.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCEKWBN6M-e7c9fc26cc\/screenshot_from_2018-08-25_16-42-21_360.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360_w": 360,
+                "thumb_360_h": 316,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCEKWBN6M-e7c9fc26cc\/screenshot_from_2018-08-25_16-42-21_480.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_480_w": 480,
+                "thumb_480_h": 421,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCEKWBN6M-e7c9fc26cc\/screenshot_from_2018-08-25_16-42-21_160.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCEKWBN6M-e7c9fc26cc\/screenshot_from_2018-08-25_16-42-21_720.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720_w": 720,
+                "thumb_720_h": 631,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCEKWBN6M-e7c9fc26cc\/screenshot_from_2018-08-25_16-42-21_800.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_800_w": 800,
+                "thumb_800_h": 701,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCEKWBN6M-e7c9fc26cc\/screenshot_from_2018-08-25_16-42-21_960.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_960_w": 960,
+                "thumb_960_h": 842,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCEKWBN6M-e7c9fc26cc\/screenshot_from_2018-08-25_16-42-21_1024.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 898,
+                "image_exif_rotation": 1,
+                "original_w": 1046,
+                "original_h": 917,
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UBN6K2U3Z\/FCEKWBN6M\/screenshot_from_2018-08-25_16-42-21.png",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCEKWBN6M-67771ac967"
+            }
+        ],
+        "upload": true,
+        "user": "UBN6K2U3Z",
+        "display_as_bot": false,
+        "ts": "1535208190.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "<https:\/\/commons.wikimedia.org\/wiki\/File:Vincent_Willem_van_Gogh_022.jpg>\n\"For me the drama of a storm in nature, the drama of sorrow in life, is best… Oh, there must be a little bit of air, a little bit of happiness, but chiefly to let the form be felt, to make the lines of the silhouette speak. But let the whole be sombre.\" –Vincent Van Gogh",
+        "client_msg_id": "7bc201c6-e8b6-4c82-9898-cfc4980903a4",
+        "ts": "1535264583.000100",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U5MQK0JM8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

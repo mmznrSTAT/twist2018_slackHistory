@@ -1,0 +1,40 @@
+[
+    {
+        "type": "message",
+        "user": "U9KPPBZ51",
+        "text": "<https:\/\/www.kaggle.com\/rtatman\/machine-learning-with-xgboost-in-r>",
+        "client_msg_id": "23c71087-3647-4c64-ae50-1fda27f9aa5c",
+        "ts": "1535270606.000100"
+    },
+    {
+        "user": "U5BF13UK0",
+        "text": "<@U5BF13UK0> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535270760.000200"
+    },
+    {
+        "type": "message",
+        "user": "U9KPPBZ51",
+        "text": "<https:\/\/www.blog.cultureofinsight.com\/2017\/09\/animated-choropleth-maps-in-r\/>",
+        "client_msg_id": "c2a99d8d-8858-4285-b7a3-46f388ef54e2",
+        "attachments": [
+            {
+                "title": "Animated Maps in R with SF and gganimate",
+                "title_link": "https:\/\/www.blog.cultureofinsight.com\/2017\/09\/animated-choropleth-maps-in-r\/",
+                "text": "Incorporate geo data into a tidy workflow with the simple features package...",
+                "fallback": "Animated Maps in R with SF and gganimate",
+                "image_url": "https:\/\/www.blog.cultureofinsight.com\/img\/wc.gif",
+                "from_url": "https:\/\/www.blog.cultureofinsight.com\/2017\/09\/animated-choropleth-maps-in-r\/",
+                "image_width": 534,
+                "image_height": 250,
+                "image_bytes": 531510,
+                "service_icon": "https:\/\/www.blog.cultureofinsight.com\/img\/favicon.png",
+                "service_name": "blog.cultureofinsight.com",
+                "id": 1,
+                "original_url": "https:\/\/www.blog.cultureofinsight.com\/2017\/09\/animated-choropleth-maps-in-r\/"
+            }
+        ],
+        "ts": "1535270814.000100"
+    }
+]

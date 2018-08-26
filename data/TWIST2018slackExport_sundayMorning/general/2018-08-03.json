@@ -1,0 +1,35 @@
+[
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "new blogpost on our website:\n<https:\/\/www.twist2018.ch\/post\/traffic\/>",
+        "client_msg_id": "e8631447-15e4-464d-bf46-3ca6ae0c79f6",
+        "ts": "1533302863.000055",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5MQK0JM8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UC2CR5BJQ",
+        "text": "<@UC2CR5BJQ> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1533329720.000021",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U5MQK0JM8",
+                    "U59EH5MC1"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

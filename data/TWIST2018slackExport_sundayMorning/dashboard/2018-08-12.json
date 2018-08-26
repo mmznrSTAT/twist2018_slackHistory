@@ -1,0 +1,35 @@
+[
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "hi everyone, happy weekend! only 12 days 21 hours to go :smile: any thoughts about the project dashboard i.e. <https:\/\/dribdat-twist.herokuapp.com\/> ? I'm keen to find out if you also have plans to set up digital signage on site like we did at MakeZürich.. <https:\/\/camo.githubusercontent.com\/2910959fbacc3bede12f0edcab43cecbff96241f\/68747470733a2f2f626c6f672e646174616c6574732e63682f776f726b73686f70732f323031372f647269626461742f494d475f363931305f3830302e4a5047>",
+        "client_msg_id": "9a428631-c932-4882-a1b9-b2ce1ddf8d27",
+        "attachments": [
+            {
+                "title": "Truth WIthin STatistics Hackdays",
+                "title_link": "https:\/\/dribdat-twist.herokuapp.com\/",
+                "text": "As part of the 2018 Swiss Statistics Meeting, hackdays will be held for the first time. Developers, statisticans, designers,...",
+                "fallback": "Truth WIthin STatistics Hackdays",
+                "image_url": "https:\/\/www.twist2018.ch\/images\/TWIST.png",
+                "from_url": "https:\/\/dribdat-twist.herokuapp.com\/",
+                "image_width": 219,
+                "image_height": 250,
+                "image_bytes": 21655,
+                "service_name": "dribdat-twist.herokuapp.com",
+                "id": 1,
+                "original_url": "https:\/\/dribdat-twist.herokuapp.com\/"
+            },
+            {
+                "fallback": "800x533px image",
+                "image_url": "https:\/\/camo.githubusercontent.com\/2910959fbacc3bede12f0edcab43cecbff96241f\/68747470733a2f2f626c6f672e646174616c6574732e63682f776f726b73686f70732f323031372f647269626461742f494d475f363931305f3830302e4a5047",
+                "image_width": 800,
+                "image_height": 533,
+                "image_bytes": 107116,
+                "from_url": "https:\/\/camo.githubusercontent.com\/2910959fbacc3bede12f0edcab43cecbff96241f\/68747470733a2f2f626c6f672e646174616c6574732e63682f776f726b73686f70732f323031372f647269626461742f494d475f363931305f3830302e4a5047",
+                "id": 2,
+                "original_url": "https:\/\/camo.githubusercontent.com\/2910959fbacc3bede12f0edcab43cecbff96241f\/68747470733a2f2f626c6f672e646174616c6574732e63682f776f726b73686f70732f323031372f647269626461742f494d475f363931305f3830302e4a5047"
+            }
+        ],
+        "ts": "1534066315.000013"
+    }
+]

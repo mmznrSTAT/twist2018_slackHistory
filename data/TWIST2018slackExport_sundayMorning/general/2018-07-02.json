@@ -1,0 +1,95 @@
+[
+    {
+        "user": "UBJBQE4NB",
+        "text": "<@UBJBQE4NB> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1530518883.000056"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Hej <@UBJBQE4NB> , welcome at our Channel!",
+        "client_msg_id": "4BA284CB-65F6-4938-88D7-0064E4DF0EAF",
+        "ts": "1530519573.000326",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "UBJBQE4NB",
+                    "U5BF13UK0"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "UBHK0083F",
+        "text": "<@UBHK0083F> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1530537745.000014"
+    },
+    {
+        "type": "message",
+        "user": "UBHK0083F",
+        "text": "Hi everyone!",
+        "client_msg_id": "9905a811-0ee7-4c6e-b461-4a8105471777",
+        "ts": "1530538022.000455",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5BF13UK0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Hi <@UBHK0083F> , welcome!",
+        "client_msg_id": "30292241-4016-4668-9539-4DA724DAADE1",
+        "ts": "1530543906.000404",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U5BF13UK0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UBHF5RBM2",
+        "text": "<@UBHF5RBM2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1530557720.000329",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U5BF13UK0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UBHF5RBM2",
+        "text": "hello :slightly_smiling_face:",
+        "client_msg_id": "53431221-a751-440c-bf70-63bfde734d33",
+        "ts": "1530557756.000034"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Hej <@UBHF5RBM2> , welcome! ",
+        "client_msg_id": "2FB0A621-83F8-4FE4-BD41-A56F0F0BEE7B",
+        "ts": "1530557973.000043"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "type": "message",
+        "user": "UBJBQE4NB",
+        "text": "There was a really cool publication that came out for each Stadt Quartier. I _think_ it was newer than this one from 2015, but I can’t find it online. Or maybe it was just a different layout. Would be fun to get this data as one DB for all city Quartiere! <https:\/\/www.stadt-zuerich.ch\/prd\/de\/index\/statistik\/publikationen-angebote\/publikationen\/Quartierspiegel\/QUARTIER_033.html>",
+        "client_msg_id": "8522E9AB-1B8A-4796-85C4-AD4B4FB367E3",
+        "attachments": [
+            {
+                "title": "Quartierspiegel Friesenberg - Stadt Zürich",
+                "title_link": "https:\/\/www.stadt-zuerich.ch\/prd\/de\/index\/statistik\/publikationen-angebote\/publikationen\/Quartierspiegel\/QUARTIER_033.html",
+                "text": "Als Hochburg des genossenschaftlichen Wohnungsbaus ist Friesenberg ein ausgesprochenes Familienquartier. Entsprechend liegt der Anteil an Kindern und Jugendlichen in keinem Quartier so hoch wie hier. Am Hang des Üetlibergs gelegen, ist es das jüngste Quartier im Kreis 3, flächenmässig das fünftgrösste Stadtquartier und verfügt über die meiste Fläche an Wald. Die Wohnungsmieten sind im städtischen Vergleich moderat. Gemäss Bevölkerungsbefragungen ist in Friesenberg die Zufriedenheit mit der Wohnsituation denn auch besonders hoch.",
+                "fallback": "Quartierspiegel Friesenberg - Stadt Zürich",
+                "from_url": "https:\/\/www.stadt-zuerich.ch\/prd\/de\/index\/statistik\/publikationen-angebote\/publikationen\/Quartierspiegel\/QUARTIER_033.html",
+                "service_icon": "https:\/\/www.stadt-zuerich.ch\/etc\/designs\/stzh\/extensions\/favicon.ico",
+                "service_name": "stadt-zuerich.ch",
+                "id": 1,
+                "original_url": "https:\/\/www.stadt-zuerich.ch\/prd\/de\/index\/statistik\/publikationen-angebote\/publikationen\/Quartierspiegel\/QUARTIER_033.html"
+            }
+        ],
+        "thread_ts": "1531291169.000087",
+        "reply_count": 5,
+        "replies": [
+            {
+                "user": "UBJBQE4NB",
+                "ts": "1531291292.000136"
+            },
+            {
+                "user": "U59EH5MC1",
+                "ts": "1531301105.000269"
+            },
+            {
+                "user": "U59EH5MC1",
+                "ts": "1531301188.000157"
+            },
+            {
+                "user": "U59EH5MC1",
+                "ts": "1531301702.000225"
+            },
+            {
+                "user": "U94B2N1PV",
+                "ts": "1531471714.000266"
+            }
+        ],
+        "unread_count": 5,
+        "ts": "1531291169.000087",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5BF13UK0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UBJBQE4NB",
+        "text": "Similarly, is the DB behind ZüriZahlen open? (I know the data is)",
+        "client_msg_id": "186C059C-D639-4FAA-AD90-A5BD0FAC6C4C",
+        "thread_ts": "1531291169.000087",
+        "parent_user_id": "UBJBQE4NB",
+        "ts": "1531291292.000136",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5BF13UK0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "user": "UCB2MEZNJ",
+        "text": "<@UCB2MEZNJ> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534425571.000200",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "UBN6K2U3Z",
+                    "U59EH5MC1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Welcome <@UCB2MEZNJ> ",
+        "client_msg_id": "1CD8B266-24C1-418A-81E8-9970F9D7BCB7",
+        "ts": "1534434167.000100"
+    }
+]

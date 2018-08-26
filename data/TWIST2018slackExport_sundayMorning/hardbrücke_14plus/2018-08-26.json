@@ -1,0 +1,44 @@
+[
+    {
+        "type": "message",
+        "user": "UBP3398RE",
+        "text": "<@UCB1G2RH7> The data (T_Messfahrten.csv) have an additional vehicle type for Tram 8 not documented in the metadata: \"2.16M-2.21M\". Any idea which vehicle this is?",
+        "client_msg_id": "424e9890-2c0c-48b1-862c-1ce9c8c02fab",
+        "ts": "1535268449.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCB1G2RH7",
+        "text": "I‘ll check it in 5‘, but there is only „Sänfte“ as vehicletype in the line. Due to different IT-systems there is a bit „mess“ in it...",
+        "client_msg_id": "863B581C-6371-40AD-9082-357C2D25A599",
+        "ts": "1535268679.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCB1G2RH7",
+        "text": "Ok, there was an „VBZ Tram 2000 Pony“ (with Trailer) at line 8. to keep it simple -&gt; count it as „Sänfte“. ",
+        "client_msg_id": "E3DF36F4-C7BD-4031-BA8E-7E4807AAF86C",
+        "ts": "1535269407.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBP3398RE",
+        "text": "Super!",
+        "client_msg_id": "6ba45534-aea4-444e-9701-aa0ae998b02f",
+        "ts": "1535269737.000100"
+    },
+    {
+        "user": "UCEQ49RSM",
+        "text": "<@UCEQ49RSM> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535270656.000200"
+    },
+    {
+        "user": "U5BF13UK0",
+        "text": "<@U5BF13UK0> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535270772.000200"
+    }
+]

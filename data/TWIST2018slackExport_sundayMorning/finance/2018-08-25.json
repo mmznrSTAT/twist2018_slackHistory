@@ -1,0 +1,440 @@
+[
+    {
+        "user": "UCF1G8CTV",
+        "text": "<@UCF1G8CTV> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535187558.000200"
+    },
+    {
+        "user": "UCF1G8CTV",
+        "purpose": "City of Zurich- Financial information",
+        "text": "<@UCF1G8CTV> set the channel purpose: City of Zurich- Financial information",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1535187559.000100"
+    },
+    {
+        "user": "UCF1FGDHR",
+        "inviter": "UCF1G8CTV",
+        "text": "<@UCF1FGDHR> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535187559.000300"
+    },
+    {
+        "user": "UCF1FA40K",
+        "inviter": "UCF1G8CTV",
+        "text": "<@UCF1FA40K> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535187559.000500"
+    },
+    {
+        "type": "message",
+        "user": "UCF1G8CTV",
+        "text": "<https:\/\/api.stadt-zuerich.ch\/rpkk-rs\/v1\/departemente>",
+        "client_msg_id": "b54c2ee4-c8ea-499d-93af-a968e7cea2c2",
+        "ts": "1535188878.000100"
+    },
+    {
+        "user": "UCEU6NMJQ",
+        "text": "<@UCEU6NMJQ> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535189976.000200"
+    },
+    {
+        "type": "message",
+        "text": "Some docs. Drag the json file onto <https:\/\/editor.swagger.io\/> to view.",
+        "files": [
+            {
+                "id": "FCF1QLQ3V",
+                "created": 1535190011,
+                "timestamp": 1535190011,
+                "name": "rpkk-rs-swagger.yaml",
+                "title": "rpkk-rs-swagger.yaml",
+                "mimetype": "text\/plain",
+                "filetype": "yaml",
+                "pretty_type": "YAML",
+                "user": "UCEU6NMJQ",
+                "editable": true,
+                "size": 15219,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF1QLQ3V\/rpkk-rs-swagger.yaml?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF1QLQ3V\/download\/rpkk-rs-swagger.yaml?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UCEU6NMJQ\/FCF1QLQ3V\/rpkk-rs-swagger.yaml",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCF1QLQ3V-5c10f72dd9",
+                "edit_link": "https:\/\/twist2018.slack.com\/files\/UCEU6NMJQ\/FCF1QLQ3V\/rpkk-rs-swagger.yaml\/edit",
+                "preview": "\n{\n    \"swagger\":\"2.0\",\n    \"info\":{\n        \"version\":\"0.1-SNAPSHOT\",",
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre><span class=\"cm-meta\">{<\/span><\/pre><\/div>\n<div><pre>    <span class=\"cm-string\">&quot;swagger&quot;<\/span>:<span class=\"cm-string\">&quot;2.0&quot;<\/span><span class=\"cm-meta\">,<\/span><\/pre><\/div>\n<div><pre>    <span class=\"cm-string\">&quot;info&quot;<\/span>:<span class=\"cm-meta\">{<\/span><\/pre><\/div>\n<div><pre>        <span class=\"cm-string\">&quot;version&quot;<\/span>:<span class=\"cm-string\">&quot;0.1-SNAPSHOT&quot;<\/span><span class=\"cm-meta\">,<\/span><\/pre><\/div>\n<\/div>\n<\/div>\n",
+                "lines": 517,
+                "lines_more": 512,
+                "preview_is_truncated": true
+            }
+        ],
+        "upload": true,
+        "user": "UCEU6NMJQ",
+        "display_as_bot": false,
+        "edited": {
+            "user": "UCEU6NMJQ",
+            "ts": "1535190024.000000"
+        },
+        "ts": "1535190012.000100"
+    },
+    {
+        "user": "UBN6K2U3Z",
+        "text": "<@UBN6K2U3Z> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535191123.000200"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "<https:\/\/twitter.com\/TWIST2018\/status\/1033281688896503808>",
+        "client_msg_id": "398f9874-0b69-4498-aa71-96d7842198e0",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/TWIST2018|@TWIST2018>: Team working on #OpenSpending and financial Data #TWIST2018 <https:\/\/pbs.twimg.com\/media\/Dlb0KXwX4AA44Mi.jpg>",
+                "ts": 1535188526,
+                "author_name": "TWIST2018",
+                "author_link": "https:\/\/twitter.com\/TWIST2018\/status\/1033281688896503808",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/969598770450239488\/1AiVuYeg_normal.jpg",
+                "author_subname": "@TWIST2018",
+                "text": "Team working on #OpenSpending and financial Data #TWIST2018 <https:\/\/pbs.twimg.com\/media\/Dlb0KXwX4AA44Mi.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/TWIST2018\/status\/1033281688896503808",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/Dlb0KXwX4AA44Mi.jpg",
+                "image_width": 1200,
+                "image_height": 900,
+                "image_bytes": 142667,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/TWIST2018\/status\/1033281688896503808",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "ts": "1535191138.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "You mentioned #OpenSpending so here I am :wink:",
+        "client_msg_id": "fbe1fd8f-0c7d-436b-bfe7-d9b463dc6021",
+        "ts": "1535191144.000200"
+    },
+    {
+        "type": "message",
+        "user": "UCF1FGDHR",
+        "text": "raw.result&lt;-GET(url=url,add_headers(\"api-key\"=key))\nraw.result\n\nnames(raw.result)\nthis.raw.content &lt;- rawToChar(raw.result$content)\nthis.content &lt;- fromJSON(this.raw.content)\n\ndf&lt;-this.content[[1]]\nhead(df)",
+        "client_msg_id": "25a55416-10de-4200-8d25-839d8374d3f7",
+        "ts": "1535191381.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCF1FGDHR",
+        "text": "library(httr)\nlibrary(jsonlite)\nlibrary(lubridate)\noptions(stringsAsFactors = FALSE)\n\n\n\nkey &lt;- \"vopVcmhIMkeUCf8gQjk1GgU2wK+fKihAdlCl0WKJ\"\nurl&lt;-\"<https:\/\/api.stadt-zuerich.ch\/rpkk-rs\/v1\/departemente>\"\nurl&lt;-\"<https:\/\/api.stadt-zuerich.ch\/rpkk-rs\/v1\/institutionen>\"\nurl&lt;-\"<https:\/\/api.stadt-zuerich.ch\/rpkk-rs\/v1\/konten>\"\n\n\ndf&lt;-temp_df[1,]\ndf&lt;-df[-1,]\nexit&lt;-FALSE\ni&lt;-1\nwhile(exit==FALSE){\n    url&lt;-paste0(\"<https:\/\/api.stadt-zuerich.ch\/rpkk-rs\/v1\/rechnungsbuch?jahr=2014&amp;orgKey=>\",i)\n\n    raw.result&lt;-GET(url=url,add_headers(\"api-key\"=key))\n    if(raw.result$status==200){\n        print(paste0(i,\"success\"))\n        this.raw.content &lt;- rawToChar(raw.result$content)\n        this.content &lt;- fromJSON(this.raw.content)\n\n        temp_df&lt;-this.content[[1]]\n        df&lt;-rbind(df,temp_df)\n\n        }else{print(paste0(i,\"failure\"))}\n\n    if(i==50){exit&lt;-TRUE}\n    i&lt;-i+1\n}\n\n\n\n\n\nhead(df)",
+        "client_msg_id": "0b7c1451-46c6-4043-b51d-b661525ed8a2",
+        "ts": "1535194582.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCF1FGDHR",
+        "text": "library(httr)\nlibrary(jsonlite)\nlibrary(lubridate)\nlibrary(plyr)\noptions(stringsAsFactors = FALSE)\n\nsetwd(\"\/home\/z01\/proj\/twist2018-finance\")\n\nkey &lt;- \"vopVcmhIMkeUCf8gQjk1GgU2wK+fKihAdlCl0WKJ\"\n\n\ndf&lt;-temp_df[1,]\ndf&lt;-df[-1,]\nfor(i in 2017:2012){\n    print(i)\n    url&lt;-paste0(\"<https:\/\/api.stadt-zuerich.ch\/rpkk-rs\/v1\/rechnungsbuch?orgKey=1&amp;jahr=>\",i)\n\n    raw.result&lt;-GET(url=url,add_headers(\"api-key\"=key))\n        this.raw.content &lt;- rawToChar(raw.result$content)\n        this.content &lt;- fromJSON(this.raw.content)\n\n        temp_df&lt;-this.content[[1]]\n        temp_df$jahr&lt;-i\n    df&lt;-rbind(df,temp_df)\n\n}\n\nhead(df)\n\n\n#write.csv2(temp_df,\"2014.csv\",row.names=FALSE)\nwrite_json(df,\"all.json\")",
+        "client_msg_id": "1e487a0d-2890-4286-9bc1-99c7f1b01ecb",
+        "ts": "1535195924.000100"
+    },
+    {
+        "type": "message",
+        "text": "a",
+        "files": [
+            {
+                "id": "FCF67A1DY",
+                "created": 1535198018,
+                "timestamp": 1535198018,
+                "name": "except2012.csv",
+                "title": "except2012.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "UCF1FGDHR",
+                "editable": false,
+                "size": 4761952,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF67A1DY\/except2012.csv?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF67A1DY\/download\/except2012.csv?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UCF1FGDHR\/FCF67A1DY\/except2012.csv",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCF67A1DY-e424ce1cd4"
+            }
+        ],
+        "upload": true,
+        "user": "UCF1FGDHR",
+        "display_as_bot": false,
+        "ts": "1535198019.000100"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FCGG8CKNJ",
+                "created": 1535198165,
+                "timestamp": 1535198165,
+                "name": "all_data.csv",
+                "title": "all_data.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "UCF1FGDHR",
+                "editable": false,
+                "size": 5602716,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCGG8CKNJ\/all_data.csv?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCGG8CKNJ\/download\/all_data.csv?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UCF1FGDHR\/FCGG8CKNJ\/all_data.csv",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCGG8CKNJ-1dbb47368a"
+            }
+        ],
+        "upload": true,
+        "user": "UCF1FGDHR",
+        "display_as_bot": false,
+        "ts": "1535198167.000100"
+    },
+    {
+        "type": "message",
+        "text": "2012 to 2018",
+        "files": [
+            {
+                "id": "FCEESJW2U",
+                "created": 1535201367,
+                "timestamp": 1535201367,
+                "name": "budget.json",
+                "title": "budget.json",
+                "mimetype": "text\/plain",
+                "filetype": "javascript",
+                "pretty_type": "JavaScript\/JSON",
+                "user": "UCEU6NMJQ",
+                "editable": false,
+                "size": 19025926,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCEESJW2U\/budget.json?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCEESJW2U\/download\/budget.json?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UCEU6NMJQ\/FCEESJW2U\/budget.json",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCEESJW2U-10b51081a8"
+            }
+        ],
+        "upload": true,
+        "user": "UCEU6NMJQ",
+        "display_as_bot": false,
+        "ts": "1535201370.000100"
+    },
+    {
+        "type": "message",
+        "text": "2012 to 2017",
+        "files": [
+            {
+                "id": "FCG7N0Y07",
+                "created": 1535201390,
+                "timestamp": 1535201390,
+                "name": "rechnung.json",
+                "title": "rechnung.json",
+                "mimetype": "text\/plain",
+                "filetype": "javascript",
+                "pretty_type": "JavaScript\/JSON",
+                "user": "UCEU6NMJQ",
+                "editable": false,
+                "size": 17608085,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCG7N0Y07\/rechnung.json?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCG7N0Y07\/download\/rechnung.json?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UCEU6NMJQ\/FCG7N0Y07\/rechnung.json",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCG7N0Y07-90b79b2293"
+            }
+        ],
+        "upload": true,
+        "user": "UCEU6NMJQ",
+        "display_as_bot": false,
+        "ts": "1535201392.000100"
+    },
+    {
+        "type": "message",
+        "text": "Max out our storage this weekend for a special challenge :wink:",
+        "files": [
+            {
+                "id": "FCF2TTJRH",
+                "created": 1535201534,
+                "timestamp": 1535201534,
+                "name": "Screenshot from 2018-08-25 14-51-18.png",
+                "title": "Screenshot from 2018-08-25 14-51-18.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UBN6K2U3Z",
+                "editable": false,
+                "size": 12701,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF2TTJRH\/screenshot_from_2018-08-25_14-51-18.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF2TTJRH\/download\/screenshot_from_2018-08-25_14-51-18.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF2TTJRH-0764f5d800\/screenshot_from_2018-08-25_14-51-18_64.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF2TTJRH-0764f5d800\/screenshot_from_2018-08-25_14-51-18_80.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF2TTJRH-0764f5d800\/screenshot_from_2018-08-25_14-51-18_360.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360_w": 319,
+                "thumb_360_h": 248,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF2TTJRH-0764f5d800\/screenshot_from_2018-08-25_14-51-18_160.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "image_exif_rotation": 1,
+                "original_w": 319,
+                "original_h": 248,
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UBN6K2U3Z\/FCF2TTJRH\/screenshot_from_2018-08-25_14-51-18.png",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCF2TTJRH-c746116579"
+            }
+        ],
+        "upload": true,
+        "user": "UBN6K2U3Z",
+        "display_as_bot": false,
+        "edited": {
+            "user": "UBN6K2U3Z",
+            "ts": "1535201877.000000"
+        },
+        "ts": "1535201536.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCEU6NMJQ",
+        "text": "My crawl scripts:\n<https:\/\/github.com\/tpreusse\/rpk-api-crawler>",
+        "client_msg_id": "a2b3c318-152f-4b86-9261-7c8c24889cf0",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "tpreusse\/rpk-api-crawler",
+                "title_link": "https:\/\/github.com\/tpreusse\/rpk-api-crawler",
+                "text": "rpk-api-crawler - A crawler written at <http:\/\/Twist2018.ch|Twist2018.ch>",
+                "fallback": "GitHub: tpreusse\/rpk-api-crawler",
+                "from_url": "https:\/\/github.com\/tpreusse\/rpk-api-crawler",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/410211?s=400&v=4",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/tpreusse\/rpk-api-crawler"
+            }
+        ],
+        "ts": "1535203164.000100",
+        "reactions": [
+            {
+                "name": "rocket",
+                "users": [
+                    "UBN6K2U3Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "It took me 50 and not 5 minutes, but here's all_data in OpenSpending\n<https:\/\/openspending.org\/viewer\/9250c77568f743a0308555f13c47735d:makeopendata-budget-ch-stadt-zurich>",
+        "client_msg_id": "d593645f-f5b6-4c1b-bd54-d9b631989dd1",
+        "attachments": [
+            {
+                "title": "City of Zürich Budget #TWIST2018",
+                "title_link": "https:\/\/openspending.org\/viewer\/9250c77568f743a0308555f13c47735d:makeopendata-budget-ch-stadt-zurich",
+                "text": "This is not an official Data Package. It is uploaded for test purposes during the <http:\/\/TWIST2018.ch|TWIST2018.ch> hackathon.",
+                "fallback": "City of Zürich Budget #TWIST2018",
+                "from_url": "https:\/\/openspending.org\/viewer\/9250c77568f743a0308555f13c47735d:makeopendata-budget-ch-stadt-zurich",
+                "service_name": "openspending.org",
+                "id": 1,
+                "original_url": "https:\/\/openspending.org\/viewer\/9250c77568f743a0308555f13c47735d:makeopendata-budget-ch-stadt-zurich"
+            }
+        ],
+        "ts": "1535203547.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCEU6NMJQ",
+        "text": "<@UBN6K2U3Z>? Links doesn't work for me",
+        "client_msg_id": "60c8ff7f-0714-4a3e-990a-d5d6f55557ea",
+        "ts": "1535204004.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "Sorry, just realised I had to click \"Publish\" to make it public. But something in the Data Package is crashing the client anyway.",
+        "client_msg_id": "4c1a05ed-92dd-4f47-b011-95ac37eab6b5",
+        "ts": "1535204036.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "<https:\/\/github.com\/openspending\/openspending\/issues\/1386>",
+        "client_msg_id": "b55fe3d3-b22f-4f15-af96-48f9f8008cae",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Viewer crashes with state undefined · Issue #1386 · openspending\/openspending",
+                "title_link": "https:\/\/github.com\/openspending\/openspending\/issues\/1386",
+                "text": "Tested with Chrome &amp; Firefox on Linux. The interface &amp;quot;blinks&amp;quot; then the loader is stuck forever. Package link. Console log: TypeError columnNumber: 22 fileName: &amp;quot;https:\/\/openspend...",
+                "fallback": "GitHub: Viewer crashes with state undefined · Issue #1386 · openspending\/openspending",
+                "from_url": "https:\/\/github.com\/openspending\/openspending\/issues\/1386",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/31819?s=400&v=4",
+                "thumb_width": 236,
+                "thumb_height": 236,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/openspending\/openspending\/issues\/1386"
+            }
+        ],
+        "ts": "1535205233.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCEU6NMJQ",
+        "text": "Contact for Reto and Thomas from the city:\n<mailto:Reto.Hirt@zuerich.ch|Reto.Hirt@zuerich.ch>\n<mailto:Thomas.Kuoni@zuerich.ch|Thomas.Kuoni@zuerich.ch>",
+        "client_msg_id": "911cc94f-ba28-46e5-b1dc-2e9a7934a576",
+        "ts": "1535214110.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCEU6NMJQ",
+        "text": "I wrote them re tax accounts",
+        "client_msg_id": "e39d42ec-45a9-4d25-b67c-9716b27850aa",
+        "ts": "1535214125.000100"
+    }
+]

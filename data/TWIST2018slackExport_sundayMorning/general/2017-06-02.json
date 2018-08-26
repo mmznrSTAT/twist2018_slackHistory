@@ -1,0 +1,21 @@
+[
+    {
+        "user": "U5MQK0JM8",
+        "text": "<@U5MQK0JM8> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1496410528.150981"
+    },
+    {
+        "type": "message",
+        "user": "U5MQK0JM8",
+        "text": "hi! thanks <@U59EH5MC1> for inviting me!",
+        "ts": "1496410620.179572"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Hej <@U5MQK0JM8> !! Welcome to our Slack-Channel!",
+        "ts": "1496412956.957857"
+    }
+]

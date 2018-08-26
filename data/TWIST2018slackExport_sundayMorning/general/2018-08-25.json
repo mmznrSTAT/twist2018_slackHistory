@@ -1,0 +1,760 @@
+[
+    {
+        "user": "UCEHM29TK",
+        "text": "<@UCEHM29TK> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535182633.000200"
+    },
+    {
+        "user": "UCEHR99MX",
+        "text": "<@UCEHR99MX> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535184612.000200"
+    },
+    {
+        "user": "UCEDBAQFJ",
+        "text": "<@UCEDBAQFJ> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535186050.000200"
+    },
+    {
+        "user": "UCGF77KHU",
+        "text": "<@UCGF77KHU> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535187044.000200"
+    },
+    {
+        "user": "UCF1FA40K",
+        "text": "<@UCF1FA40K> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535187064.000200"
+    },
+    {
+        "user": "UCF1FGDHR",
+        "text": "<@UCF1FGDHR> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535187135.000200"
+    },
+    {
+        "user": "UCF1G8CTV",
+        "text": "<@UCF1G8CTV> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535187354.000200"
+    },
+    {
+        "user": "UCF57K37U",
+        "text": "<@UCF57K37U> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535187355.000200"
+    },
+    {
+        "user": "UCETZ15C4",
+        "text": "<@UCETZ15C4> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535187451.000200"
+    },
+    {
+        "user": "UCF9M84UD",
+        "text": "<@UCF9M84UD> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535187796.000200"
+    },
+    {
+        "user": "UCEDH9UQ0",
+        "text": "<@UCEDH9UQ0> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535187849.000200"
+    },
+    {
+        "user": "UCEU0NLR2",
+        "text": "<@UCEU0NLR2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535187965.000200"
+    },
+    {
+        "user": "UCEU12W4U",
+        "text": "<@UCEU12W4U> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535188071.000200"
+    },
+    {
+        "user": "UCEDJHMEC",
+        "text": "<@UCEDJHMEC> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535188246.000200"
+    },
+    {
+        "user": "UCEU6NMJQ",
+        "text": "<@UCEU6NMJQ> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535189890.000200"
+    },
+    {
+        "user": "UCEU83HNY",
+        "text": "<@UCEU83HNY> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535190320.000200"
+    },
+    {
+        "type": "message",
+        "user": "UBJBQE4NB",
+        "text": "I've taken up challenge 4 : \"Historical Archive of Popular Votes in Kanton Zürich\".  I am downloading 100+ years of text from initiatives and referendums and would like to do some text mining and analysis. If you are looking for a project, find me by the window. I need help!\n<http:\/\/hack.twist2018.ch\/project\/15>",
+        "client_msg_id": "8a66f31f-3e61-4e61-8d9c-268598454137",
+        "edited": {
+            "user": "UBJBQE4NB",
+            "ts": "1535193024.000000"
+        },
+        "thread_ts": "1535193009.000100",
+        "reply_count": 8,
+        "replies": [
+            {
+                "user": "UCF1FGDHR",
+                "ts": "1535196007.000100"
+            },
+            {
+                "user": "UCF1FGDHR",
+                "ts": "1535196033.000100"
+            },
+            {
+                "user": "U59EH5MC1",
+                "ts": "1535196277.000100"
+            },
+            {
+                "user": "UBJBQE4NB",
+                "ts": "1535196288.000100"
+            },
+            {
+                "user": "UBJBQE4NB",
+                "ts": "1535196329.000100"
+            },
+            {
+                "user": "UCF1FGDHR",
+                "ts": "1535208619.000100"
+            },
+            {
+                "user": "UBJBQE4NB",
+                "ts": "1535209831.000100"
+            },
+            {
+                "user": "UCF1FGDHR",
+                "ts": "1535210556.000100"
+            }
+        ],
+        "unread_count": 8,
+        "ts": "1535193009.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "<!channel> more food is comming",
+        "client_msg_id": "bce6a121-0151-4e31-939f-7b6808e48afe",
+        "ts": "1535195925.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "any wishes?",
+        "client_msg_id": "8a47b32e-6522-4e91-9877-ddeca277cdaf",
+        "thread_ts": "1535195931.000100",
+        "reply_count": 2,
+        "replies": [
+            {
+                "user": "UBKBDPPJQ",
+                "ts": "1535196011.000100"
+            },
+            {
+                "user": "U5MQK0JM8",
+                "ts": "1535196635.000100"
+            }
+        ],
+        "unread_count": 2,
+        "ts": "1535195931.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCF1FGDHR",
+        "text": "Hey there, what kind of text do you have? The titles of the initiatives and referendums?",
+        "client_msg_id": "eef2bfb0-a253-4505-928e-a1cff763b18e",
+        "thread_ts": "1535193009.000100",
+        "parent_user_id": "UBJBQE4NB",
+        "ts": "1535196007.000100"
+    },
+    {
+        "text": "Dessert? Yogurt? More fruit? :nerd_face:",
+        "client_msg_id": "79173699-bcad-47f5-9e84-3543023bc4bd",
+        "thread_ts": "1535195931.000100",
+        "is_thread_broadcast": true,
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "user": "UBKBDPPJQ",
+        "root": {
+            "type": "message",
+            "user": "U5BF13UK0",
+            "text": "any wishes?",
+            "client_msg_id": "8a47b32e-6522-4e91-9877-ddeca277cdaf",
+            "thread_ts": "1535195931.000100",
+            "reply_count": 2,
+            "replies": [
+                {
+                    "user": "UBKBDPPJQ",
+                    "ts": "1535196011.000100"
+                },
+                {
+                    "user": "U5MQK0JM8",
+                    "ts": "1535196635.000100"
+                }
+            ],
+            "unread_count": 2,
+            "ts": "1535195931.000100"
+        },
+        "ts": "1535196011.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCF1FGDHR",
+        "text": "Is there anything else?",
+        "client_msg_id": "3da1a993-94c8-4b27-9440-39166c846cba",
+        "thread_ts": "1535193009.000100",
+        "parent_user_id": "UBJBQE4NB",
+        "ts": "1535196033.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "perfect, thx  <@UBKBDPPJQ>",
+        "client_msg_id": "21740955-6f8f-4025-a75e-9cce6f52427d",
+        "ts": "1535196068.000100"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "<@UBJBQE4NB> where are u?",
+        "client_msg_id": "F1BF85CD-787E-40FB-819B-6D76B0DF298E",
+        "thread_ts": "1535193009.000100",
+        "parent_user_id": "UBJBQE4NB",
+        "ts": "1535196277.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBJBQE4NB",
+        "text": "main room",
+        "client_msg_id": "71a6ca33-2c41-476f-9a60-c6d7c5cced53",
+        "thread_ts": "1535193009.000100",
+        "parent_user_id": "UBJBQE4NB",
+        "ts": "1535196288.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBJBQE4NB",
+        "text": "full referendum\/initiative text in PDFs, linked to statistical data like Ja\/Nein, gemeinde, etc",
+        "client_msg_id": "90c15272-f9e4-4e48-9107-8b4c8f660ed7",
+        "edited": {
+            "user": "UBJBQE4NB",
+            "ts": "1535196420.000000"
+        },
+        "thread_ts": "1535193009.000100",
+        "parent_user_id": "UBJBQE4NB",
+        "ts": "1535196329.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5MQK0JM8",
+        "text": "Chocolate :chocolate_bar:",
+        "client_msg_id": "f1fa470d-72cb-4151-81b5-db086046abf6",
+        "thread_ts": "1535195931.000100",
+        "parent_user_id": "U5BF13UK0",
+        "ts": "1535196635.000100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UC874LSM9",
+                    "UBHF5RBM2"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "food is here :broccoli: if you are hungry, come to the main room :slightly_smiling_face:",
+        "client_msg_id": "5f14197d-2041-4ea0-9917-d3d1ee211150",
+        "ts": "1535198727.000100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5Q5EMNGY",
+                    "U59EH5MC1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FCF6B6FJN",
+                "created": 1535199145,
+                "timestamp": 1535199145,
+                "name": "IMG_20180825_140934_resized_20180825_021000447.jpg",
+                "title": "IMG_20180825_140934_resized_20180825_021000447.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U68A32TMK",
+                "editable": false,
+                "size": 798260,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF6B6FJN\/img_20180825_140934_resized_20180825_021000447.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF6B6FJN\/download\/img_20180825_140934_resized_20180825_021000447.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF6B6FJN-31b2891987\/img_20180825_140934_resized_20180825_021000447_64.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF6B6FJN-31b2891987\/img_20180825_140934_resized_20180825_021000447_80.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF6B6FJN-31b2891987\/img_20180825_140934_resized_20180825_021000447_360.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF6B6FJN-31b2891987\/img_20180825_140934_resized_20180825_021000447_480.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_480_w": 480,
+                "thumb_480_h": 271,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF6B6FJN-31b2891987\/img_20180825_140934_resized_20180825_021000447_160.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF6B6FJN-31b2891987\/img_20180825_140934_resized_20180825_021000447_720.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720_w": 720,
+                "thumb_720_h": 406,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF6B6FJN-31b2891987\/img_20180825_140934_resized_20180825_021000447_800.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_800_w": 800,
+                "thumb_800_h": 451,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF6B6FJN-31b2891987\/img_20180825_140934_resized_20180825_021000447_960.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_960_w": 960,
+                "thumb_960_h": 541,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF6B6FJN-31b2891987\/img_20180825_140934_resized_20180825_021000447_1024.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 577,
+                "image_exif_rotation": 1,
+                "original_w": 2448,
+                "original_h": 1380,
+                "permalink": "https:\/\/twist2018.slack.com\/files\/U68A32TMK\/FCF6B6FJN\/img_20180825_140934_resized_20180825_021000447.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCF6B6FJN-d460dabc71"
+            }
+        ],
+        "upload": true,
+        "user": "U68A32TMK",
+        "display_as_bot": false,
+        "ts": "1535199150.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "<!channel> 30min until quick status update by all teams in the main Room!",
+        "client_msg_id": "ac5a2cac-6fae-4ea1-89ad-6c9beadb2262",
+        "ts": "1535203959.000100",
+        "reactions": [
+            {
+                "name": "alarm_clock",
+                "users": [
+                    "UBN6K2U3Z",
+                    "UCEDBAQFJ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "rocket",
+                "users": [
+                    "U5MQK0JM8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "We’ll meet again at 4 pm in KO2 F152. Looking forward to your team status updates!",
+        "files": [
+            {
+                "id": "FCG7W8CNB",
+                "created": 1535203993,
+                "timestamp": 1535203993,
+                "name": "1_Minute_Time_Out.pdf",
+                "title": "1_Minute_Time_Out.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U5QMS8L1Y",
+                "editable": false,
+                "size": 101280,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCG7W8CNB\/1_minute_time_out.pdf?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCG7W8CNB\/download\/1_minute_time_out.pdf?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG7W8CNB-f69035763d\/1_minute_time_out_thumb_pdf.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_pdf_w": 1100,
+                "thumb_pdf_h": 619,
+                "permalink": "https:\/\/twist2018.slack.com\/files\/U5QMS8L1Y\/FCG7W8CNB\/1_minute_time_out.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCG7W8CNB-59da695b7b"
+            }
+        ],
+        "upload": true,
+        "user": "U5QMS8L1Y",
+        "display_as_bot": false,
+        "ts": "1535203994.000100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5MQK0JM8",
+                    "UBN6K2U3Z"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": ":wink:",
+        "client_msg_id": "09e58836-51eb-4367-8fa2-39fed8db2aee",
+        "ts": "1535204669.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "Just kidding. Put your hand up! :hand:",
+        "client_msg_id": "147ead90-ddac-4f65-ba5a-0828472e0277",
+        "ts": "1535206729.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBKBDPPJQ",
+        "text": "I hope that the <#CCEDDLFFS|hardbrücke_14plus> will use this song for their final presentation: <https:\/\/www.youtube.com\/watch?v=GqWUjNKhXSk>",
+        "client_msg_id": "8a9a0c73-e60c-441a-9ed9-5e5c28defbeb",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Choo Choo ( The SBB Song)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=GqWUjNKhXSk",
+                "author_name": "Brandy Butler",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCWUbP-OVF-C3arQBjxS2LhQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/GqWUjNKhXSk\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Choo Choo ( The SBB Song)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/GqWUjNKhXSk?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=GqWUjNKhXSk",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=GqWUjNKhXSk"
+            }
+        ],
+        "ts": "1535207106.000100",
+        "reactions": [
+            {
+                "name": "smiley",
+                "users": [
+                    "U5BF13UK0",
+                    "U5MQK0JM8",
+                    "U59EH5MC1",
+                    "UBN6K2U3Z"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U5BF13UK0",
+                    "U59EH5MC1",
+                    "UCEDBAQFJ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "top",
+                "users": [
+                    "U5QMS8L1Y",
+                    "U59EH5MC1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UCEU6NMJQ",
+        "text": "Any accountant in the building?",
+        "client_msg_id": "51e51d2b-7661-4074-bd6c-0c0e82eaeabc",
+        "ts": "1535208608.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCF1FGDHR",
+        "text": "Philip I am also working right now with text data but I am not an expert on it. Right now we have a word cloud and some minor things",
+        "client_msg_id": "56427eb6-711b-4242-9192-a142e1ddf071",
+        "thread_ts": "1535193009.000100",
+        "parent_user_id": "UBJBQE4NB",
+        "ts": "1535208619.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "<!channel>: cjildren are gone, playarea now open for adults. take your time to make a puzzle!",
+        "client_msg_id": "8754d31e-a0ab-4461-8857-f491f7af48c7",
+        "ts": "1535209740.000100",
+        "reactions": [
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U5MQK0JM8",
+                    "UBN6K2U3Z"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "(sorry for the typo)",
+        "client_msg_id": "fd38e6ae-8292-488a-bfca-292b0b484948",
+        "ts": "1535209755.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "and another big announcement:",
+        "client_msg_id": "070f54c0-153e-44b3-b4d1-0265e4dc9468",
+        "ts": "1535209765.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "<!channel>: Pizza will arrive at 18.15 and soon there is beer and wine :slightly_smiling_face:",
+        "client_msg_id": "3347568b-fe3f-4e10-af26-d76e70c8819f",
+        "ts": "1535209825.000100",
+        "reactions": [
+            {
+                "name": "pizza",
+                "users": [
+                    "UBJBQE4NB",
+                    "UBN6K2U3Z",
+                    "UBHF5RBM2"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UBJBQE4NB",
+        "text": "where are you? I'll come say hi",
+        "client_msg_id": "7ab330f1-1102-4bd9-928f-40ad223bec35",
+        "thread_ts": "1535193009.000100",
+        "parent_user_id": "UBJBQE4NB",
+        "ts": "1535209831.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCF1FGDHR",
+        "text": "Im, in the room on the left when going out the main room",
+        "client_msg_id": "62f209b3-b7f5-4074-bb85-c649632c50b5",
+        "thread_ts": "1535193009.000100",
+        "parent_user_id": "UBJBQE4NB",
+        "ts": "1535210556.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Did you see <@UCEU6NMJQ> and team financial data: from <@U5A5NA4U8>: Herve Flutto in the room at the end of the hallway could maybe help",
+        "client_msg_id": "45D707FE-AE2F-4D31-B913-E8E3382F1937",
+        "ts": "1535217436.000100"
+    },
+    {
+        "type": "message",
+        "user": "U9KPPBZ51",
+        "text": "<@UCEDH9UQ0> <https:\/\/map.geo.admin.ch\/?lang=de&amp;topic=ech&amp;bgLayer=ch.swisstopo.pixelkarte-farbe&amp;layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,ch.bafu.laerm-strassenlaerm_tag&amp;layers_visibility=false,false,false,false,true&amp;layers_timestamp=18641231,,,,&amp;layers_opacity=1,1,1,1,0.75&amp;E=2684177.86&amp;N=1248003.91&amp;zoom=6>",
+        "client_msg_id": "b4f2d500-db18-4f7f-b235-497307433e69",
+        "attachments": [
+            {
+                "service_name": "geo.admin.ch",
+                "title": "Swiss Geoportal",
+                "title_link": "https:\/\/map.geo.admin.ch\/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,ch.bafu.laerm-strassenlaerm_tag&layers_visibility=false,false,false,false,true&layers_timestamp=18641231,,,,&layers_opacity=1,1,1,1,0.75&E=2684177.86&N=1248003.91&zoom=6",
+                "text": "<http:\/\/geo.admin.ch|geo.admin.ch> ist die Geoinformationsplattform der Schweizerischen Eidgenossenschaft. \/\/ <http:\/\/geo.admin.ch|geo.admin.ch> est la plateforme de géoinformation de la Confédération suisse.",
+                "fallback": "geo.admin.ch: Swiss Geoportal",
+                "thumb_url": "https:\/\/cms.geo.admin.ch\/img\/logo_geoportal.png",
+                "from_url": "https:\/\/map.geo.admin.ch\/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,ch.bafu.laerm-strassenlaerm_tag&layers_visibility=false,false,false,false,true&layers_timestamp=18641231,,,,&layers_opacity=1,1,1,1,0.75&E=2684177.86&N=1248003.91&zoom=6",
+                "thumb_width": 100,
+                "thumb_height": 100,
+                "service_icon": "https:\/\/map.geo.admin.ch\/master\/e9c53df\/1807181420\/1807181420\/img\/touch-icon-bund-76x76.png",
+                "id": 1,
+                "original_url": "https:\/\/map.geo.admin.ch\/?lang=de&amp;topic=ech&amp;bgLayer=ch.swisstopo.pixelkarte-farbe&amp;layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,ch.bafu.laerm-strassenlaerm_tag&amp;layers_visibility=false,false,false,false,true&amp;layers_timestamp=18641231,,,,&amp;layers_opacity=1,1,1,1,0.75&amp;E=2684177.86&amp;N=1248003.91&amp;zoom=6"
+            }
+        ],
+        "ts": "1535220916.000100"
+    },
+    {
+        "type": "message",
+        "user": "U9KPPBZ51",
+        "text": "<@UCEDH9UQ0> <https:\/\/map.geo.admin.ch\/?lang=de&amp;topic=ech&amp;bgLayer=ch.swisstopo.pixelkarte-farbe&amp;layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,ch.bafu.laerm-strassenlaerm_tag,ch.astra.strassenverkehrszaehlung_messstellen-regional_lokal&amp;layers_visibility=false,false,false,false,true,true&amp;layers_timestamp=18641231,,,,,&amp;layers_opacity=1,1,1,1,0.75,1&amp;E=2680837.86&amp;N=1248488.91&amp;zoom=6>",
+        "client_msg_id": "7f78efde-adfe-4fb8-9d67-d858d2bb9524",
+        "attachments": [
+            {
+                "service_name": "geo.admin.ch",
+                "title": "Swiss Geoportal",
+                "title_link": "https:\/\/map.geo.admin.ch\/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,ch.bafu.laerm-strassenlaerm_tag,ch.astra.strassenverkehrszaehlung_messstellen-regional_lokal&layers_visibility=false,false,false,false,true,true&layers_timestamp=18641231,,,,,&layers_opacity=1,1,1,1,0.75,1&E=2680837.86&N=1248488.91&zoom=6",
+                "text": "<http:\/\/geo.admin.ch|geo.admin.ch> ist die Geoinformationsplattform der Schweizerischen Eidgenossenschaft. \/\/ <http:\/\/geo.admin.ch|geo.admin.ch> est la plateforme de géoinformation de la Confédération suisse.",
+                "fallback": "geo.admin.ch: Swiss Geoportal",
+                "thumb_url": "https:\/\/cms.geo.admin.ch\/img\/logo_geoportal.png",
+                "from_url": "https:\/\/map.geo.admin.ch\/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,ch.bafu.laerm-strassenlaerm_tag,ch.astra.strassenverkehrszaehlung_messstellen-regional_lokal&layers_visibility=false,false,false,false,true,true&layers_timestamp=18641231,,,,,&layers_opacity=1,1,1,1,0.75,1&E=2680837.86&N=1248488.91&zoom=6",
+                "thumb_width": 100,
+                "thumb_height": 100,
+                "service_icon": "https:\/\/map.geo.admin.ch\/master\/e9c53df\/1807181420\/1807181420\/img\/touch-icon-bund-76x76.png",
+                "id": 1,
+                "original_url": "https:\/\/map.geo.admin.ch\/?lang=de&amp;topic=ech&amp;bgLayer=ch.swisstopo.pixelkarte-farbe&amp;layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,ch.bafu.laerm-strassenlaerm_tag,ch.astra.strassenverkehrszaehlung_messstellen-regional_lokal&amp;layers_visibility=false,false,false,false,true,true&amp;layers_timestamp=18641231,,,,,&amp;layers_opacity=1,1,1,1,0.75,1&amp;E=2680837.86&amp;N=1248488.91&amp;zoom=6"
+            }
+        ],
+        "ts": "1535221007.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCER64K70",
+        "text": "I'm outside downstairs, can someone please open the door for me ?",
+        "client_msg_id": "39169f18-88d8-4f74-9d6c-688a8dfa1821",
+        "ts": "1535223241.000100"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "<@U5BF13UK0> has the key :key: ",
+        "client_msg_id": "8007A5CA-6716-4419-8D22-B3A779740E8D",
+        "ts": "1535223437.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCER64K70",
+        "text": "It's ok someone went out, thanks",
+        "client_msg_id": "73087032-b989-4fc0-b61d-5004fbbbf7a6",
+        "ts": "1535223516.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "My number in case someone needs to get in: 0765764545",
+        "client_msg_id": "2A8D2CF0-2894-46DB-9177-C29E063E81E0",
+        "ts": "1535225115.000100"
+    },
+    {
+        "type": "message",
+        "text": "<!channel>: last message of today: all projects, their needs and in what room to find them:\n<https:\/\/docs.google.com\/presentation\/d\/1eQFyrqfvuwtjbd30LiC3xm-lzVqgRzXTLCvzBhW7FpI\/edit?usp=sharing>",
+        "files": [
+            {
+                "id": "FCF209SJY",
+                "created": 1535225944,
+                "timestamp": 1535225944,
+                "name": "TWIST2018 - Sunday morning introduction ",
+                "title": "TWIST2018 - Sunday morning introduction",
+                "mimetype": "application\/vnd.google-apps.presentation",
+                "filetype": "gpres",
+                "pretty_type": "GDocs Presentation",
+                "user": "U5BF13UK0",
+                "editable": false,
+                "size": 1729,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/presentation\/d\/1eQFyrqfvuwtjbd30LiC3xm-lzVqgRzXTLCvzBhW7FpI\/edit?usp=sharing",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF209SJY-dcd44a1134\/twist2018_-_sunday_morning_introduction__64.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF209SJY-dcd44a1134\/twist2018_-_sunday_morning_introduction__80.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF209SJY-dcd44a1134\/twist2018_-_sunday_morning_introduction__360.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF209SJY-dcd44a1134\/twist2018_-_sunday_morning_introduction__480.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF209SJY-dcd44a1134\/twist2018_-_sunday_morning_introduction__160.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF209SJY-dcd44a1134\/twist2018_-_sunday_morning_introduction__720.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF209SJY-dcd44a1134\/twist2018_-_sunday_morning_introduction__800.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "image_exif_rotation": 1,
+                "original_w": 800,
+                "original_h": 450,
+                "permalink": "https:\/\/twist2018.slack.com\/files\/U5BF13UK0\/FCF209SJY\/twist2018_-_sunday_morning_introduction_",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "user": "U5BF13UK0",
+        "display_as_bot": false,
+        "x_files": [
+            "FCF209SJY"
+        ],
+        "client_msg_id": "5d6065b4-703a-4e02-aeba-645acd028e96",
+        "ts": "1535225943.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCEDJHMEC",
+        "text": "The front door is locked. Is anybody in already? Can you come and open the door?",
+        "client_msg_id": "1c6f9ac7-da9d-450a-8664-e333eb526f27",
+        "ts": "1535265037.000200"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "I‘ll be there in 10 mins. At the entrance karl schmid strasse",
+        "client_msg_id": "DAB61B34-2FA2-4B7B-8EF5-F45EEC0127E5",
+        "ts": "1535265216.000100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UCEDJHMEC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Me too",
+        "client_msg_id": "A55E59C8-2751-4AB4-94F8-1F31882F94BC",
+        "ts": "1535265592.000100"
+    }
+]

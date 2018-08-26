@@ -1,0 +1,92 @@
+[
+    {
+        "text": "Yay, one more! Aydemir Abdul Kerim is attending TWIST 2018.",
+        "username": "eventbriteBot",
+        "bot_id": "BB17W1DHP",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1530018222.000300"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Hm, sind das echte Namen? Ich weiss, dass sich der Klemens angemeldet hat... <@U5BF13UK0> ",
+        "client_msg_id": "E45E00BB-B9B8-46D6-9F32-8AEAB329E00E",
+        "ts": "1530080784.000098"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Es sind die in eventbrite angegebenen Namen...",
+        "client_msg_id": "C0B499E5-1337-4183-9F37-5061BEA8C5AB",
+        "ts": "1530080854.000091"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Huh, hoffe sie kommen mit den deutschen Metadaten zurecht :grimacing::wink:",
+        "client_msg_id": "95428AD4-DA9D-4285-9B53-83A72BF58218",
+        "ts": "1530080935.000037"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FBFL6HNP8",
+                "created": 1530080949,
+                "timestamp": 1530080949,
+                "name": "Orders-44099503803.csv",
+                "title": "Orders-44099503803.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "U5BF13UK0",
+                "editable": true,
+                "size": 9173,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FBFL6HNP8\/orders-44099503803.csv?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FBFL6HNP8\/download\/orders-44099503803.csv?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "permalink": "https:\/\/twist2018.slack.com\/files\/U5BF13UK0\/FBFL6HNP8\/orders-44099503803.csv",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FBFL6HNP8-019f84665f",
+                "edit_link": "https:\/\/twist2018.slack.com\/files\/U5BF13UK0\/FBFL6HNP8\/orders-44099503803.csv\/edit",
+                "preview": "\"Eventname\",\"Bestellnummer\",\"Datum\",\"Name des Veranstaltungsorts\",\"Veranstaltungsortskennung\",\"Gesamteinnahmen (EUR)\",\"Einnahmen aus Ticket (EUR)\",\"Eventbrite-Gebühren (EUR)\",\"Eventbrite-Zahlungsabwicklung (EUR)\",\"Tickets\",\"Typ\",\"Status\",\"Vertriebspartner\",\"Transaktions-ID\",\"Vorname\",\"Nachname\",\"E-Mail-Adresse\"\n\"TWIST 2018\",\"789607568\",\"26.06.18\",\"Universität Zürich\",\"23697913\",\"0,00\",\"0,00\",\"0,00\",\"0,00\",\"1\",\"Kostenlose Bestellung\",\"Kostenlose Bestellung\",\"\",\"\",\"Abdul Kerim\",\"Aydemir\",\"abdulkerim.aydemir@gmail.com\"\n\"TWIST 2018\",\"789403132\",\"25.06.18\",\"Universität Zürich\",\"23697913\",\"0,00\",\"0,00\",\"0,00\",\"0,00\",\"1\",\"Kostenlose Bestellung\",\"Kostenlose Bestellung\",\"\",\"\",\"Ilda\",\"Pogaci\",\"ilda.pogaci@gmail.com\"\n\"TWIST 2018\",\"788210984\",\"22.06.18\",\"Universität Zürich\",\"23697913\",\"0,00\",\"0,00\",\"0,00\",\"0,00\",\"1\",\"Kostenlose Bestellung\",\"Kostenlose Bestellung\",\"\",\"\",\"Love\",\"Lindstrand\",\"Love.lindstrand@yellowelk.se\"\n\"TWIST 2018\",\"785902645\",\"16.06.18\",\"Universität Zürich\",\"23697913\",\"0,00\",\"0,00\",\"0,00\",\"0,00\",\"1\",\"Ko...",
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>&quot;Eventname&quot;,&quot;Bestellnummer&quot;,&quot;Datum&quot;,&quot;Name des Veranstaltungsorts&quot;,&quot;Veranstaltungsortskennung&quot;,&quot;Gesamteinnahmen (EUR)&quot;,&quot;Einnahmen aus Ticket (EUR)&quot;,&quot;Eventbrite-Gebühren (EUR)&quot;,&quot;Eventbrite-Zahlungsabwicklung (EUR)&quot;,&quot;Tickets&quot;,&quot;Typ&quot;,&quot;Status&quot;,&quot;Vertriebspartner&quot;,&quot;Transaktions-ID&quot;,&quot;Vorname&quot;,&quot;Nachname&quot;,&quot;E-Mail-Adresse&quot;<\/pre><\/div>\n<div><pre>&quot;TWIST 2018&quot;,&quot;789607568&quot;,&quot;26.06.18&quot;,&quot;Universität Zürich&quot;,&quot;23697913&quot;,&quot;0,00&quot;,&quot;0,00&quot;,&quot;0,00&quot;,&quot;0,00&quot;,&quot;1&quot;,&quot;Kostenlose Bestellung&quot;,&quot;Kostenlose Bestellung&quot;,&quot;&quot;,&quot;&quot;,&quot;Abdul Kerim&quot;,&quot;Aydemir&quot;,&quot;abdulkerim.aydemir@gmail.com&quot;<\/pre><\/div>\n<div><pre>&quot;TWIST 2018&quot;,&quot;789403132&quot;,&quot;25.06.18&quot;,&quot;Universität Zürich&quot;,&quot;23697913&quot;,&quot;0,00&quot;,&quot;0,00&quot;,&quot;0,00&quot;,&quot;0,00&quot;,&quot;1&quot;,&quot;Kostenlose Bestellung&quot;,&quot;Kostenlose Bestellung&quot;,&quot;&quot;,&quot;&quot;,&quot;Ilda&quot;,&quot;Pogaci&quot;,&quot;ilda.pogaci@gmail.com&quot;<\/pre><\/div>\n<div><pre>&quot;TWIST 2018&quot;,&quot;788210984&quot;,&quot;22.06.18&quot;,&quot;Universität Zürich&quot;,&quot;23697913&quot;,&quot;0,00&quot;,&quot;0,00&quot;,&quot;0,00&quot;,&quot;0,00&quot;,&quot;1&quot;,&quot;Kostenlose Bestellung&quot;,&quot;Kostenlose Bestellung&quot;,&quot;&quot;,&quot;&quot;,&quot;Love&quot;,&quot;Lindstrand&quot;,&quot;Love.lindstrand@yellowelk.se&quot;<\/pre><\/div>\n<div><pre>&quot;TWIST 2018&quot;,&quot;785902645&quot;,&quot;16.06.18&quot;,&quot;Universität Zürich&quot;,&quot;23697913&quot;,&quot;0,00&quot;,&quot;0,00&quot;,&quot;0,00&quot;,&quot;0,00&quot;,&quot;1&quot;,&quot;Ko...<\/pre><\/div>\n<\/div>\n<\/div>\n",
+                "lines": 46,
+                "lines_more": 41,
+                "preview_is_truncated": true
+            }
+        ],
+        "upload": true,
+        "user": "U5BF13UK0",
+        "display_as_bot": false,
+        "ts": "1530080949.000313"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "hier die aktuelle Liste als csv... und im Notfall müssen wir dann übersetzen :wink:",
+        "client_msg_id": "914bc432-cce1-4598-83d9-2a80d6d452ff",
+        "ts": "1530080975.000096"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Deepl :i_love_you_hand_sign::skin-tone-3:",
+        "client_msg_id": "25E63EE0-21D4-45EA-AE51-08E3C12D5C47",
+        "ts": "1530081006.000297"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Thx",
+        "client_msg_id": "39FEAA04-EB8F-483A-9EC0-990300A83801",
+        "ts": "1530081015.000054"
+    }
+]

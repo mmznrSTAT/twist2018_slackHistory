@@ -1,0 +1,484 @@
+[
+    {
+        "user": "UCCAC4ZLG",
+        "text": "<@UCCAC4ZLG> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535187963.000200"
+    },
+    {
+        "user": "UCF22G90A",
+        "inviter": "UCCAC4ZLG",
+        "text": "<@UCF22G90A> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535187963.000400"
+    },
+    {
+        "user": "UCESM7RFZ",
+        "inviter": "UCCAC4ZLG",
+        "text": "<@UCESM7RFZ> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535187963.000600"
+    },
+    {
+        "user": "UC34XNNPN",
+        "inviter": "UCCAC4ZLG",
+        "text": "<@UC34XNNPN> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535187963.000800"
+    },
+    {
+        "type": "message",
+        "user": "UCCAC4ZLG",
+        "text": "Automated pedestrian and bicycle counting from Zurich: 3\n<https:\/\/data.stadt-zuerich.ch\/dataset?tags=veloverkehr>",
+        "client_msg_id": "d31deff6-b233-4289-85c6-b36df4a353f2",
+        "ts": "1535188117.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCCAC4ZLG",
+        "text": "Velozähldaten: <http:\/\/statistik.stadt-zuerich.ch\/modules\/twist2018\/swiss_cities_bicycle_countings.zip>",
+        "client_msg_id": "915877c2-c31c-4254-9ddc-af78b004f395",
+        "ts": "1535188144.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCCAC4ZLG",
+        "text": "VBZ Fahrgastzahlen: <https:\/\/data.stadt-zuerich.ch\/dataset\/vbz-fahrgastzahlen-ogd>",
+        "client_msg_id": "d8dbc568-f74a-4811-8b11-c7eeec5d1a50",
+        "attachments": [
+            {
+                "title": "Fahrgastzahlen VBZ - CKAN",
+                "title_link": "https:\/\/data.stadt-zuerich.ch\/dataset\/vbz-fahrgastzahlen-ogd",
+                "text": "Diese Daten beinhalten berechnete Jahreswerte zu den Ein- und Aussteigenden an den Haltestellen, sowie zur Besetzung in den Fahrzeugen der Verkehrsbetriebe Zürich (VBZ). Bei den hier zur Verfügung...",
+                "fallback": "Fahrgastzahlen VBZ - CKAN",
+                "from_url": "https:\/\/data.stadt-zuerich.ch\/dataset\/vbz-fahrgastzahlen-ogd",
+                "service_icon": "https:\/\/data.stadt-zuerich.ch\/favicon.ico",
+                "service_name": "data.stadt-zuerich.ch",
+                "id": 1,
+                "original_url": "https:\/\/data.stadt-zuerich.ch\/dataset\/vbz-fahrgastzahlen-ogd"
+            }
+        ],
+        "ts": "1535188176.000100"
+    },
+    {
+        "user": "UCEU12W4U",
+        "inviter": "UCCAC4ZLG",
+        "text": "<@UCEU12W4U> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535190783.000200"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FCG7A8BMM",
+                "created": 1535197900,
+                "timestamp": 1535197900,
+                "name": "saw0717Gsci31_d.png",
+                "title": "saw0717Gsci31_d.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UCCAC4ZLG",
+                "editable": false,
+                "size": 1160159,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCG7A8BMM\/saw0717gsci31_d.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCG7A8BMM\/download\/saw0717gsci31_d.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG7A8BMM-5918fcaf65\/saw0717gsci31_d_64.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG7A8BMM-5918fcaf65\/saw0717gsci31_d_80.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG7A8BMM-5918fcaf65\/saw0717gsci31_d_360.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360_w": 160,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG7A8BMM-5918fcaf65\/saw0717gsci31_d_480.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_480_w": 214,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG7A8BMM-5918fcaf65\/saw0717gsci31_d_160.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG7A8BMM-5918fcaf65\/saw0717gsci31_d_720.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720_w": 321,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG7A8BMM-5918fcaf65\/saw0717gsci31_d_800.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1796,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG7A8BMM-5918fcaf65\/saw0717gsci31_d_960.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_960_w": 428,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG7A8BMM-5918fcaf65\/saw0717gsci31_d_1024.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_1024_w": 456,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1336,
+                "original_h": 3000,
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UCCAC4ZLG\/FCG7A8BMM\/saw0717gsci31_d.png",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCG7A8BMM-f45cb9a0ae"
+            }
+        ],
+        "upload": true,
+        "user": "UCCAC4ZLG",
+        "display_as_bot": false,
+        "ts": "1535197904.000100"
+    },
+    {
+        "user": "UCFTXSG9M",
+        "inviter": "UCEU12W4U",
+        "text": "<@UCFTXSG9M> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535198827.000200"
+    },
+    {
+        "type": "message",
+        "text": ".RDS Datensatz aller Städte + Wetter auf Stundenbasis (date = Datum, time = Stunde)",
+        "files": [
+            {
+                "id": "FCG7DEX0X",
+                "created": 1535198831,
+                "timestamp": 1535198831,
+                "name": "cities_all.RDS",
+                "title": "cities_all.RDS",
+                "mimetype": "application\/x-gzip",
+                "filetype": "gzip",
+                "pretty_type": "GZip",
+                "user": "UC34XNNPN",
+                "editable": false,
+                "size": 11168426,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCG7DEX0X\/cities_all.rds?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCG7DEX0X\/download\/cities_all.rds?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UC34XNNPN\/FCG7DEX0X\/cities_all.rds",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCG7DEX0X-a0e352c6c3"
+            }
+        ],
+        "upload": true,
+        "user": "UC34XNNPN",
+        "display_as_bot": false,
+        "ts": "1535198832.000100"
+    },
+    {
+        "user": "UBN6K2U3Z",
+        "text": "<@UBN6K2U3Z> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535201048.000200",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UCCAC4ZLG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UCEU12W4U",
+        "text": "cities_all$month &lt;- month(as.Date(cities_all$date, label = TRUE, abbr = FALSE, format=\"%Y-%m-%d\"))",
+        "client_msg_id": "60f3701b-e08a-4d59-a79d-54c3d7866fa8",
+        "ts": "1535207539.000100"
+    },
+    {
+        "type": "message",
+        "text": "Update für Adrian",
+        "files": [
+            {
+                "id": "FCF0NCN1J",
+                "created": 1535210081,
+                "timestamp": 1535210081,
+                "name": "cities_all.RDS",
+                "title": "cities_all.RDS",
+                "mimetype": "application\/x-gzip",
+                "filetype": "gzip",
+                "pretty_type": "GZip",
+                "user": "UC34XNNPN",
+                "editable": false,
+                "size": 11168426,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF0NCN1J\/cities_all.rds?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF0NCN1J\/download\/cities_all.rds?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UC34XNNPN\/FCF0NCN1J\/cities_all.rds",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCF0NCN1J-121222c941"
+            }
+        ],
+        "upload": true,
+        "user": "UC34XNNPN",
+        "display_as_bot": false,
+        "ts": "1535210083.000100"
+    },
+    {
+        "type": "message",
+        "text": "2014-2018 Schulstrasse",
+        "files": [
+            {
+                "id": "FCF3QDU3V",
+                "created": 1535211601,
+                "timestamp": 1535211601,
+                "name": "116_2018-08-25-14-34-18.csv",
+                "title": "116_2018-08-25-14-34-18.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "UCF22G90A",
+                "editable": true,
+                "size": 990482,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF3QDU3V\/116_2018-08-25-14-34-18.csv?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF3QDU3V\/download\/116_2018-08-25-14-34-18.csv?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UCF22G90A\/FCF3QDU3V\/116_2018-08-25-14-34-18.csv",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCF3QDU3V-6e72ebcc43",
+                "edit_link": "https:\/\/twist2018.slack.com\/files\/UCF22G90A\/FCF3QDU3V\/116_2018-08-25-14-34-18.csv\/edit",
+                "preview": "Datum,VZS_Schulstrasse,VZS_Andreasstrasse,VZS_Binzmühlestrasse\n01\/01\/2014 00:00,1,0,1\n01\/01\/2014 01:00,0,0,1\n01\/01\/2014 02:00,0,0,1\n01\/01\/2014 03:00,1,0,1",
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>Datum,VZS_Schulstrasse,VZS_Andreasstrasse,VZS_Binzmühlestrasse<\/pre><\/div>\n<div><pre>01\/01\/2014 00:00,1,0,1<\/pre><\/div>\n<div><pre>01\/01\/2014 01:00,0,0,1<\/pre><\/div>\n<div><pre>01\/01\/2014 02:00,0,0,1<\/pre><\/div>\n<div><pre>01\/01\/2014 03:00,1,0,1<\/pre><\/div>\n<\/div>\n<\/div>\n",
+                "lines": 40730,
+                "lines_more": 40725,
+                "preview_is_truncated": true
+            }
+        ],
+        "upload": true,
+        "user": "UCF22G90A",
+        "display_as_bot": false,
+        "ts": "1535211604.000100"
+    },
+    {
+        "type": "message",
+        "text": "meine Velodaten 2017",
+        "files": [
+            {
+                "id": "FCELF9VL1",
+                "created": 1535214447,
+                "timestamp": 1535214447,
+                "name": "bike_data_2017.csv",
+                "title": "bike_data_2017.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "UCFTXSG9M",
+                "editable": false,
+                "size": 69063451,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCELF9VL1\/bike_data_2017.csv?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCELF9VL1\/download\/bike_data_2017.csv?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UCFTXSG9M\/FCELF9VL1\/bike_data_2017.csv",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCELF9VL1-3c93af6997"
+            }
+        ],
+        "upload": true,
+        "user": "UCFTXSG9M",
+        "display_as_bot": false,
+        "ts": "1535214450.000100"
+    },
+    {
+        "type": "message",
+        "text": "Time Series Skript",
+        "files": [
+            {
+                "id": "FCF3Z59HR",
+                "created": 1535214452,
+                "timestamp": 1535214452,
+                "name": "ATSA-Scriptum-SS2013_130415.pdf",
+                "title": "ATSA-Scriptum-SS2013_130415.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UCFTXSG9M",
+                "editable": false,
+                "size": 671359,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF3Z59HR\/atsa-scriptum-ss2013_130415.pdf?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF3Z59HR\/download\/atsa-scriptum-ss2013_130415.pdf?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF3Z59HR-f5f12102fd\/atsa-scriptum-ss2013_130415_thumb_pdf.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UCFTXSG9M\/FCF3Z59HR\/atsa-scriptum-ss2013_130415.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCF3Z59HR-a69ea1b137"
+            }
+        ],
+        "upload": true,
+        "user": "UCFTXSG9M",
+        "display_as_bot": false,
+        "ts": "1535214454.000100"
+    },
+    {
+        "type": "message",
+        "text": "time-series",
+        "files": [
+            {
+                "id": "FCEGA6388",
+                "created": 1535218489,
+                "timestamp": 1535218489,
+                "name": "ts-3.R",
+                "title": "ts-3.R",
+                "mimetype": "text\/plain",
+                "filetype": "r",
+                "pretty_type": "R",
+                "user": "UCEU12W4U",
+                "editable": true,
+                "size": 1705,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCEGA6388\/ts-3.r?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCEGA6388\/download\/ts-3.r?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UCEU12W4U\/FCEGA6388\/ts-3.r",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCEGA6388-25e8f40c66",
+                "edit_link": "https:\/\/twist2018.slack.com\/files\/UCEU12W4U\/FCEGA6388\/ts-3.r\/edit",
+                "preview": "# get \/ select data\nlibrary(fpp)\ndata(ausbeer)\nplot(ausbeer)\n#ts_beer = tail(head(ausbeer, 17*4+2),17*4-4)",
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-comment\"># get \/ select data<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-variable\">library<\/span>(<span class=\"cm-variable\">fpp<\/span>)<\/pre><\/div>\n<div><pre><span class=\"cm-variable\">data<\/span>(<span class=\"cm-variable\">ausbeer<\/span>)<\/pre><\/div>\n<div><pre><span class=\"cm-variable\">plot<\/span>(<span class=\"cm-variable\">ausbeer<\/span>)<\/pre><\/div>\n<div><pre><span class=\"cm-comment\">#ts_beer = tail(head(ausbeer, 17*4+2),17*4-4)<\/span><\/pre><\/div>\n<\/div>\n<\/div>\n",
+                "lines": 80,
+                "lines_more": 75,
+                "preview_is_truncated": true
+            }
+        ],
+        "upload": true,
+        "user": "UCEU12W4U",
+        "display_as_bot": false,
+        "ts": "1535218490.000100"
+    },
+    {
+        "type": "message",
+        "text": "seasonal decomposition of the Schulstrasse data",
+        "files": [
+            {
+                "id": "FCG9QQD1V",
+                "created": 1535225401,
+                "timestamp": 1535225401,
+                "name": "decomp_Schulstrasse.png",
+                "title": "decomp_Schulstrasse.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UCFTXSG9M",
+                "editable": false,
+                "size": 5408,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCG9QQD1V\/decomp_schulstrasse.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCG9QQD1V\/download\/decomp_schulstrasse.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG9QQD1V-23636d0f23\/decomp_schulstrasse_64.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG9QQD1V-23636d0f23\/decomp_schulstrasse_80.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG9QQD1V-23636d0f23\/decomp_schulstrasse_360.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG9QQD1V-23636d0f23\/decomp_schulstrasse_160.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "image_exif_rotation": 1,
+                "original_w": 480,
+                "original_h": 480,
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UCFTXSG9M\/FCG9QQD1V\/decomp_schulstrasse.png",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCG9QQD1V-3150476784"
+            }
+        ],
+        "upload": true,
+        "user": "UCFTXSG9M",
+        "display_as_bot": false,
+        "ts": "1535225403.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCFTXSG9M",
+        "text": "Das ist der Code dorthin:",
+        "client_msg_id": "6198ff7f-e864-4749-8368-33494dcd4d09",
+        "ts": "1535225534.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCFTXSG9M",
+        "text": "library(\"dplyr\")\n\nzurich &lt;- read.csv(\"116_2018-08-25-14-34-18.csv\", header = TRUE)\nstr(zurich)\nzurich$Datum &lt;- as.POSIXct(zurich$Datum, format = \"%d\/%m\/%Y %H:00\")\nzurich$Date &lt;- as.Date(zurich$Datum)\n\n# get totals per date and per month\nzurich &lt;- zurich %&gt;% group_by(Date) %&gt;%\n  mutate(Total_per_Date_Schulstrasse = sum(VZS_Schulstrasse)) %&gt;%\n  ungroup() %&gt;% as.data.frame()\nzurich$Month &lt;- as.Date(paste0(substr(zurich$Date, start = 1, stop = 7), \"-01\"), factor = \"%Y-%m-%d\")\nzurich &lt;- zurich %&gt;% group_by(Month) %&gt;%\n  mutate(Total_per_Month_Schulstrasse = sum(VZS_Schulstrasse)) %&gt;%\n  ungroup() %&gt;% as.data.frame()\n\nplot(VZS_Schulstrasse ~ Date, data = zurich, type = \"l\")\nplot(Total_per_Date_Schulstrasse ~ Date, data = zurich, type = \"l\")\nplot(Total_per_Month_Schulstrasse ~ Date, data = zurich, type = \"l\")\n\nzurich.month &lt;- unique(zurich[, c(\"Month\", \"Total_per_Month_Schulstrasse\")])\nzurich.month &lt;- arrange(zurich.month, Month)\n\nzurich.ts &lt;-ts(zurich.month$Total_per_Month_Schulstrasse,\n               start = 2, frequency = 12)\nplot(zurich.ts)\n\n# dec.zurich &lt;- decompose(zurich.ts)\ndec.zurich &lt;- stl(zurich.ts, s.window = \"periodic\")\nplot(dec.zurich)",
+        "client_msg_id": "3bdafd5c-de11-4b2c-9442-0c4ef00fddd2",
+        "ts": "1535225537.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCCAC4ZLG",
+        "text": "Hallo zusammen. Ihr findet allen Code, eine Installations-Anleitung und zwei Screenshots auf Github: <https:\/\/github.com\/jonasoesch\/cyclists-visualization>",
+        "client_msg_id": "866fc939-a86d-479c-b808-897e89e904bf",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "jonasoesch\/cyclists-visualization",
+                "title_link": "https:\/\/github.com\/jonasoesch\/cyclists-visualization",
+                "text": "Contribute to cyclists-visualization development by creating an account on Github.",
+                "fallback": "GitHub: jonasoesch\/cyclists-visualization",
+                "from_url": "https:\/\/github.com\/jonasoesch\/cyclists-visualization",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/149315?s=400&v=4",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/jonasoesch\/cyclists-visualization"
+            }
+        ],
+        "ts": "1535230057.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCCAC4ZLG",
+        "text": "Man könnte nun sehr einfach auch noch weitere Zählstellen hinzufügen, was sicher spannend wäre. Die Jahresübersicht wäre ein bisschen aufwändiger. Was mich am meisten stört, ist dass die Höhe der Kurven nicht ohne weiteres interpretierbar ist :thinking_face:",
+        "client_msg_id": "3c2db3a0-37cc-4eff-8e40-440dd85e743e",
+        "ts": "1535230669.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCCAC4ZLG",
+        "text": "Vielen Dank für die sehr inspirierende und spassige Zusammenarbeit! Der Tag ist viel zu schnell vorbei gegangen und ich freue mich sehr zu sehen, was ihr morgen noch so ausheckt. Viele Grüsse :wave:",
+        "client_msg_id": "f2e2fb32-48db-47c6-8d44-56c24d4a199c",
+        "ts": "1535230706.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCCAC4ZLG",
+        "text": "Und probiert mal Vega-Lite aus, wenn ihr Visualisierungen mögt. Hier was mit unseren Daten :blush: <https:\/\/vega.github.io\/editor\/#\/url\/vega-lite\/N4KABGBEAkDODGALApgWwIaQFxUQFzwAdYsB6UgN2QHN0A6agSz0QFcAjOxge1IRQyUa6ALQAbZskoAmOgCtY3AHaQANOCgB3RgBMW2MAHYADMfURIKRtXwGAzKfNQd6PJhygIF1gCcxBywJiMlIfdE0GZjZ2VlhkH3hlPGQlPDpE1FI5ZXRFZH5SeABPeAlYPFgRCkZYVnQJAC9XHiVSDHL4vjc8RnhSFzc2-NgOsTEU9NgKSAgNAF8nSDwwpVgAM24fVAMAbU8vC3Rqah9hZN39g6uvSG5CANRGFSdr68g1xmQxHQCAIVyvmoNK8rpBcgEALJPRgYSDA14LeHXS4gm53B7oAAeQNRoI+Xx+OEg-zi-heuKg4KJEKxMMwSKuCxRuNu9yJqGQ6GeDJB70+3z+ALJPNeYNgkM5KhFEDmAF1yW8TtxWIR2EVdpAAMp4VhKHTISCy6VgOXqSBidBFeK7ED7SAYHwAawC7HQPhxUBSiR0T2oBmZUGxHj5BIC2t1+sgiLe6uD+IF1NpsOjoMSYk2-sgFHqrANRIASsgfnN5iBEXaHc6ia73YsvdwfUo-R4GZAg2BgCGE1Bw3qDSmDpBYx2u4SoBDJVHS+WNPa3VWoDWPZB643mx3W+3O-Gx1qdX2owqoMPt-zd1ClHTD620xng9mxLmAgBiNZv99TmVl9QV+cBCRKAadZKN6vr+pumY7mG+6RgONwnqOEpcteby3u6945nmUC-Ba8DOiWX4lkacxAA>",
+        "client_msg_id": "2f87609d-f4fa-4c5e-b1b2-96604880f728",
+        "ts": "1535234344.000100"
+    }
+]

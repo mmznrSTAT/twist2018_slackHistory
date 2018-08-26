@@ -1,0 +1,127 @@
+[
+    {
+        "user": "UC2LP8THN",
+        "text": "<@UC2LP8THN> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535180585.000200"
+    },
+    {
+        "user": "UCB1G2RH7",
+        "text": "<@UCB1G2RH7> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535182523.000200"
+    },
+    {
+        "type": "message",
+        "text": "there was a question regarding the slides of the presentation. you find them here: <https:\/\/docs.google.com\/presentation\/d\/1EH_1N0I7C06P_Qo6EN7W53jKbaiWjq47VKJCjElfpkY\/edit?usp=sharing>",
+        "files": [
+            {
+                "id": "FC7DUUV28",
+                "created": 1534177694,
+                "timestamp": 1534177694,
+                "name": "TWIST2018 - intro presentations ",
+                "title": "TWIST2018 - intro presentations",
+                "mimetype": "application\/vnd.google-apps.presentation",
+                "filetype": "gpres",
+                "pretty_type": "GDocs Presentation",
+                "user": "UAELWCAES",
+                "editable": false,
+                "size": 2244,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/presentation\/d\/1EH_1N0I7C06P_Qo6EN7W53jKbaiWjq47VKJCjElfpkY\/edit#slide=id.g3f9ec6369f_0_12",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC7DUUV28-c2806284e8\/twist2018_-_intro_presentations__64.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC7DUUV28-c2806284e8\/twist2018_-_intro_presentations__80.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC7DUUV28-c2806284e8\/twist2018_-_intro_presentations__360.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC7DUUV28-c2806284e8\/twist2018_-_intro_presentations__480.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC7DUUV28-c2806284e8\/twist2018_-_intro_presentations__160.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC7DUUV28-c2806284e8\/twist2018_-_intro_presentations__720.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC7DUUV28-c2806284e8\/twist2018_-_intro_presentations__800.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "image_exif_rotation": 1,
+                "original_w": 800,
+                "original_h": 450,
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UAELWCAES\/FC7DUUV28\/twist2018_-_intro_presentations_",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "user": "U5BF13UK0",
+        "display_as_bot": false,
+        "x_files": [
+            "FC7DUUV28"
+        ],
+        "client_msg_id": "dba69f84-2657-4686-8ba0-9d15f9b853d6",
+        "ts": "1535182702.000100"
+    },
+    {
+        "user": "UCEHR99MX",
+        "text": "<@UCEHR99MX> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535184688.000200"
+    },
+    {
+        "user": "UCF0TSF0B",
+        "text": "<@UCF0TSF0B> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535185652.000200"
+    },
+    {
+        "type": "message",
+        "user": "UCF0TSF0B",
+        "text": "If someone will still be interested in the open geocoder challenge I’ll stay available via slack or twitter (@p1d1d1) ",
+        "client_msg_id": "E1C81A1A-376C-4F3A-8088-4ECB0C7F16BD",
+        "ts": "1535190821.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "problem with linking a project in dribdat with github? github repository needs at least a ReadMe File",
+        "client_msg_id": "c61c03d1-510b-4ad1-bc8d-164741172baa",
+        "ts": "1535194923.000100"
+    },
+    {
+        "user": "U5Q5EMNGY",
+        "text": "<@U5Q5EMNGY> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535207693.000200"
+    },
+    {
+        "user": "UCB2MEZNJ",
+        "text": "<@UCB2MEZNJ> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535231088.000200"
+    },
+    {
+        "type": "message",
+        "user": "UCB2MEZNJ",
+        "text": "Aufgrund Beerdigung konnte ich heute nicht kommen, werde es wohl auch morgen nicht schaffen....Arghhh. Wuerde gerne an die Statistik-Tage im Anschluss gehen, den Registrierungs-Badge muss ich bei Euch abholen?",
+        "client_msg_id": "4db1399b-95f6-4972-b318-4b939a07f711",
+        "ts": "1535231144.000200"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Oh das tut mir leid! Yep, den müsstest du bei uns holen. Wir sind bis ca. 17h an der Uni",
+        "client_msg_id": "8549682E-120A-4DAF-B18C-D61D3C1C4A61",
+        "ts": "1535231542.000100"
+    }
+]

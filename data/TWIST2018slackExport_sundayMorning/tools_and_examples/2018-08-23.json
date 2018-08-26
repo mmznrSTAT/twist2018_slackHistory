@@ -1,0 +1,18 @@
+[
+    {
+        "user": "UCEFP238W",
+        "text": "<@UCEFP238W> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535009139.000200"
+    },
+    {
+        "type": "message",
+        "user": "UC2LP8THN",
+        "text": "Thanks!",
+        "client_msg_id": "d30aa871-64e7-4401-980d-ef905d21d0f4",
+        "thread_ts": "1534795160.000100",
+        "parent_user_id": "U5BF13UK0",
+        "ts": "1535060234.000100"
+    }
+]

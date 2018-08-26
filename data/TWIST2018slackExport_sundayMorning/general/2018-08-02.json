@@ -1,0 +1,25 @@
+[
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Welcome to our channel, <@UC0RUUHSQ>",
+        "client_msg_id": "9e7d6b16-2b00-46b2-aed0-f3b01b55ed74",
+        "ts": "1533201843.000063"
+    },
+    {
+        "type": "message",
+        "user": "UC0RUUHSQ",
+        "text": "Thank you",
+        "client_msg_id": "54B0B778-5FA2-480E-B262-C0B5A6E3C073",
+        "ts": "1533211474.000023",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5BF13UK0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

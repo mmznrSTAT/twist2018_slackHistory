@@ -1,0 +1,32 @@
+[
+    {
+        "user": "UC79TQ222",
+        "text": "<@UC79TQ222> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1533844809.000118",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59EH5MC1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UC72J7LNT",
+        "text": "<@UC72J7LNT> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1533847760.000161"
+    },
+    {
+        "user": "UC7BYS0GN",
+        "text": "<@UC7BYS0GN> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1533851535.000285"
+    }
+]

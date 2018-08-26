@@ -1,0 +1,89 @@
+[
+    {
+        "user": "UBGVCCS6R",
+        "text": "<@UBGVCCS6R> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1530349983.000015"
+    },
+    {
+        "user": "UBGJNU0LU",
+        "text": "<@UBGJNU0LU> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1530352764.000023",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U5MQK0JM8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UBH0ATTU5",
+        "text": "<@UBH0ATTU5> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1530354923.000048"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Welcome <@UBH0ATTU5> :)",
+        "client_msg_id": "78B6F6E1-BCE9-420D-A8A4-879C882EE7DC",
+        "ts": "1530355730.000042",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U59EH5MC1",
+                    "U5MQK0JM8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UBH0ATTU5",
+        "text": "merci <@U5BF13UK0>",
+        "client_msg_id": "d1afc355-4079-403b-ba52-fd65255b4542",
+        "ts": "1530356156.000057",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5BF13UK0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UBHNRLWQ6",
+        "text": "<@UBHNRLWQ6> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1530357016.000016"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Welcome <@UBHNRLWQ6> ",
+        "client_msg_id": "A1D9B41B-8AE8-45B7-ACC4-A469E7635C66",
+        "ts": "1530357690.000052",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5A5NA4U8",
+                    "U59EH5MC1"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

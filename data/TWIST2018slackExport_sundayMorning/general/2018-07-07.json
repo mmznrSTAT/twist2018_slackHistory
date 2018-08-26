@@ -1,0 +1,88 @@
+[
+    {
+        "text": "That I don't know much about statistics but I'm looking forward to change that :nerd_face: I'm an exploration Geophysicist by training. C++ and Python coder. Data scientist wannabe. ",
+        "unfurl_links": true,
+        "client_msg_id": "5aeeacbb-caac-4d19-ac8d-5ef54c1238fd",
+        "unfurl_media": true,
+        "thread_ts": "1530815704.000268",
+        "is_thread_broadcast": true,
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "user": "UBKBDPPJQ",
+        "root": {
+            "type": "message",
+            "user": "U59EH5MC1",
+            "text": "No no, not yet. Do you want to know or tell us something? ",
+            "client_msg_id": "38D7683D-379F-4AC7-A08C-5BA3FB3D6309",
+            "thread_ts": "1530815704.000268",
+            "reply_count": 2,
+            "replies": [
+                {
+                    "user": "UBKBDPPJQ",
+                    "ts": "1530953226.000021"
+                },
+                {
+                    "user": "U59EH5MC1",
+                    "ts": "1530982866.000009"
+                }
+            ],
+            "unread_count": 2,
+            "ts": "1530815704.000268"
+        },
+        "ts": "1530953226.000021",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5BF13UK0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "U5BF13UK0",
+                    "U59EH5MC1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "text": "Awesome, thx <@UBKBDPPJQ>, we hope that twist will be the right place to get stated :muscle: there surely will be very interdisciplinary teams with different backgrounds. Although we do not know much about the participants so far ;) ",
+        "client_msg_id": "9E5ADE25-D651-4088-8E2A-DD6F7606841D",
+        "thread_ts": "1530815704.000268",
+        "is_thread_broadcast": true,
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "user": "U59EH5MC1",
+        "root": {
+            "type": "message",
+            "user": "U59EH5MC1",
+            "text": "No no, not yet. Do you want to know or tell us something? ",
+            "client_msg_id": "38D7683D-379F-4AC7-A08C-5BA3FB3D6309",
+            "thread_ts": "1530815704.000268",
+            "reply_count": 2,
+            "replies": [
+                {
+                    "user": "UBKBDPPJQ",
+                    "ts": "1530953226.000021"
+                },
+                {
+                    "user": "U59EH5MC1",
+                    "ts": "1530982866.000009"
+                }
+            ],
+            "unread_count": 2,
+            "ts": "1530815704.000268"
+        },
+        "ts": "1530982866.000009"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "And welcome <@UBMB3BX2B> to our channel!",
+        "client_msg_id": "038C2E1D-632F-47C3-B4EB-DBD21A57FDF2",
+        "ts": "1530982911.000060"
+    }
+]

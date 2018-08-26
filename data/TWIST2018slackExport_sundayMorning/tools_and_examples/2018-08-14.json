@@ -1,0 +1,216 @@
+[
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "good starting point if you don't know anything about web programming: <http:\/\/alignedleft.com\/tutorials\/d3\/fundamentals>",
+        "client_msg_id": "acba3e73-de32-4b79-97cc-88e918fb7d01",
+        "attachments": [
+            {
+                "title": "Fundamentals — Scott Murray — alignedleft",
+                "title_link": "http:\/\/alignedleft.com\/tutorials\/d3\/fundamentals",
+                "text": "Design, data, visualization, culture.",
+                "fallback": "Fundamentals — Scott Murray — alignedleft",
+                "from_url": "http:\/\/alignedleft.com\/tutorials\/d3\/fundamentals",
+                "service_icon": "http:\/\/alignedleft.com\/favicon.ico",
+                "service_name": "alignedleft.com",
+                "id": 1,
+                "original_url": "http:\/\/alignedleft.com\/tutorials\/d3\/fundamentals"
+            }
+        ],
+        "ts": "1534230122.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "there is an online notebook-style programming environment for d3.js as well.  it is called observable. It is great for quickly prototyping a visualization or to see how it woks:",
+        "client_msg_id": "d76673ee-6ff2-4be8-99c6-07d53382b402",
+        "ts": "1534230213.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "<https:\/\/beta.observablehq.com\/>",
+        "client_msg_id": "250389c3-ebd1-4b97-b1e9-bda17be4d603",
+        "attachments": [
+            {
+                "title": "Observable",
+                "title_link": "https:\/\/beta.observablehq.com\/",
+                "text": "A better way to code.",
+                "fallback": "Observable",
+                "thumb_url": "https:\/\/static.observablehq.com\/summary.6b54712a1e78e17091b64c59b8122c42d25462809588ed9389645319a57289f8.png",
+                "from_url": "https:\/\/beta.observablehq.com\/",
+                "thumb_width": 1864,
+                "thumb_height": 1864,
+                "service_icon": "https:\/\/static.observablehq.com\/favicon-512.b4b8a27b9471915dbb91d3f2c9a20472512ae9549f182056f10bf3c7d6857437.png",
+                "service_name": "beta.observablehq.com",
+                "id": 1,
+                "original_url": "https:\/\/beta.observablehq.com\/"
+            }
+        ],
+        "ts": "1534230227.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "a quick introduction to observable:",
+        "client_msg_id": "91589868-8227-4005-893f-14404df4c66e",
+        "ts": "1534230262.000200"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "<https:\/\/beta.observablehq.com\/collection\/introduction>",
+        "client_msg_id": "ffa2bf06-64c4-4ef7-930b-83c972eb0f3b",
+        "attachments": [
+            {
+                "title": "Observable",
+                "title_link": "https:\/\/beta.observablehq.com\/collection\/introduction",
+                "text": "A better way to code.",
+                "fallback": "Observable",
+                "thumb_url": "https:\/\/static.observablehq.com\/summary.6b54712a1e78e17091b64c59b8122c42d25462809588ed9389645319a57289f8.png",
+                "from_url": "https:\/\/beta.observablehq.com\/collection\/introduction",
+                "thumb_width": 1864,
+                "thumb_height": 1864,
+                "service_icon": "https:\/\/static.observablehq.com\/favicon-512.b4b8a27b9471915dbb91d3f2c9a20472512ae9549f182056f10bf3c7d6857437.png",
+                "service_name": "beta.observablehq.com",
+                "id": 1,
+                "original_url": "https:\/\/beta.observablehq.com\/collection\/introduction"
+            }
+        ],
+        "ts": "1534230263.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "an observable notebook with los of open data and linked data from one of our blogposts:",
+        "client_msg_id": "5dc8edde-3031-4f89-b594-076d3dc738fc",
+        "ts": "1534230352.000200"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "<https:\/\/beta.observablehq.com\/@mmznrstat\/a-thriving-data-ecosystem>",
+        "client_msg_id": "4b4682a1-15d2-4cfc-9620-dc3cf32ff229",
+        "attachments": [
+            {
+                "title": "A thriving data ecosystem",
+                "title_link": "https:\/\/beta.observablehq.com\/@mmznrstat\/a-thriving-data-ecosystem",
+                "text": "An Observable notebook by Matthias Mazenauer",
+                "fallback": "A thriving data ecosystem",
+                "image_url": "https:\/\/static.observableusercontent.com\/thumbnail\/3f4c55ed11593da935eaa42da4500627e25e2c6ddd1111845ddf94850810e5fb.jpg",
+                "from_url": "https:\/\/beta.observablehq.com\/@mmznrstat\/a-thriving-data-ecosystem",
+                "image_width": 400,
+                "image_height": 250,
+                "image_bytes": 63920,
+                "service_icon": "https:\/\/static.observablehq.com\/favicon-512.b4b8a27b9471915dbb91d3f2c9a20472512ae9549f182056f10bf3c7d6857437.png",
+                "service_name": "beta.observablehq.com",
+                "id": 1,
+                "original_url": "https:\/\/beta.observablehq.com\/@mmznrstat\/a-thriving-data-ecosystem"
+            }
+        ],
+        "thread_ts": "1534230354.000100",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "UBN6K2U3Z",
+                "ts": "1535213958.000100"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1534230354.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "GIS related:",
+        "client_msg_id": "b829ea84-01bf-4135-bbcd-52e27a496055",
+        "ts": "1534230395.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "i use <http:\/\/mapshaper.org|mapshaper.org> a lot to quickly see a GeoJSON or shape file or any other GeoFile Format:",
+        "client_msg_id": "278d9fc0-80c0-4e56-83ab-9f0cff9a1bf2",
+        "ts": "1534230441.000200"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "<http:\/\/mapshaper.org\/>",
+        "client_msg_id": "11b9ecc1-fec2-496d-8478-b568601e23f3",
+        "attachments": [
+            {
+                "title": "mapshaper",
+                "title_link": "http:\/\/mapshaper.org\/",
+                "text": "A tool for topologically aware shape simplification. Reads and writes Shapefile, GeoJSON and TopoJSON formats.",
+                "fallback": "mapshaper",
+                "from_url": "http:\/\/mapshaper.org\/",
+                "service_icon": "http:\/\/mapshaper.org\/images\/icon.png",
+                "service_name": "mapshaper.org",
+                "id": 1,
+                "original_url": "http:\/\/mapshaper.org\/"
+            }
+        ],
+        "ts": "1534230442.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "and for map manipulation i use GDAL a lot:",
+        "client_msg_id": "e6a69c45-9e45-4755-8df5-2d4f6e9ad63c",
+        "ts": "1534230495.000200"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "<https:\/\/www.gdal.org\/ogr2ogr.html>",
+        "client_msg_id": "289cfa5c-ae24-41ed-803a-51a65ba6e09c",
+        "ts": "1534230495.000300"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "A very important tool for programmers is git. if you don't know, what it is, you can read this short introduction:",
+        "client_msg_id": "fa8cc37a-691b-47ed-b151-110d784375cc",
+        "ts": "1534235197.000200"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "<https:\/\/readwrite.com\/2013\/09\/30\/understanding-github-a-journey-for-beginners-part-1\/>",
+        "client_msg_id": "28ef1396-3bdc-4e1d-9377-ef78965762e8",
+        "attachments": [
+            {
+                "service_name": "ReadWrite",
+                "title": "GitHub For Beginners: Don't Get Scared, Get Started - ReadWrite",
+                "title_link": "https:\/\/readwrite.com\/2013\/09\/30\/understanding-github-a-journey-for-beginners-part-1\/",
+                "text": "GitHub is more than just a programmer's tool. If you want to collaborate on anything, you should give it a try. Part 1 of a two-part look at getting started with GitHub.",
+                "fallback": "ReadWrite: GitHub For Beginners: Don't Get Scared, Get Started - ReadWrite",
+                "image_url": "https:\/\/images.readwrite.com\/wp-content\/uploads\/2018\/07\/developer.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "ts": 1380571320,
+                "from_url": "https:\/\/readwrite.com\/2013\/09\/30\/understanding-github-a-journey-for-beginners-part-1\/",
+                "image_bytes": 83530,
+                "service_icon": "https:\/\/images.readwrite.com\/wp-content\/uploads\/2018\/03\/cropped-rw-180x180.jpg",
+                "id": 1,
+                "original_url": "https:\/\/readwrite.com\/2013\/09\/30\/understanding-github-a-journey-for-beginners-part-1\/"
+            }
+        ],
+        "ts": "1534235199.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "and if you have an idea about git but wan't to know more (or need to look up something) this is my favourite ressource:",
+        "client_msg_id": "f4a4ce5b-9f3b-4cdb-9411-f73b6bb67e3e",
+        "ts": "1534235258.000200"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "<https:\/\/git-scm.com\/book\/en\/v2>",
+        "client_msg_id": "125c713c-28ea-42f2-b25f-88785fd54e03",
+        "ts": "1534235259.000100"
+    }
+]

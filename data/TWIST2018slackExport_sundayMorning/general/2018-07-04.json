@@ -1,0 +1,49 @@
+[
+    {
+        "user": "UBK0KKM3P",
+        "text": "<@UBK0KKM3P> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1530704292.000152"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Servus <@UBK0KKM3P>, willkommen hier im TWIST-Channel :wink:",
+        "client_msg_id": "5808e54f-7865-4396-a8aa-d325dac45f8d",
+        "ts": "1530714366.000070"
+    },
+    {
+        "type": "message",
+        "user": "UBK0KKM3P",
+        "text": "Hoi <@U59EH5MC1>, danke! Alles so schön bunt hier ;-)",
+        "client_msg_id": "0A4681DB-3363-40F2-A247-C458813DA62D",
+        "ts": "1530720781.000267",
+        "reactions": [
+            {
+                "name": "clown_face",
+                "users": [
+                    "U59EH5MC1",
+                    "UBK0KKM3P"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Willkommen Jonas ",
+        "client_msg_id": "DCA69AD9-C121-455D-AA11-0B0307841F36",
+        "ts": "1530721428.000078",
+        "reactions": [
+            {
+                "name": "snowboarder",
+                "users": [
+                    "UBK0KKM3P"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

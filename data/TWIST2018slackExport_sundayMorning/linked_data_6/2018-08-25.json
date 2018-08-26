@@ -1,0 +1,1376 @@
+[
+    {
+        "user": "UBKBDPPJQ",
+        "text": "<@UBKBDPPJQ> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535187599.000200"
+    },
+    {
+        "user": "UC2LV8DEU",
+        "text": "<@UC2LV8DEU> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535187616.000200"
+    },
+    {
+        "user": "UBKBDPPJQ",
+        "purpose": "Linked Data of Statistik Stadt Zurich project",
+        "text": "<@UBKBDPPJQ> set the channel purpose: Linked Data of Statistik Stadt Zurich project",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1535187802.000100"
+    },
+    {
+        "user": "UCEDH9UQ0",
+        "text": "<@UCEDH9UQ0> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535187877.000200"
+    },
+    {
+        "user": "UBHNRLWQ6",
+        "text": "<@UBHNRLWQ6> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535187890.000200"
+    },
+    {
+        "user": "U5A5NA4U8",
+        "text": "<@U5A5NA4U8> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535187906.000200"
+    },
+    {
+        "user": "UCF9M84UD",
+        "text": "<@UCF9M84UD> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535187911.000200"
+    },
+    {
+        "user": "UBHF5RBM2",
+        "text": "<@UBHF5RBM2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535187992.000200"
+    },
+    {
+        "type": "message",
+        "user": "UBHF5RBM2",
+        "text": "Tony here :slightly_smiling_face:",
+        "client_msg_id": "c5c0445b-55ff-42cd-a6a0-e09a24add9b3",
+        "ts": "1535187999.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5A5NA4U8",
+        "text": "A good starting point: <https:\/\/data.stadt-zuerich.ch\/dataset\/stadt_zuerich_losd>",
+        "client_msg_id": "fbe3ae48-7699-4386-99cd-6da912a75a42",
+        "attachments": [
+            {
+                "title": "Linked Open Statistical Data (LOSD) der Stadt Zürich - SPARQL Endpoint - CKAN",
+                "title_link": "https:\/\/data.stadt-zuerich.ch\/dataset\/stadt_zuerich_losd",
+                "text": "Statistik Stadt Zürich publiziert seine statistischen Daten seit August 2018 auch als Linked Open Data. In einem ersten Schritt werden sämtliche - z.T. weit zurückreichende - Tabellen aus den...",
+                "fallback": "Linked Open Statistical Data (LOSD) der Stadt Zürich - SPARQL Endpoint - CKAN",
+                "from_url": "https:\/\/data.stadt-zuerich.ch\/dataset\/stadt_zuerich_losd",
+                "service_icon": "https:\/\/data.stadt-zuerich.ch\/favicon.ico",
+                "service_name": "data.stadt-zuerich.ch",
+                "id": 1,
+                "original_url": "https:\/\/data.stadt-zuerich.ch\/dataset\/stadt_zuerich_losd"
+            }
+        ],
+        "ts": "1535188073.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCEDH9UQ0",
+        "text": "<https:\/\/ld.stadt-zuerich.ch\/sparql\/> this is the sparkl endpoint",
+        "client_msg_id": "a93f27b3-6aec-4f32-b7d0-2eba4279c78a",
+        "edited": {
+            "user": "UCEDH9UQ0",
+            "ts": "1535188141.000000"
+        },
+        "ts": "1535188118.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBHNRLWQ6",
+        "text": "Getting started",
+        "client_msg_id": "233e0699-93d1-4926-8181-2ceb53fc076e",
+        "ts": "1535188129.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBHNRLWQ6",
+        "text": "<https:\/\/github.com\/statistikstadtzuerich\/documentation\/blob\/master\/Linked_Data\/GettingStarted\/GettingStartedZurichLOSD.md#10>",
+        "client_msg_id": "57d685a5-1ccc-4f82-98b0-b0c85bb9ba70",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "statistikstadtzuerich\/documentation",
+                "title_link": "https:\/\/github.com\/statistikstadtzuerich\/documentation\/blob\/master\/Linked_Data\/GettingStarted\/GettingStartedZurichLOSD.md#10",
+                "text": "documentation on the products of Statistik Stadt Zürich",
+                "fallback": "GitHub: statistikstadtzuerich\/documentation",
+                "from_url": "https:\/\/github.com\/statistikstadtzuerich\/documentation\/blob\/master\/Linked_Data\/GettingStarted\/GettingStartedZurichLOSD.md#10",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/30286520?s=400&v=4",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/statistikstadtzuerich\/documentation\/blob\/master\/Linked_Data\/GettingStarted\/GettingStartedZurichLOSD.md#10"
+            }
+        ],
+        "ts": "1535188131.000100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UBHF5RBM2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UCFUWUNNA",
+        "text": "<@UCFUWUNNA> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535188241.000200"
+    },
+    {
+        "user": "UCEDJHMEC",
+        "text": "<@UCEDJHMEC> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535188279.000200"
+    },
+    {
+        "user": "UBKNY8HKN",
+        "text": "<@UBKNY8HKN> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535188333.000200"
+    },
+    {
+        "type": "message",
+        "user": "UBKNY8HKN",
+        "text": "Helo",
+        "client_msg_id": "9aa804ea-8573-4d99-92e0-5bd700d0a92d",
+        "ts": "1535188338.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCEDH9UQ0",
+        "text": "This might be useful to visualise what data is available <https:\/\/data.stadt-zuerich.ch\/dataset>",
+        "client_msg_id": "98d79472-ca89-4db0-8133-ad04aceee783",
+        "ts": "1535188466.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBKBDPPJQ",
+        "text": "*What is the data about?*\nToday we release our Linked Open Statistical Data (LOSD) Project to the public!\nWe start with 3'924'445 triples. This is a small selection of our growing data offering. It contains mainly statistical data about the population of the City of Zurich.\n*What is its granularity?*\nDepending on the selected topic the granularity and the available time slices vary. All the data is aggregated and in the same quality as the one, that the statistical office publishes in its publications.\n*What can the data be used for?*\nAnalytics and visualisations of many aspects of the city population and other topics.\nCombine (link) it with other data.\nLearn about the concepts of Linked Data and SPARQL with real local data.",
+        "client_msg_id": "f0693bfd-9554-445d-b72f-aff958cf93bf",
+        "ts": "1535188524.000100"
+    },
+    {
+        "user": "UCEU0NLR2",
+        "text": "<@UCEU0NLR2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535188533.000200"
+    },
+    {
+        "user": "U94B2N1PV",
+        "text": "<@U94B2N1PV> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535189559.000200"
+    },
+    {
+        "type": "message",
+        "user": "U94B2N1PV",
+        "text": "might be interesting (if you still want to import these data sets in non-linked data format and integrate it in your data analysis tool):",
+        "client_msg_id": "4d97d5c5-0ab9-4619-9b07-85eda695769c",
+        "edited": {
+            "user": "U94B2N1PV",
+            "ts": "1535190184.000000"
+        },
+        "ts": "1535189739.000100"
+    },
+    {
+        "type": "message",
+        "user": "U94B2N1PV",
+        "text": "* Bevölkerung Wien: <https:\/\/www.data.gv.at\/katalog\/dataset\/091a085f-2652-429f-8dde-c69199440ddf>",
+        "client_msg_id": "7ff03e5f-2e91-400b-9697-8633f7e92884",
+        "attachments": [
+            {
+                "title": "Bevölkerung seit 1869 Wien - data.gv.at",
+                "title_link": "https:\/\/www.data.gv.at\/katalog\/dataset\/091a085f-2652-429f-8dde-c69199440ddf",
+                "text": "VIE-Bevölkerung in den 23 Wiener Gemeindebezirken nach Geschlecht seit 1869",
+                "fallback": "Bevölkerung seit 1869 Wien - data.gv.at",
+                "from_url": "https:\/\/www.data.gv.at\/katalog\/dataset\/091a085f-2652-429f-8dde-c69199440ddf",
+                "service_icon": "https:\/\/www.data.gv.at\/favicon.ico",
+                "service_name": "data.gv.at",
+                "id": 1,
+                "original_url": "https:\/\/www.data.gv.at\/katalog\/dataset\/091a085f-2652-429f-8dde-c69199440ddf"
+            }
+        ],
+        "ts": "1535189745.000100"
+    },
+    {
+        "type": "message",
+        "user": "U94B2N1PV",
+        "text": "* Bevölkerung München: <https:\/\/www.opengov-muenchen.de\/dataset\/bevoelkerung>",
+        "client_msg_id": "bf496501-a832-4252-897c-f3eba6ace3fb",
+        "ts": "1535189860.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBHNRLWQ6",
+        "text": "<https:\/\/www.data.gv.at\/linked-data\/>",
+        "client_msg_id": "fe1be656-7f6e-4638-b33b-b4d89be08497",
+        "attachments": [
+            {
+                "title": "Linked Data | data.gv.at",
+                "title_link": "https:\/\/www.data.gv.at\/linked-data\/",
+                "text": "Das Projekt Linked Open Data Pilot Österreich (LOD Pilot AT) realisierte auf Basis vorhandener offener Datensätze (Open Data) aus Quellen ...",
+                "fallback": "Linked Data | data.gv.at",
+                "from_url": "https:\/\/www.data.gv.at\/linked-data\/",
+                "service_icon": "https:\/\/www.data.gv.at\/wp-content\/themes\/datagvat\/images\/favicon.ico",
+                "service_name": "data.gv.at",
+                "id": 1,
+                "original_url": "https:\/\/www.data.gv.at\/linked-data\/"
+            }
+        ],
+        "thread_ts": "1535189938.000100",
+        "reply_count": 2,
+        "replies": [
+            {
+                "user": "U94B2N1PV",
+                "ts": "1535190476.000100"
+            },
+            {
+                "user": "UBHNRLWQ6",
+                "ts": "1535190749.000100"
+            }
+        ],
+        "unread_count": 2,
+        "ts": "1535189938.000100"
+    },
+    {
+        "type": "message",
+        "user": "U94B2N1PV",
+        "text": "unfortunately I could not find Bevölkerung in a short query <https:\/\/lodpilot.at\/daten\/>",
+        "client_msg_id": "d5cbc7e4-3b89-4d7d-ab0a-a3e1acd37707",
+        "attachments": [
+            {
+                "title": "Daten  |   LODPilot",
+                "title_link": "https:\/\/lodpilot.at\/daten\/",
+                "text": "full functionable, premium resume wordpress theme solution for your website.",
+                "fallback": "Daten  |   LODPilot",
+                "from_url": "https:\/\/lodpilot.at\/daten\/",
+                "service_name": "lodpilot.at",
+                "id": 1,
+                "original_url": "https:\/\/lodpilot.at\/daten\/"
+            }
+        ],
+        "edited": {
+            "user": "U94B2N1PV",
+            "ts": "1535190487.000000"
+        },
+        "thread_ts": "1535189938.000100",
+        "parent_user_id": "UBHNRLWQ6",
+        "ts": "1535190476.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBHNRLWQ6",
+        "text": "Thanks!!",
+        "client_msg_id": "3dad2126-09a4-46fb-9ff9-52ef5086119f",
+        "thread_ts": "1535189938.000100",
+        "parent_user_id": "UBHNRLWQ6",
+        "ts": "1535190749.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBHF5RBM2",
+        "text": "in case you want to use SparQL in jupyter notebook, here is a way to add a kernel: <https:\/\/github.com\/paulovn\/sparql-kernel>",
+        "client_msg_id": "1878b549-db14-42fd-a8a0-b07d2115b5af",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "paulovn\/sparql-kernel",
+                "title_link": "https:\/\/github.com\/paulovn\/sparql-kernel",
+                "text": "sparql-kernel - A Jupyter kernel to launch queries against SPARQL endpoints",
+                "fallback": "GitHub: paulovn\/sparql-kernel",
+                "from_url": "https:\/\/github.com\/paulovn\/sparql-kernel",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/2182574?s=400&v=4",
+                "thumb_width": 216,
+                "thumb_height": 216,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/paulovn\/sparql-kernel"
+            }
+        ],
+        "ts": "1535190866.000100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U94B2N1PV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U5MQK0JM8",
+        "text": "<@U5MQK0JM8> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535190901.000200"
+    },
+    {
+        "type": "message",
+        "text": "Here ist the presentation I just showed you with an introduction into Linked Data and Semantic Web",
+        "files": [
+            {
+                "id": "FCEDTDYEL",
+                "created": 1535191097,
+                "timestamp": 1535191097,
+                "name": "Linked-Data_Semantic-Web_intro_Michael-Grueebler.pdf",
+                "title": "Linked-Data_Semantic-Web_intro_Michael-Grueebler.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U5A5NA4U8",
+                "editable": false,
+                "size": 1862259,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCEDTDYEL\/linked-data_semantic-web_intro_michael-grueebler.pdf?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCEDTDYEL\/download\/linked-data_semantic-web_intro_michael-grueebler.pdf?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCEDTDYEL-ed9212cd56\/linked-data_semantic-web_intro_michael-grueebler_thumb_pdf.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_pdf_w": 1100,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/twist2018.slack.com\/files\/U5A5NA4U8\/FCEDTDYEL\/linked-data_semantic-web_intro_michael-grueebler.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCEDTDYEL-0e73798549"
+            }
+        ],
+        "upload": true,
+        "user": "U5A5NA4U8",
+        "display_as_bot": false,
+        "ts": "1535191098.000100",
+        "reactions": [
+            {
+                "name": "rocket",
+                "users": [
+                    "UBKBDPPJQ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UBHF5RBM2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UCFUWUNNA",
+        "text": "<https:\/\/www.oclc.org\/developer\/news\/2016\/making-sense-of-linked-data-with-python.en.html>",
+        "client_msg_id": "fc7301dc-f2a8-4eb9-877e-68db8febfc1f",
+        "attachments": [
+            {
+                "title": "Making Sense of Linked Data with Python | OCLC Developer Network",
+                "title_link": "https:\/\/www.oclc.org\/developer\/news\/2016\/making-sense-of-linked-data-with-python.en.html",
+                "text": "Learn about how to use Python to consume linked data from a specific graph URL.",
+                "fallback": "Making Sense of Linked Data with Python | OCLC Developer Network",
+                "from_url": "https:\/\/www.oclc.org\/developer\/news\/2016\/making-sense-of-linked-data-with-python.en.html",
+                "service_icon": "https:\/\/www.oclc.org\/etc\/designs\/oclc\/images\/apple-touch-icon-precomposed.png",
+                "service_name": "oclc.org",
+                "id": 1,
+                "original_url": "https:\/\/www.oclc.org\/developer\/news\/2016\/making-sense-of-linked-data-with-python.en.html"
+            }
+        ],
+        "ts": "1535193800.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCFUWUNNA",
+        "text": "Potentially helpful for python users",
+        "client_msg_id": "60b7ddb3-3fa7-46ed-9d55-93c836051f1f",
+        "ts": "1535193809.000100"
+    },
+    {
+        "user": "UC79TQ222",
+        "text": "<@UC79TQ222> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535194373.000200"
+    },
+    {
+        "type": "message",
+        "user": "U5A5NA4U8",
+        "text": "For an easy overview to the data of the city of zurich, you can use the following beta portal viewer: <https:\/\/stat.stadt-zuerich.ch\/>",
+        "client_msg_id": "897eafdb-37bd-4b95-907c-3b8e595d847c",
+        "ts": "1535197192.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5A5NA4U8",
+        "text": "Our project page: <http:\/\/hack.twist2018.ch\/project\/1>",
+        "client_msg_id": "ae214d57-f2ce-4252-874a-9144243ba111",
+        "attachments": [
+            {
+                "title": "\\o\/ - Brand new LOSD, City of Zurich",
+                "title_link": "http:\/\/hack.twist2018.ch\/project\/1",
+                "text": "Be one of the first ever to work with the brand new LOSD from the City of Zurich released today!",
+                "fallback": "\\o\/ - Brand new LOSD, City of Zurich",
+                "thumb_url": "http:\/\/www.w3.org\/RDF\/icons\/rdf_w3c_icon.128",
+                "from_url": "http:\/\/hack.twist2018.ch\/project\/1",
+                "thumb_width": 118,
+                "thumb_height": 128,
+                "service_name": "hack.twist2018.ch",
+                "id": 1,
+                "original_url": "http:\/\/hack.twist2018.ch\/project\/1"
+            }
+        ],
+        "ts": "1535197532.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBHF5RBM2",
+        "text": "if you want to query using a jupyter notebook:\ninstall with: conda install sparqlwrapper\nget the python code here:\n<https:\/\/query.wikidata.org\/> &gt; \"examples\" &gt; select any example &gt; run it &gt; click on \"&lt;code&gt;\" &gt; click on python\ncopy it to the notebook and run it.\nyou can change to point your query to the city of zurich's endpoint:\n_sparql = SPARQLWrapper(\"<https:\/\/ld.stadt-zuerich.ch\/sparql\/>\")_",
+        "client_msg_id": "6fab99a5-b3eb-454b-8ad4-5593b8c61a94",
+        "thread_ts": "1535197623.000100",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "UBKBDPPJQ",
+                "ts": "1535198430.000100"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1535197623.000100",
+        "reactions": [
+            {
+                "name": "rocket",
+                "users": [
+                    "UBKBDPPJQ",
+                    "UC2LV8DEU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "text": "Top! We could prepare a Notebook to show off some of the ZH data and\/or create a website with Dash <https:\/\/dash.plot.ly\/gallery>. Steps: query the ZH Linked Data DB, convert the results to a Pandas DataFrame, plot the data, ...",
+        "client_msg_id": "ae6d3f67-1576-496a-9fab-6c7f5decd64b",
+        "thread_ts": "1535197623.000100",
+        "is_thread_broadcast": true,
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "user": "UBKBDPPJQ",
+        "root": {
+            "type": "message",
+            "user": "UBHF5RBM2",
+            "text": "if you want to query using a jupyter notebook:\ninstall with: conda install sparqlwrapper\nget the python code here:\n<https:\/\/query.wikidata.org\/> &gt; \"examples\" &gt; select any example &gt; run it &gt; click on \"&lt;code&gt;\" &gt; click on python\ncopy it to the notebook and run it.\nyou can change to point your query to the city of zurich's endpoint:\n_sparql = SPARQLWrapper(\"<https:\/\/ld.stadt-zuerich.ch\/sparql\/>\")_",
+            "client_msg_id": "6fab99a5-b3eb-454b-8ad4-5593b8c61a94",
+            "thread_ts": "1535197623.000100",
+            "reply_count": 1,
+            "replies": [
+                {
+                    "user": "UBKBDPPJQ",
+                    "ts": "1535198430.000100"
+                }
+            ],
+            "unread_count": 1,
+            "ts": "1535197623.000100"
+        },
+        "ts": "1535198430.000100"
+    },
+    {
+        "user": "U59EH5MC1",
+        "text": "<@U59EH5MC1> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535198535.000200"
+    },
+    {
+        "type": "message",
+        "user": "U94B2N1PV",
+        "text": "When you discussed the idea of mapping the city to help people decide where to live, it reminded me of this: <http:\/\/lisa.west.uni-koblenz.de\/> (with cases on the right corner, that were meant to be also for people coming to a city \/ wanting to start a business)",
+        "client_msg_id": "6d1a4f7c-8026-4495-b8f7-991592b14d31",
+        "ts": "1535200659.000100"
+    },
+    {
+        "user": "UBN6K2U3Z",
+        "text": "<@UBN6K2U3Z> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535201043.000200"
+    },
+    {
+        "type": "message",
+        "text": "hello world to connect to sparql endpoint with python on a notebook",
+        "files": [
+            {
+                "id": "FCEKDC88Z",
+                "created": 1535202446,
+                "timestamp": 1535202446,
+                "name": "sparql in python.ipynb",
+                "title": "sparql in python.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "UBHF5RBM2",
+                "editable": false,
+                "size": 20269,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCEKDC88Z\/sparql_in_python.ipynb?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCEKDC88Z\/download\/sparql_in_python.ipynb?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UBHF5RBM2\/FCEKDC88Z\/sparql_in_python.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCEKDC88Z-38f4cdc86a"
+            }
+        ],
+        "upload": true,
+        "user": "UBHF5RBM2",
+        "display_as_bot": false,
+        "ts": "1535202447.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBHNRLWQ6",
+        "text": "file:\/\/\/C:\/Users\/Klemens\/Downloads\/JB_2017_kapitel_09.pdf",
+        "client_msg_id": "aeb8cc2c-e0df-49f6-8031-a5b31d596996",
+        "ts": "1535202804.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBHNRLWQ6",
+        "text": "table T_9.3.27",
+        "client_msg_id": "48c65425-1d42-4a16-af7e-f8e6232ab330",
+        "ts": "1535202822.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBHNRLWQ6",
+        "text": "<https:\/\/www.stadt-zuerich.ch\/prd\/de\/index\/statistik\/publikationen-angebote\/publikationen\/Jahrbuch\/statistisches-jahrbuch-der-stadt-zuerich_2017\/JB_2017_kapitel-09.html>",
+        "client_msg_id": "a8522cd7-1e90-453a-bb8a-8630f260868c",
+        "attachments": [
+            {
+                "title": "Bau- und Wohnungswesen (Statistisches Jahrbuch der Stadt Zürich 2017, Kapitel 9) - Stadt Zürich",
+                "title_link": "https:\/\/www.stadt-zuerich.ch\/prd\/de\/index\/statistik\/publikationen-angebote\/publikationen\/Jahrbuch\/statistisches-jahrbuch-der-stadt-zuerich_2017\/JB_2017_kapitel-09.html",
+                "text": "Bautätigkeit, Gebäudebestand, Wohnungsbestand, leer stehende Wohnungen und Nutzflächen",
+                "fallback": "Bau- und Wohnungswesen (Statistisches Jahrbuch der Stadt Zürich 2017, Kapitel 9) - Stadt Zürich",
+                "from_url": "https:\/\/www.stadt-zuerich.ch\/prd\/de\/index\/statistik\/publikationen-angebote\/publikationen\/Jahrbuch\/statistisches-jahrbuch-der-stadt-zuerich_2017\/JB_2017_kapitel-09.html",
+                "service_icon": "https:\/\/www.stadt-zuerich.ch\/etc\/designs\/stzh\/extensions\/favicon.ico",
+                "service_name": "stadt-zuerich.ch",
+                "id": 1,
+                "original_url": "https:\/\/www.stadt-zuerich.ch\/prd\/de\/index\/statistik\/publikationen-angebote\/publikationen\/Jahrbuch\/statistisches-jahrbuch-der-stadt-zuerich_2017\/JB_2017_kapitel-09.html"
+            }
+        ],
+        "ts": "1535202954.000100"
+    },
+    {
+        "type": "message",
+        "text": "stub code to run a sparql query on DBPEDIA from Node.JS. precondition is \"npm install sparql-client-2\"",
+        "files": [
+            {
+                "id": "FCFB2K529",
+                "created": 1535203188,
+                "timestamp": 1535203188,
+                "name": "server.js",
+                "title": "server.js",
+                "mimetype": "text\/plain",
+                "filetype": "javascript",
+                "pretty_type": "JavaScript\/JSON",
+                "user": "UBHF5RBM2",
+                "editable": true,
+                "size": 486,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCFB2K529\/server.js?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCFB2K529\/download\/server.js?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UBHF5RBM2\/FCFB2K529\/server.js",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCFB2K529-e89754af1f",
+                "edit_link": "https:\/\/twist2018.slack.com\/files\/UBHF5RBM2\/FCFB2K529\/server.js\/edit",
+                "preview": "const SparqlClient = require('sparql-client-2');\r\n\r\n\r\n\/\/ Get the leaderName(s) of the 10 cities\r\nvar query = \"SELECT * FROM <http:\/\/dbpedia.org> WHERE { ?city <http:\/\/dbpedia.org\/property\/leaderName> ?leaderName } LIMIT 10\";\r",
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">const<\/span> <span class=\"cm-def\">SparqlClient<\/span> <span class=\"cm-operator\">=<\/span> <span class=\"cm-variable\">require<\/span>(<span class=\"cm-string\">'sparql-client-2'<\/span>);<\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre><span class=\"cm-comment\">\/\/ Get the leaderName(s) of the 10 cities<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">var<\/span> <span class=\"cm-def\">query<\/span> <span class=\"cm-operator\">=<\/span> <span class=\"cm-string\">&quot;SELECT * FROM &lt;http:\/\/dbpedia.org&gt; WHERE { ?city &lt;http:\/\/dbpedia.org\/property\/leaderName&gt; ?leaderName } LIMIT 10&quot;<\/span>;<\/pre><\/div>\n<\/div>\n<\/div>\n",
+                "lines": 13,
+                "lines_more": 8,
+                "preview_is_truncated": false
+            }
+        ],
+        "upload": true,
+        "user": "UBHF5RBM2",
+        "display_as_bot": false,
+        "thread_ts": "1535203189.000100",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "UBHF5RBM2",
+                "ts": "1535203265.000100"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1535203189.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCEDH9UQ0",
+        "text": "Topic: Pollution Dataset - I could not find Linked Data at ZRH or Swiss Level yet; however there is a CSV file with 2012 to today data for the 4 air quality control stations which we need to associate with \"Quartier\" <https:\/\/data.stadt-zuerich.ch\/dataset\/luftqualitaet-historisierte-messungen>",
+        "client_msg_id": "204822d2-0872-403b-9822-9fbdc7af7dc3",
+        "attachments": [
+            {
+                "title": "Monatlich aktualisierte Luftqualitätsmessungen - CKAN",
+                "title_link": "https:\/\/data.stadt-zuerich.ch\/dataset\/luftqualitaet-historisierte-messungen",
+                "text": "Berechnete Tageswerte der Luftqualitätsmessungen seit 1983 an den Stationen: Zch_Stampfenbachstrasse, Zch_Schimmelstrasse, Zch_Heubeeribüel und Zch_Rosengartenstrasse.",
+                "fallback": "Monatlich aktualisierte Luftqualitätsmessungen - CKAN",
+                "from_url": "https:\/\/data.stadt-zuerich.ch\/dataset\/luftqualitaet-historisierte-messungen",
+                "service_icon": "https:\/\/data.stadt-zuerich.ch\/favicon.ico",
+                "service_name": "data.stadt-zuerich.ch",
+                "id": 1,
+                "original_url": "https:\/\/data.stadt-zuerich.ch\/dataset\/luftqualitaet-historisierte-messungen"
+            }
+        ],
+        "thread_ts": "1535203214.000100",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "UCEDH9UQ0",
+                "ts": "1535203995.000100"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1535203214.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBHF5RBM2",
+        "text": "web GUI for this result on DBPEDIA is: <https:\/\/dbpedia.org\/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=SELECT+*+FROM+%3Chttp%3A%2F%2Fdbpedia.org%3E+WHERE+%7B+%0D%0A%3Fcity+%3Chttp%3A%2F%2Fdbpedia.org%2Fproperty%2FleaderName%3E+%3FleaderName%0D%0A%7D+LIMIT+10&amp;format=text%2Fhtml&amp;CXML_redir_for_subjs=121&amp;CXML_redir_for_hrefs=&amp;timeout=30000&amp;debug=on&amp;run=+Run+Query+>",
+        "client_msg_id": "ba471fd6-0e04-409f-9f0e-b54f0423fc6a",
+        "thread_ts": "1535203189.000100",
+        "parent_user_id": "UBHF5RBM2",
+        "ts": "1535203265.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBHNRLWQ6",
+        "text": "Swissratio :slightly_smiling_face: <http:\/\/yasgui.org\/short\/B1DStC0LX>",
+        "client_msg_id": "e34df72d-d995-4941-a5b3-0782e0651082",
+        "ts": "1535203656.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBHNRLWQ6",
+        "text": "per quarter...",
+        "client_msg_id": "2ba2d731-edd6-4ea1-8018-8c931fcf6e43",
+        "ts": "1535203666.000100",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U59EH5MC1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U94B2N1PV",
+        "text": "<@U5A5NA4U8> ```select ?item\n{?item p:P528 ?statement . ?statement pq:P972 wd:Q53629101}``` gives you fountains that were inserted in Wikidata annotated as catalogue <https:\/\/www.wikidata.org\/wiki\/Q53629101>",
+        "client_msg_id": "5042ab53-28c8-4c60-becc-42f97e086c2d",
+        "edited": {
+            "user": "U94B2N1PV",
+            "ts": "1535203868.000000"
+        },
+        "ts": "1535203837.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBHNRLWQ6",
+        "text": "swissratio per district, only latest value... <http:\/\/yasgui.org\/short\/BybE90RI7>",
+        "client_msg_id": "bfeca4a9-9656-4d5a-a218-456bae84bcc8",
+        "ts": "1535203899.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCEDH9UQ0",
+        "text": "In case this is better to integrate, there is also a real time app <https:\/\/itunes.apple.com\/us\/app\/aircheck\/id577766644?l=it&amp;ls=1&amp;mt=8>",
+        "client_msg_id": "0b9ccc26-3fc1-49d8-ae3d-aab2ca5d1202",
+        "attachments": [
+            {
+                "service_name": "App Store",
+                "title": "‎airCHeck on the App Store",
+                "title_link": "https:\/\/itunes.apple.com\/us\/app\/aircheck\/id577766644?l=it&ls=1&mt=8",
+                "text": "‎Read reviews, compare customer ratings, see screenshots, and learn more about airCHeck. Download airCHeck and enjoy it on your iPhone, iPad, and iPod touch.",
+                "fallback": "App Store: ‎airCHeck on the App Store",
+                "thumb_url": "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Purple128\/v4\/b5\/4e\/64\/b54e64c5-cab5-be32-4657-e4ed113a1ea5\/mzl.mxdbictt.png\/1200x630wa.jpg",
+                "from_url": "https:\/\/itunes.apple.com\/us\/app\/aircheck\/id577766644?l=it&ls=1&mt=8",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/itunes.apple.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/itunes.apple.com\/us\/app\/aircheck\/id577766644?l=it&amp;ls=1&amp;mt=8"
+            }
+        ],
+        "thread_ts": "1535203214.000100",
+        "parent_user_id": "UCEDH9UQ0",
+        "ts": "1535203995.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBHNRLWQ6",
+        "text": "per quarter: people with short term residents (Ausweis L): <http:\/\/yasgui.org\/short\/B1S5ACA8Q>",
+        "client_msg_id": "13aa3573-b171-421f-b720-dd7f045dede7",
+        "ts": "1535205032.000100"
+    },
+    {
+        "type": "message",
+        "text": "front-end javascript calls to SparQL (works with dbpedia, stadtzurich and wikidata). no preconditions needed, just copy the index.html and query.js into the same folder",
+        "files": [
+            {
+                "id": "FCEFD0EE4",
+                "created": 1535208070,
+                "timestamp": 1535208070,
+                "name": "index.html",
+                "title": "index.html",
+                "mimetype": "text\/plain",
+                "filetype": "html",
+                "pretty_type": "HTML",
+                "user": "UBHF5RBM2",
+                "editable": true,
+                "size": 866,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCEFD0EE4\/index.html?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCEFD0EE4\/download\/index.html?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UBHF5RBM2\/FCEFD0EE4\/index.html",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCEFD0EE4-a5d84c6efb",
+                "edit_link": "https:\/\/twist2018.slack.com\/files\/UBHF5RBM2\/FCEFD0EE4\/index.html\/edit",
+                "preview": "<html>\r\n  <head>\r\n    <!-- <script src=\"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/p5.js\/0.7.1\/p5.js\"><\/script> -->\r\n    <script src=\"query.js\"><\/script>\r\n  <\/head>\r",
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">html<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><\/pre><\/div>\n<div><pre>  <span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">head<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><\/pre><\/div>\n<div><pre>    <span class=\"cm-comment\">&lt;!-- &lt;script src=&quot;https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/p5.js\/0.7.1\/p5.js&quot;&gt;&lt;\/script&gt; --&gt;<\/span><\/pre><\/div>\n<div><pre>    <span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">script<\/span> <span class=\"cm-attribute\">src<\/span>=<span class=\"cm-string\">&quot;query.js&quot;<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><span class=\"cm-tag cm-bracket\">&lt;\/<\/span><span class=\"cm-tag\">script<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><\/pre><\/div>\n<div><pre>  <span class=\"cm-tag cm-bracket\">&lt;\/<\/span><span class=\"cm-tag\">head<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><\/pre><\/div>\n<\/div>\n<\/div>\n",
+                "lines": 25,
+                "lines_more": 20,
+                "preview_is_truncated": false
+            }
+        ],
+        "upload": true,
+        "user": "UBHF5RBM2",
+        "display_as_bot": false,
+        "ts": "1535208071.000100"
+    },
+    {
+        "type": "message",
+        "text": "front-end javascript calls to SparQL (works with dbpedia, stadtzurich and wikidata). no preconditions needed, just copy the index.html and query.js into the same folder",
+        "files": [
+            {
+                "id": "FCGH5KX0E",
+                "created": 1535208072,
+                "timestamp": 1535208072,
+                "name": "query.js",
+                "title": "query.js",
+                "mimetype": "text\/plain",
+                "filetype": "javascript",
+                "pretty_type": "JavaScript\/JSON",
+                "user": "UBHF5RBM2",
+                "editable": true,
+                "size": 1123,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCGH5KX0E\/query.js?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCGH5KX0E\/download\/query.js?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UBHF5RBM2\/FCGH5KX0E\/query.js",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCGH5KX0E-872e8d4b1c",
+                "edit_link": "https:\/\/twist2018.slack.com\/files\/UBHF5RBM2\/FCGH5KX0E\/query.js\/edit",
+                "preview": "let endpointUrl = 'https:\/\/query.wikidata.org\/sparql';\r\nconst headers = { 'Accept': 'application\/sparql-results+json' };\r\n\r\n\r\nwindow.onload = function () {\r",
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">let<\/span> <span class=\"cm-def\">endpointUrl<\/span> <span class=\"cm-operator\">=<\/span> <span class=\"cm-string\">'https:\/\/query.wikidata.org\/sparql'<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">const<\/span> <span class=\"cm-def\">headers<\/span> <span class=\"cm-operator\">=<\/span> { <span class=\"cm-string cm-property\">'Accept'<\/span>: <span class=\"cm-string\">'application\/sparql-results+json'<\/span> };<\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre><span class=\"cm-variable\">window<\/span>.<span class=\"cm-property\">onload<\/span> <span class=\"cm-operator\">=<\/span> <span class=\"cm-keyword\">function<\/span> () {<\/pre><\/div>\n<\/div>\n<\/div>\n",
+                "lines": 32,
+                "lines_more": 27,
+                "preview_is_truncated": true
+            }
+        ],
+        "upload": true,
+        "user": "UBHF5RBM2",
+        "display_as_bot": false,
+        "ts": "1535208073.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCEDJHMEC",
+        "text": "Geopandas to join polygons vs points = <http:\/\/geopandas.org\/install.html>",
+        "client_msg_id": "bff05dd6-f263-4efe-86d3-a268df8ccd6b",
+        "ts": "1535208162.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBHNRLWQ6",
+        "text": "per quarter: ratio of Swiss residents, ratio of short stay residents (Kurzaufenthalter\/-innen, mit L-Ausweis), ratio of  'real Zurich people' (Stadtbürger\/-innen): <http:\/\/yasgui.org\/short\/ry5GAkyDQ>",
+        "client_msg_id": "f1b3827a-e233-4a5f-98e7-68d60fe70951",
+        "ts": "1535209207.000100"
+    },
+    {
+        "type": "message",
+        "text": "The formatting of the query string can be improved. Please do so as you see fit.",
+        "files": [
+            {
+                "id": "FCF7DB334",
+                "created": 1535210861,
+                "timestamp": 1535210861,
+                "name": "python_sparql_query.py",
+                "title": "python_sparql_query",
+                "mimetype": "text\/plain",
+                "filetype": "python",
+                "pretty_type": "Python",
+                "user": "UCFUWUNNA",
+                "editable": true,
+                "size": 471,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF7DB334\/python_sparql_query.py?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF7DB334\/download\/python_sparql_query.py?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UCFUWUNNA\/FCF7DB334\/python_sparql_query.py",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCF7DB334-aff13407e7",
+                "edit_link": "https:\/\/twist2018.slack.com\/files\/UCFUWUNNA\/FCF7DB334\/python_sparql_query.py\/edit",
+                "preview": "from SPARQLWrapper import SPARQLWrapper, JSON\r\n\r\nsparql = SPARQLWrapper(\"https:\/\/ld.stadt-zuerich.ch\/query\")\r\nsparql.setQuery(\"\"\"\r\nPREFIX rdfs: <http:\/\/www.w3.org\/2000\/01\/rdf-schema#> \r",
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">from<\/span> <span class=\"cm-variable\">SPARQLWrapper<\/span> <span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">SPARQLWrapper<\/span>, <span class=\"cm-variable\">JSON<\/span><\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre><span class=\"cm-variable\">sparql<\/span> = <span class=\"cm-variable\">SPARQLWrapper<\/span>(<span class=\"cm-string\">&quot;https:\/\/ld.stadt-zuerich.ch\/query&quot;<\/span>)<\/pre><\/div>\n<div><pre><span class=\"cm-variable\">sparql<\/span>.<span class=\"cm-property\">setQuery<\/span>(<span class=\"cm-string\">&quot;&quot;&quot;<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-string\">PREFIX rdfs: &lt;http:\/\/www.w3.org\/2000\/01\/rdf-schema#&gt; <\/span><\/pre><\/div>\n<\/div>\n<\/div>\n",
+                "lines": 17,
+                "lines_more": 12,
+                "preview_is_truncated": false
+            }
+        ],
+        "upload": true,
+        "user": "UCFUWUNNA",
+        "display_as_bot": false,
+        "ts": "1535210862.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBHNRLWQ6",
+        "text": "age: 80 years and older, 15 years or younger: <http:\/\/yasgui.org\/short\/H1IDLgywQ>",
+        "client_msg_id": "c40cc6c0-0fa7-4110-a0d9-ae4679cee827",
+        "ts": "1535211209.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCEDH9UQ0",
+        "text": "Latest Query for Linked Data re. Polution",
+        "client_msg_id": "5fd50e5b-9740-4570-9004-4f6527e16b23",
+        "ts": "1535211907.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCEDH9UQ0",
+        "text": "PREFIX schema: &lt;http:\/\/qweb.cs.aau.dk\/airbase\/schema\/&gt;\nPREFIX property: &lt;http:\/\/qweb.cs.aau.dk\/airbase\/property\/&gt;\nPREFIX xsd: &lt;http:\/\/www.w3.org\/2001\/XMLSchema#&gt;\nSELECT ?year ?station ?type (AVG(?value) as ?AVGVALUE) WHERE {\n     ?obs ?type ?value.\n     ?obs schema:station ?station .\n     #?station property:type \"Traffic\"^^xsd:string .\n     ?obs schema:year ?year .\n     ?year property:yearNum \"2012\"^^xsd:integer .\n     {  ?station schema:inCity ?city .\n         ?city schema:locatedIn ?country .\n     } UNION {\n         ?station schema:inCountry ?country .\n     }\n     ?obs schema:sensor ?sensor .\n     ?sensor property:statisticShortName \"Mean\"^^xsd:string .\n     ?country property:isoCode ?isocode .\n      FILTER( ?isocode IN (\"CH\"^^xsd:string) )\n      # Air Quality Station ZSS = Stampfenbachstrasse (6,7,8), ZBW = Schimmelstrasse (2,3,9), ZUE = Zurich Caserne (1,4,5,10), DUE = Dubendorf (11,12)\n      FILTER( ?station IN (&lt;http:\/\/qweb.cs.aau.dk\/airbase\/data\/station\/CH0013A_ZSS\/&gt; ,\n                           &lt;http:\/\/qweb.cs.aau.dk\/airbase\/data\/station\/CH0021A_ZBW\/&gt;,\n                           &lt;http:\/\/qweb.cs.aau.dk\/airbase\/data\/station\/CH0010A_ZUE\/&gt;,\n                           &lt;http:\/\/qweb.cs.aau.dk\/airbase\/data\/station\/CH0005A_DUE\/&gt;) )\n\n      FILTER( ?type IN (&lt;http:\/\/qweb.cs.aau.dk\/airbase\/schema\/NOX&gt; ,\n                        &lt;http:\/\/qweb.cs.aau.dk\/airbase\/schema\/CO&gt; ,\n                        &lt;http:\/\/qweb.cs.aau.dk\/airbase\/schema\/PM10&gt;) )\n\n} GROUP BY ?station ?type ?year",
+        "client_msg_id": "d380b6aa-5685-4c39-aa0e-759c41666050",
+        "ts": "1535211910.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCEDH9UQ0",
+        "text": "Endpoint for this query is <http:\/\/lod.cs.aau.dk:8891\/sparql>",
+        "client_msg_id": "c90e5a2c-ab62-4bb9-8e43-78548ab3bea5",
+        "thread_ts": "1535212572.000100",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "UCEDH9UQ0",
+                "ts": "1535212757.000100"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1535212572.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCEDH9UQ0",
+        "text": "Some details <http:\/\/qweb.cs.aau.dk\/qboairbase\/>",
+        "client_msg_id": "aaeddfed-a6ad-4ea9-a820-54482c92117d",
+        "thread_ts": "1535212572.000100",
+        "parent_user_id": "UCEDH9UQ0",
+        "ts": "1535212757.000100"
+    },
+    {
+        "user": "UC72J7LNT",
+        "text": "<@UC72J7LNT> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535213299.000200"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FCFBZ4R8D",
+                "created": 1535213300,
+                "timestamp": 1535213300,
+                "name": "Rent-per-Quartier-ZHCity-2011-2015-Eliane.xlsx",
+                "title": "Rent-per-Quartier-ZHCity-2011-2015-Eliane.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UC72J7LNT",
+                "editable": false,
+                "size": 11577,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCFBZ4R8D\/rent-per-quartier-zhcity-2011-2015-eliane.xlsx?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCFBZ4R8D\/download\/rent-per-quartier-zhcity-2011-2015-eliane.xlsx?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UC72J7LNT\/FCFBZ4R8D\/rent-per-quartier-zhcity-2011-2015-eliane.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCFBZ4R8D-7021310861"
+            }
+        ],
+        "upload": true,
+        "user": "UC72J7LNT",
+        "display_as_bot": false,
+        "ts": "1535213301.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBHNRLWQ6",
+        "text": "<https:\/\/data.stadt-zuerich.ch\/dataset\/statistisches-quartier>",
+        "client_msg_id": "774a189d-12b8-45dd-a6e2-314522f2bb4a",
+        "attachments": [
+            {
+                "title": "Statistische Quartiere - CKAN",
+                "title_link": "https:\/\/data.stadt-zuerich.ch\/dataset\/statistisches-quartier",
+                "text": "Die 34 Statistischen Quartiere basieren auf den Stadtquartieren und erhielten 1970 ihre heutige Einteilung. Dabei wurden die damals bevölkerungsmässig grössten sechs Stadtquartiere weiter unterteilt.",
+                "fallback": "Statistische Quartiere - CKAN",
+                "from_url": "https:\/\/data.stadt-zuerich.ch\/dataset\/statistisches-quartier",
+                "service_icon": "https:\/\/data.stadt-zuerich.ch\/favicon.ico",
+                "service_name": "data.stadt-zuerich.ch",
+                "id": 1,
+                "original_url": "https:\/\/data.stadt-zuerich.ch\/dataset\/statistisches-quartier"
+            }
+        ],
+        "ts": "1535213503.000100"
+    },
+    {
+        "type": "message",
+        "user": "U94B2N1PV",
+        "text": "did someone make a matching from coordinate to Quartier? Or is there somewhere a file where to look at the shape of the Quartier?",
+        "client_msg_id": "ea540026-d516-4c4d-b772-14d9f2e1d2cc",
+        "thread_ts": "1535213719.000100",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "UBKBDPPJQ",
+                "ts": "1535213905.000100"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1535213719.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBKBDPPJQ",
+        "text": "working on it! <@UBHNRLWQ6>",
+        "client_msg_id": "c8261262-2a18-4263-9963-08f15080f30d",
+        "ts": "1535213880.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBKBDPPJQ",
+        "text": "message above from Klemens",
+        "client_msg_id": "9d9d57f6-8272-4ef1-ada3-ec18b360ac23",
+        "thread_ts": "1535213719.000100",
+        "parent_user_id": "U94B2N1PV",
+        "ts": "1535213905.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCEDJHMEC",
+        "text": "USAGE OF GEOPANDAS:\nimport geopandas;\nquartiere = geopandas.read_file('statistische_quartiere.json');\nurl_kinderkrippe = \"<https:\/\/data.stadt-zuerich.ch\/dataset\/kinderkrippe\/resource\/09161532-7b07-4bbb-82f9-9bf3c49aee76\/download\/kinderkrippe.json>\";\nkinderkrippe = geopandas.read_file(url_kinderkrippe);\nkinderkrippe_joint = geopandas.sjoin(quartiere, kinderkrippe, how=\"left\", op=\"intersects\");",
+        "client_msg_id": "0a743232-99aa-413a-9e44-12a19db7ddd1",
+        "thread_ts": "1535214167.000100",
+        "reply_count": 3,
+        "replies": [
+            {
+                "user": "UBHF5RBM2",
+                "ts": "1535214540.000100"
+            },
+            {
+                "user": "U5MQK0JM8",
+                "ts": "1535216647.000100"
+            },
+            {
+                "user": "UBKBDPPJQ",
+                "ts": "1535216993.000100"
+            }
+        ],
+        "unread_count": 3,
+        "ts": "1535214167.000100",
+        "reactions": [
+            {
+                "name": "sunglasses",
+                "users": [
+                    "UBN6K2U3Z"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UBHF5RBM2",
+                    "UBHNRLWQ6",
+                    "U5MQK0JM8"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U94B2N1PV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UBHNRLWQ6",
+        "text": "population density per quarter (people per km2 (land without forest): <http:\/\/yasgui.org\/short\/HycymbJPQ>",
+        "client_msg_id": "efd2fe35-39e9-4fa0-b171-c97b3d3a17a3",
+        "ts": "1535214370.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBHF5RBM2",
+        "text": "can you publish the statistische_quartiere.json as well?",
+        "client_msg_id": "81612dab-e685-45a5-abe5-823078bac794",
+        "thread_ts": "1535214167.000100",
+        "parent_user_id": "UCEDJHMEC",
+        "ts": "1535214540.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5MQK0JM8",
+        "text": "i think it's <https:\/\/twist2018.slack.com\/archives\/CCG6BJM47\/p1535213503000100>",
+        "client_msg_id": "232ab6b0-6842-4c94-bac4-c068a5fd60a8",
+        "attachments": [
+            {
+                "title": "Statistische Quartiere - CKAN",
+                "title_link": "https:\/\/data.stadt-zuerich.ch\/dataset\/statistisches-quartier",
+                "text": "Die 34 Statistischen Quartiere basieren auf den Stadtquartieren und erhielten 1970 ihre heutige Einteilung. Dabei wurden die damals bevölkerungsmässig grössten sechs Stadtquartiere weiter unterteilt.",
+                "fallback": "Statistische Quartiere - CKAN",
+                "from_url": "https:\/\/data.stadt-zuerich.ch\/dataset\/statistisches-quartier",
+                "service_icon": "https:\/\/data.stadt-zuerich.ch\/favicon.ico",
+                "service_name": "data.stadt-zuerich.ch",
+                "id": 1,
+                "original_url": "https:\/\/twist2018.slack.com\/archives\/CCG6BJM47\/p1535213503000100"
+            }
+        ],
+        "thread_ts": "1535214167.000100",
+        "parent_user_id": "UCEDJHMEC",
+        "ts": "1535216647.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBKBDPPJQ",
+        "text": "yep!",
+        "client_msg_id": "6a5a0c27-9b87-414d-a648-a0cbe98506d6",
+        "thread_ts": "1535214167.000100",
+        "parent_user_id": "UCEDJHMEC",
+        "ts": "1535216993.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCEDH9UQ0",
+        "text": "Topic: Street Traffic - no linked or open data; however a pretty good Map interface in case some of you know how to extract the data ? <http:\/\/maps.zh.ch\/?topic=TBAStrassenlaermZH>",
+        "client_msg_id": "9498f5d1-aee2-46e2-99ba-68179f8418d2",
+        "ts": "1535220341.000100"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FCF4GV09Z",
+                "created": 1535220527,
+                "timestamp": 1535220527,
+                "name": "Street Noise map.jpeg",
+                "title": "Street Noise map.jpeg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UCEDH9UQ0",
+                "editable": false,
+                "size": 432391,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF4GV09Z\/street_noise_map.jpeg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF4GV09Z\/download\/street_noise_map.jpeg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF4GV09Z-89f0030576\/street_noise_map_64.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF4GV09Z-89f0030576\/street_noise_map_80.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF4GV09Z-89f0030576\/street_noise_map_360.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360_w": 360,
+                "thumb_360_h": 316,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF4GV09Z-89f0030576\/street_noise_map_480.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_480_w": 480,
+                "thumb_480_h": 422,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF4GV09Z-89f0030576\/street_noise_map_160.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF4GV09Z-89f0030576\/street_noise_map_720.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720_w": 720,
+                "thumb_720_h": 632,
+                "image_exif_rotation": 1,
+                "original_w": 764,
+                "original_h": 671,
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UCEDH9UQ0\/FCF4GV09Z\/street_noise_map.jpeg",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCF4GV09Z-bb9a99a8c6"
+            }
+        ],
+        "upload": true,
+        "user": "UCEDH9UQ0",
+        "display_as_bot": false,
+        "ts": "1535220530.000100"
+    },
+    {
+        "type": "message",
+        "user": "U94B2N1PV",
+        "text": "for creating owl:sameAs links, indicating how to map entities of two different data sets (that can be queried via SPARQL endpoint or RDF data files): <http:\/\/silkframework.org\/>",
+        "client_msg_id": "532f1e5b-e678-49de-a4dd-e02126ff9e02",
+        "edited": {
+            "user": "U94B2N1PV",
+            "ts": "1535220798.000000"
+        },
+        "ts": "1535220779.000100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5A5NA4U8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U5A5NA4U8",
+        "text": "Pollution per Quartier measured in NOX, CO2 and PM10: <http:\/\/yasgui.org\/short\/HJcB3G1Pm>",
+        "client_msg_id": "672178ca-e023-461d-a32b-4f947e00a8e4",
+        "ts": "1535221529.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCEDH9UQ0",
+        "text": "<https:\/\/map.geo.admin.ch\/?lang=de&amp;topic=ech&amp;bgLayer=ch.swisstopo.pixelkarte-farbe&amp;layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,ch.bafu.laerm-strassenlaerm_tag,ch.astra.strassenverkehrszaehlung_messstellen-regional_lokal&amp;layers_visibility=false,false,false,false,true,false&amp;layers_timestamp=18641231,,,,,&amp;layers_opacity=1,1,1,1,0.75,1&amp;E=2682636.16&amp;N=1246452.08&amp;zoom=7>",
+        "client_msg_id": "8ba03a2b-4955-406d-97aa-857dc172c9c5",
+        "attachments": [
+            {
+                "service_name": "geo.admin.ch",
+                "title": "Swiss Geoportal",
+                "title_link": "https:\/\/map.geo.admin.ch\/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,ch.bafu.laerm-strassenlaerm_tag,ch.astra.strassenverkehrszaehlung_messstellen-regional_lokal&layers_visibility=false,false,false,false,true,false&layers_timestamp=18641231,,,,,&layers_opacity=1,1,1,1,0.75,1&E=2682636.16&N=1246452.08&zoom=7",
+                "text": "<http:\/\/geo.admin.ch|geo.admin.ch> ist die Geoinformationsplattform der Schweizerischen Eidgenossenschaft. \/\/ <http:\/\/geo.admin.ch|geo.admin.ch> est la plateforme de géoinformation de la Confédération suisse.",
+                "fallback": "geo.admin.ch: Swiss Geoportal",
+                "thumb_url": "https:\/\/cms.geo.admin.ch\/img\/logo_geoportal.png",
+                "from_url": "https:\/\/map.geo.admin.ch\/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,ch.bafu.laerm-strassenlaerm_tag,ch.astra.strassenverkehrszaehlung_messstellen-regional_lokal&layers_visibility=false,false,false,false,true,false&layers_timestamp=18641231,,,,,&layers_opacity=1,1,1,1,0.75,1&E=2682636.16&N=1246452.08&zoom=7",
+                "thumb_width": 100,
+                "thumb_height": 100,
+                "service_icon": "https:\/\/map.geo.admin.ch\/master\/e9c53df\/1807181420\/1807181420\/img\/touch-icon-bund-76x76.png",
+                "id": 1,
+                "original_url": "https:\/\/map.geo.admin.ch\/?lang=de&amp;topic=ech&amp;bgLayer=ch.swisstopo.pixelkarte-farbe&amp;layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,ch.bafu.laerm-strassenlaerm_tag,ch.astra.strassenverkehrszaehlung_messstellen-regional_lokal&amp;layers_visibility=false,false,false,false,true,false&amp;layers_timestamp=18641231,,,,,&amp;layers_opacity=1,1,1,1,0.75,1&amp;E=2682636.16&amp;N=1246452.08&amp;zoom=7"
+            }
+        ],
+        "ts": "1535221553.000100"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FCFCPM3TP",
+                "created": 1535221714,
+                "timestamp": 1535221714,
+                "name": "Have_a_Lac_on_the_Map.py",
+                "title": "Have a Lac on the Map",
+                "mimetype": "text\/plain",
+                "filetype": "python",
+                "pretty_type": "Python",
+                "user": "UBKNY8HKN",
+                "editable": true,
+                "size": 550,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCFCPM3TP\/have_a_lac_on_the_map.py?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCFCPM3TP\/download\/have_a_lac_on_the_map.py?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UBKNY8HKN\/FCFCPM3TP\/have_a_lac_on_the_map.py",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCFCPM3TP-1254e07e85",
+                "edit_link": "https:\/\/twist2018.slack.com\/files\/UBKNY8HKN\/FCFCPM3TP\/have_a_lac_on_the_map.py\/edit",
+                "preview": "import geopandas\r\nimport matplotlib.pyplot as plt\r\nquartier = geopandas.read_file(\r\n    \"https:\/\/data.stadt-zuerich.ch\/dataset\/statistisches_quartier\/resource\/c837926e-035d-48b9-8656-03f1b13c323b\/download\/statistische_quartiere.json\")\r\nlakes = geopandas.read_file(\r",
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">geopandas<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">matplotlib<\/span>.<span class=\"cm-property\">pyplot<\/span> <span class=\"cm-keyword\">as<\/span> <span class=\"cm-variable\">plt<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-variable\">quartier<\/span> = <span class=\"cm-variable\">geopandas<\/span>.<span class=\"cm-property\">read_file<\/span>(<\/pre><\/div>\n<div><pre>    <span class=\"cm-string\">&quot;https:\/\/data.stadt-zuerich.ch\/dataset\/statistisches_quartier\/resource\/c837926e-035d-48b9-8656-03f1b13c323b\/download\/statistische_quartiere.json&quot;<\/span>)<\/pre><\/div>\n<div><pre><span class=\"cm-variable\">lakes<\/span> = <span class=\"cm-variable\">geopandas<\/span>.<span class=\"cm-property\">read_file<\/span>(<\/pre><\/div>\n<\/div>\n<\/div>\n",
+                "lines": 10,
+                "lines_more": 5,
+                "preview_is_truncated": false
+            }
+        ],
+        "upload": true,
+        "user": "UBKNY8HKN",
+        "display_as_bot": false,
+        "ts": "1535221715.000100",
+        "reactions": [
+            {
+                "name": "top",
+                "users": [
+                    "UBKBDPPJQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "<@UCEDH9UQ0> you might test the raster2vector function in qgis. But the output might be of low quality. Maybe <@UBHNRLWQ6> can do it 4 u ;) <https:\/\/docs.qgis.org\/2.8\/en\/docs\/training_manual\/complete_analysis\/raster_to_vector.html>",
+        "client_msg_id": "809B2587-FCE3-4177-AD2B-716C743E99FA",
+        "ts": "1535221753.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBKNY8HKN",
+        "text": "<@UBKBDPPJQ> to subract the lake",
+        "client_msg_id": "9cc7a9fd-bd33-4feb-be13-54eda44bb5bf",
+        "ts": "1535221761.000100",
+        "reactions": [
+            {
+                "name": "rocket",
+                "users": [
+                    "UBKBDPPJQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Btw: some interesting opendata for you (selection :grimacing:) <https:\/\/data.stadt-zuerich.ch\/dataset?tags=twist2018>",
+        "client_msg_id": "47D3AFDB-17F3-4BCD-80D3-A283DE3610F8",
+        "ts": "1535221889.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5A5NA4U8",
+        "text": "Subqueries in SPARQL for <@UBHNRLWQ6>",
+        "client_msg_id": "d7d80470-3bea-4d5c-81d1-1dace6db33ba",
+        "ts": "1535222360.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5A5NA4U8",
+        "text": "Hier mit Link: <https:\/\/stackoverflow.com\/questions\/27061096\/sparql-using-subquery-with-limit>",
+        "client_msg_id": "5de1726c-2df1-4b0d-8c87-684750a53004",
+        "attachments": [
+            {
+                "service_name": "Stack Overflow",
+                "title": "SPARQL using subquery with limit",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/27061096\/sparql-using-subquery-with-limit",
+                "text": "I am developing a java application that uses ARQ to execute SPARQL queries using a Fuseki endpoint over TDB. The application needs a query that returns the place of birth of each person and other ...",
+                "fallback": "Stack Overflow: SPARQL using subquery with limit",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "from_url": "https:\/\/stackoverflow.com\/questions\/27061096\/sparql-using-subquery-with-limit",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "id": 1,
+                "original_url": "https:\/\/stackoverflow.com\/questions\/27061096\/sparql-using-subquery-with-limit"
+            }
+        ],
+        "ts": "1535222403.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5A5NA4U8",
+        "text": "SSZVIS StyleGuide with Map of Zurich: <https:\/\/statistikstadtzuerich.github.io\/sszvis\/#\/map-standard>",
+        "client_msg_id": "334ca4a5-3546-4d12-be62-3b67d6723d9b",
+        "ts": "1535222767.000100",
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U94B2N1PV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U5MQK0JM8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U5A5NA4U8",
+        "text": "The number of dogs per Quartier as an API Call on the Open Data Zurich Catalog: <https:\/\/data.stadt-zuerich.ch\/api\/3\/action\/datastore_search_sql?sql=SELECT%20stadtquartier,count(_id)%20as%20dogs%20from%20%22de5e409c-ebff-4a0b-b3a2-43ec69db801f%22%20GROUP%20BY%20stadtquartier>",
+        "client_msg_id": "cefcd450-a106-405a-9605-966e71de72bb",
+        "ts": "1535224028.000100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59EH5MC1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

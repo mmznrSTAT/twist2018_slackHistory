@@ -1,0 +1,555 @@
+[
+    {
+        "user": "UBP3398RE",
+        "text": "<@UBP3398RE> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535186740.000200"
+    },
+    {
+        "user": "UCER64K70",
+        "text": "<@UCER64K70> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535186752.000200"
+    },
+    {
+        "type": "message",
+        "user": "UCER64K70",
+        "text": "<http:\/\/hack.twist2018.ch\/project\/12>",
+        "client_msg_id": "66cdc96b-afc6-4543-a9b6-feeae724f0cb",
+        "attachments": [
+            {
+                "title": "Passenger flow at Hardbrücke",
+                "title_link": "http:\/\/hack.twist2018.ch\/project\/12",
+                "text": "How do the arrivals of busses, trams and trains have an effect on the occupancy rate in the vehicles or at the platform?",
+                "fallback": "Passenger flow at Hardbrücke",
+                "thumb_url": "http:\/\/ibv-zuerich.ch\/assets\/images\/bigshadow\/\/140217_bhf%20harbruecke2.JPG",
+                "from_url": "http:\/\/hack.twist2018.ch\/project\/12",
+                "thumb_width": 549,
+                "thumb_height": 492,
+                "service_name": "hack.twist2018.ch",
+                "id": 1,
+                "original_url": "http:\/\/hack.twist2018.ch\/project\/12"
+            }
+        ],
+        "ts": "1535186764.000200"
+    },
+    {
+        "user": "UCEC80S84",
+        "text": "<@UCEC80S84> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535186784.000200"
+    },
+    {
+        "user": "U59EH5MC1",
+        "text": "<@U59EH5MC1> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535186971.000200"
+    },
+    {
+        "user": "UCETZ15C4",
+        "text": "<@UCETZ15C4> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535187537.000200"
+    },
+    {
+        "user": "UCF0RR7HB",
+        "text": "<@UCF0RR7HB> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535190024.000200"
+    },
+    {
+        "type": "message",
+        "user": "UCF0RR7HB",
+        "text": "here you get the capacity of the vehicles:",
+        "client_msg_id": "51daa190-13aa-4ccc-9c1c-fc1d8d5bbe1c",
+        "ts": "1535190098.000100"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FCF9UJ9T7",
+                "created": 1535190138,
+                "timestamp": 1535190138,
+                "name": "VBZ_capacity_vehicles.xlsx",
+                "title": "VBZ_capacity_vehicles.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UCF0RR7HB",
+                "editable": false,
+                "size": 50832,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF9UJ9T7\/vbz_capacity_vehicles.xlsx?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF9UJ9T7\/download\/vbz_capacity_vehicles.xlsx?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UCF0RR7HB\/FCF9UJ9T7\/vbz_capacity_vehicles.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCF9UJ9T7-d3607ba65c"
+            }
+        ],
+        "upload": true,
+        "user": "UCF0RR7HB",
+        "display_as_bot": false,
+        "ts": "1535190139.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCF0RR7HB",
+        "text": "Mainly vehicle of the bus lines 33,72: \"Gelenktrolleybus\"",
+        "client_msg_id": "b267c3db-03cd-4ddc-8741-a4dabf692730",
+        "ts": "1535190188.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCF0RR7HB",
+        "text": "Mainly vehicles of the bus line 83: \"Gelenkbus2",
+        "client_msg_id": "17768782-ec8e-417d-8f14-e212c8682156",
+        "ts": "1535190204.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCF0RR7HB",
+        "text": "Mainly vehicles of the tram line 8: \"Sänfte\"",
+        "client_msg_id": "6acc947b-53ea-4fa2-bf1b-301948d0da02",
+        "ts": "1535190228.000100"
+    },
+    {
+        "user": "UCEDBAQFJ",
+        "text": "<@UCEDBAQFJ> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535190240.000200"
+    },
+    {
+        "type": "message",
+        "user": "UCEDBAQFJ",
+        "text": "can I join you guys?",
+        "client_msg_id": "e946d2f8-0938-41df-b50d-6d7d4eceb401",
+        "ts": "1535190271.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCF0RR7HB",
+        "text": "We plan and work  with 2 Persons\/qm.",
+        "client_msg_id": "ebb8263d-be68-4b57-8228-7adfca57d3c1",
+        "ts": "1535190304.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBP3398RE",
+        "text": "<@UCEDBAQFJ> yes!",
+        "client_msg_id": "9fecb38b-6f89-40f1-af64-92624e46876f",
+        "ts": "1535190326.000200"
+    },
+    {
+        "type": "message",
+        "user": "UCEC80S84",
+        "text": "punctuality.data &lt;- read.table(paste0(data.path,\"fahrzeiten_soll_ist_20180624_20180630.csv\"), sep=\",\", header=TRUE)",
+        "client_msg_id": "e720145f-eb8b-49b4-b8b9-bd288a33434b",
+        "ts": "1535190337.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBP3398RE",
+        "text": "We're in the room next to the lecture hall where we started",
+        "client_msg_id": "349f689a-9fd8-4702-9209-63129e3bb39c",
+        "ts": "1535190351.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCEC80S84",
+        "text": "movement.data &lt;- read.table(paste0(data.path,\"objectstream.csv\"), sep=\",\", header=TRUE)",
+        "client_msg_id": "1e42b719-fc25-44d4-8154-e33e7f308dad",
+        "ts": "1535190354.000100"
+    },
+    {
+        "user": "UCB1G2RH7",
+        "text": "<@UCB1G2RH7> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535192958.000200"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FCF9WDU2H",
+                "created": 1535190733,
+                "timestamp": 1535193268,
+                "name": "Object_stream",
+                "title": "Object stream",
+                "mimetype": "text\/plain",
+                "filetype": "space",
+                "pretty_type": "Post",
+                "user": "UCER64K70",
+                "editable": true,
+                "size": 795,
+                "mode": "space",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF9WDU2H\/Object_stream?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF9WDU2H\/download\/Object_stream?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UCER64K70\/FCF9WDU2H\/Object_stream",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCF9WDU2H-1436ba4e2e",
+                "preview": "<document><pre>movement.data &lt;- read.table(paste0(data.path,&quot;objectstream.csv&quot;), sep=&quot;,&quot;, header=TRUE)<\/pre><h1>Introduction<\/h1><p>The object stream dataset contains a timeseries and location of passager on a portion of the platform 2\/3.<\/p><p><\/p><h1>Fields<\/h1><\/document>",
+                "updated": 1535193268,
+                "editor": "UCER64K70",
+                "last_editor": "UCER64K70",
+                "state": "edit-inactive"
+            }
+        ],
+        "upload": false,
+        "user": "UCER64K70",
+        "display_as_bot": false,
+        "ts": "1535193261.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCER64K70",
+        "text": "In this folder we can share documents and slides, ... <https:\/\/drive.google.com\/drive\/folders\/1IB4d5sXoXTFJSvwIpornBJ1ZRZXs_lwk?usp=sharing>",
+        "client_msg_id": "8c33673f-7312-414a-a62d-812bb8d69ec2",
+        "ts": "1535194685.000100"
+    },
+    {
+        "user": "UBRMU80M9",
+        "text": "<@UBRMU80M9> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535196963.000200"
+    },
+    {
+        "type": "message",
+        "text": "Aggregated data B = occupancy after leaving stop \/\/ E=embarking passengers \/\/ A=disembarking passengers",
+        "files": [
+            {
+                "id": "FCEV02PN0",
+                "created": 1535198475,
+                "timestamp": 1535198475,
+                "name": "twist_aggregated_2018.zip",
+                "title": "twist_aggregated_2018.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "UCB1G2RH7",
+                "editable": false,
+                "size": 2926520,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCEV02PN0\/twist_aggregated_2018.zip?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCEV02PN0\/download\/twist_aggregated_2018.zip?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UCB1G2RH7\/FCEV02PN0\/twist_aggregated_2018.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCEV02PN0-2aa8992ff1"
+            }
+        ],
+        "upload": true,
+        "user": "UCB1G2RH7",
+        "display_as_bot": false,
+        "ts": "1535198476.000100"
+    },
+    {
+        "type": "message",
+        "text": "14 = Monday - Thursday, 55 = Friday. The given time in the table is the departuretime",
+        "files": [
+            {
+                "id": "FCG7CP2UX",
+                "created": 1535198616,
+                "timestamp": 1535198616,
+                "name": "departure_time_Belastungsteppich.JPG",
+                "title": "departure_time_Belastungsteppich.JPG",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UCB1G2RH7",
+                "editable": false,
+                "size": 151163,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCG7CP2UX\/departure_time_belastungsteppich.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCG7CP2UX\/download\/departure_time_belastungsteppich.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG7CP2UX-cb786faece\/departure_time_belastungsteppich_64.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG7CP2UX-cb786faece\/departure_time_belastungsteppich_80.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG7CP2UX-cb786faece\/departure_time_belastungsteppich_360.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360_w": 360,
+                "thumb_360_h": 196,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG7CP2UX-cb786faece\/departure_time_belastungsteppich_480.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_480_w": 480,
+                "thumb_480_h": 261,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG7CP2UX-cb786faece\/departure_time_belastungsteppich_160.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG7CP2UX-cb786faece\/departure_time_belastungsteppich_720.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720_w": 720,
+                "thumb_720_h": 392,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG7CP2UX-cb786faece\/departure_time_belastungsteppich_800.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_800_w": 800,
+                "thumb_800_h": 435,
+                "image_exif_rotation": 1,
+                "original_w": 924,
+                "original_h": 503,
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UCB1G2RH7\/FCG7CP2UX\/departure_time_belastungsteppich.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCG7CP2UX-a2907195d9"
+            }
+        ],
+        "upload": true,
+        "user": "UCB1G2RH7",
+        "display_as_bot": false,
+        "ts": "1535198619.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCB1G2RH7",
+        "text": "... at the stop which is written down at \"C2\"",
+        "client_msg_id": "6f42cae2-94c8-4d94-9113-dfdb5f813ddc",
+        "ts": "1535198672.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCB1G2RH7",
+        "text": "for 2017 you can also find data at the OGD-Plattform <https:\/\/data.stadt-zuerich.ch\/dataset\/vbz-fahrgastzahlen-ogd>",
+        "client_msg_id": "10a99d49-8158-4e06-8c7b-aacd71b06618",
+        "attachments": [
+            {
+                "title": "Fahrgastzahlen VBZ - CKAN",
+                "title_link": "https:\/\/data.stadt-zuerich.ch\/dataset\/vbz-fahrgastzahlen-ogd",
+                "text": "Diese Daten beinhalten berechnete Jahreswerte zu den Ein- und Aussteigenden an den Haltestellen, sowie zur Besetzung in den Fahrzeugen der Verkehrsbetriebe Zürich (VBZ). Bei den hier zur Verfügung...",
+                "fallback": "Fahrgastzahlen VBZ - CKAN",
+                "from_url": "https:\/\/data.stadt-zuerich.ch\/dataset\/vbz-fahrgastzahlen-ogd",
+                "service_icon": "https:\/\/data.stadt-zuerich.ch\/favicon.ico",
+                "service_name": "data.stadt-zuerich.ch",
+                "id": 1,
+                "original_url": "https:\/\/data.stadt-zuerich.ch\/dataset\/vbz-fahrgastzahlen-ogd"
+            }
+        ],
+        "ts": "1535198767.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCETZ15C4",
+        "text": "<https:\/\/www.visualthesaurus.com>",
+        "client_msg_id": "0252046f-e58e-4520-adb9-dd8520279309",
+        "attachments": [
+            {
+                "title": "Thinkmap Visual Thesaurus - An online thesaurus and dictionary of over 145,000 words that you explore using an interactive map.",
+                "title_link": "https:\/\/www.visualthesaurus.com\/",
+                "text": "An online thesaurus and dictionary of over 145,000 words that you explore using an interactive map. It's a tool for people who think visually. The most fun you've ever had with words. The Visual Thesaurus was built using Thinkmap, a data visualization technology.",
+                "fallback": "Thinkmap Visual Thesaurus - An online thesaurus and dictionary of over 145,000 words that you explore using an interactive map.",
+                "from_url": "https:\/\/www.visualthesaurus.com\/",
+                "service_icon": "https:\/\/www.visualthesaurus.com\/favicon.ico",
+                "service_name": "visualthesaurus.com",
+                "id": 1,
+                "original_url": "https:\/\/www.visualthesaurus.com"
+            }
+        ],
+        "ts": "1535200495.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCB1G2RH7",
+        "text": "<http:\/\/kateto.net\/network-visualization>",
+        "client_msg_id": "4e1beb8c-cde4-4b8c-aef0-439a3ecde78e",
+        "attachments": [
+            {
+                "service_name": "Katya Ognyanova",
+                "title": "Static and dynamic network visualization with R - Katya Ognyanova",
+                "title_link": "http:\/\/kateto.net\/network-visualization",
+                "text": "Comprehensive tutorial on network visualization with R. Covers parameters and layouts; interactive and animated networks, longitudinal and geographic data.",
+                "fallback": "Katya Ognyanova: Static and dynamic network visualization with R - Katya Ognyanova",
+                "image_url": "http:\/\/kateto.net\/wp-content\/uploads\/2015\/06\/network-viz-ko1.png",
+                "image_width": 822,
+                "image_height": 250,
+                "ts": 1497490235,
+                "from_url": "http:\/\/kateto.net\/network-visualization",
+                "image_bytes": 641208,
+                "service_icon": "http:\/\/kateto.net\/wp-content\/uploads\/2012\/04\/favicon.ico",
+                "id": 1,
+                "original_url": "http:\/\/kateto.net\/network-visualization"
+            }
+        ],
+        "ts": "1535200574.000100"
+    },
+    {
+        "type": "message",
+        "text": "Hardbrucke SBB train station delay statistics",
+        "files": [
+            {
+                "id": "FCF6H41M0",
+                "created": 1535200914,
+                "timestamp": 1535200914,
+                "name": "Hardbrucke station SBB delays.png",
+                "title": "Hardbrucke station SBB delays.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UCEDBAQFJ",
+                "editable": false,
+                "size": 37537,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF6H41M0\/hardbrucke_station_sbb_delays.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF6H41M0\/download\/hardbrucke_station_sbb_delays.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF6H41M0-e2fb35e5f4\/hardbrucke_station_sbb_delays_64.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF6H41M0-e2fb35e5f4\/hardbrucke_station_sbb_delays_80.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF6H41M0-e2fb35e5f4\/hardbrucke_station_sbb_delays_360.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360_w": 360,
+                "thumb_360_h": 228,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF6H41M0-e2fb35e5f4\/hardbrucke_station_sbb_delays_480.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_480_w": 480,
+                "thumb_480_h": 304,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF6H41M0-e2fb35e5f4\/hardbrucke_station_sbb_delays_160.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "image_exif_rotation": 1,
+                "original_w": 700,
+                "original_h": 444,
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UCEDBAQFJ\/FCF6H41M0\/hardbrucke_station_sbb_delays.png",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCF6H41M0-7cd781bd70"
+            }
+        ],
+        "upload": true,
+        "user": "UCEDBAQFJ",
+        "display_as_bot": false,
+        "ts": "1535200916.000100"
+    },
+    {
+        "user": "UBN6K2U3Z",
+        "text": "<@UBN6K2U3Z> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535201038.000200"
+    },
+    {
+        "type": "message",
+        "user": "UCEDBAQFJ",
+        "text": "## install.packages(\"data.table\")\nlibrary(data.table)\nlibrary(dplyr)\n## loading of individual CSV files\nfiles = list.files(pattern=\"*.csv\", path = \"SBB_data\", full.names = TRUE)\nSBB =  rbindlist(lapply(files, fread))\n\n## renaming the names of the columns from German to English\nsetnames(SBB, old=c(\"BETRIEBSTAG\",\"FAHRT_BEZEICHNER\",\"BETREIBER_ID\",\"BETREIBER_ABK\",\"BETREIBER_NAME\",\"PRODUKT_ID\",\"LINIEN_ID\",\"LINIEN_TEXT\",\"UMLAUF_ID\",\"VERKEHRSMITTEL_TEXT\",\"ZUSATZFAHRT_TF\",\"FAELLT_AUS_TF\",\"BPUIC\",\"HALTESTELLEN_NAME\",\"ANKUNFTSZEIT\",\"AN_PROGNOSE\",\"AN_PROGNOSE_STATUS\",\"ABFAHRTSZEIT\",\"AB_PROGNOSE\",\"AB_PROGNOSE_STATUS\",\"DURCHFAHRT_TF\"), new=c(\"OPERATING_DAY\",\"RUNNING_IDENTIFIER\",\"OPERATOR_ID\",\"OPERATOR_ABK\",\"OPERATOR_NAME\",\"PRODUCT_ID\",\"LINES_ID\",\"LINES_TEXT\",\"RETURN_ID\",\"TRANSPORT_TYPE_TEXT\",\"ADDITIONAL_TRIP_TF\",\"FOLLOWS_FROM_TF\",\"BPUIC_STOP\",\"STOPS_NAME\",\"SCHEDULED_ARRIVAL_TIME\",\"REAL_ARRIVAL_TIME\",\"REAL_ARRIVAL_TIME_STATUS\",\"DEPARTURE_TIME\",\"DEPARTURE_FORECAST\",\"DEPARTURE_FORECAST_STATUS\",\"TURNOVER_TF\"))\n\n## removing other means of transportation besides trains (boats, ships), filtering out Hardbrücke station\nSBB &lt;- filter(SBB, PRODUCT_ID == \"Zug\", STOPS_NAME == \"Zürich Hardbrücke\")\n\n## removing unnecessary columns\n##SBB &lt;- subset(SBB, select = c(OPERATING_DAY, OPERATOR_NAME, LINES_TEXT, BPUIC_STOP, ##STOPS_NAME, SCHEDULED_ARRIVAL_TIME, REAL_ARRIVAL_TIME))",
+        "client_msg_id": "dbe951f4-7e1b-46e1-9a3b-d6ab40348a95",
+        "edited": {
+            "user": "UCEDBAQFJ",
+            "ts": "1535201709.000000"
+        },
+        "ts": "1535201457.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCEDBAQFJ",
+        "text": "The code above serves for loading csv files from ist-daten dataset, REAL_ARRIVAL_TIME is actual time of arrival to the platform",
+        "client_msg_id": "491c0d9f-7577-4eb2-9eb8-b481fd4b867c",
+        "edited": {
+            "user": "UCEDBAQFJ",
+            "ts": "1535201599.000000"
+        },
+        "ts": "1535201509.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "Actual (not real-time, but previous-day) arrival of trains <https:\/\/data.sbb.ch\/explore\/dataset\/actual-data-sbb-previous-day\/>",
+        "client_msg_id": "55a060e7-cf50-4b25-bcc6-05eacc30e751",
+        "attachments": [
+            {
+                "title": "target\/actual comparison for departure and arrival time SBB (previous day)",
+                "title_link": "https:\/\/data.sbb.ch\/explore\/dataset\/actual-data-sbb-previous-day\/",
+                "text": "These are the actual data of the previous day. The data are coming from <https:\/\/www.opentransportdata.swiss>",
+                "fallback": "target\/actual comparison for departure and arrival time SBB (previous day)",
+                "thumb_url": "https:\/\/data.sbb.ch\/static\/ods\/imgv4\/social-images\/social_media_image_information.png",
+                "from_url": "https:\/\/data.sbb.ch\/explore\/dataset\/actual-data-sbb-previous-day\/",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/s3-eu-west-1.amazonaws.com\/aws-ec2-eu-1-opendatasoft-staticfileset\/sbb\/favicon",
+                "service_name": "data.sbb.ch",
+                "id": 1,
+                "original_url": "https:\/\/data.sbb.ch\/explore\/dataset\/actual-data-sbb-previous-day\/"
+            }
+        ],
+        "thread_ts": "1535206046.000100",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "UCER64K70",
+                "ts": "1535207090.000100"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1535206046.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCER64K70",
+        "text": "Yes I saw this but this only the give the data for today and yesterdaz",
+        "client_msg_id": "8dadbbe5-f384-4353-8f6b-fedc81263492",
+        "thread_ts": "1535206046.000100",
+        "parent_user_id": "UBN6K2U3Z",
+        "ts": "1535207090.000100"
+    },
+    {
+        "type": "message",
+        "text": "perhabs some better dataformat for capacity of our vehicles. Relevant at Hardbrücke are \"GB\" for line 83, \"GT\" for line 33, 72 and \"SÄ\" for line 8. Kap_1m2 = Capacity with all seats and 1 person per m2. Kap_2m2 = all seats and 2 persons per m2  and so on. More than 4 persons per m2 is really crowded.",
+        "files": [
+            {
+                "id": "FCF3D1NN7",
+                "created": 1535207835,
+                "timestamp": 1535207835,
+                "name": "T_Fahrzeuge.txt",
+                "title": "T_Fahrzeuge.txt",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "UCB1G2RH7",
+                "editable": true,
+                "size": 960,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF3D1NN7\/t_fahrzeuge.txt?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF3D1NN7\/download\/t_fahrzeuge.txt?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UCB1G2RH7\/FCF3D1NN7\/t_fahrzeuge.txt",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCF3D1NN7-eb464c0ba4",
+                "edit_link": "https:\/\/twist2018.slack.com\/files\/UCB1G2RH7\/FCF3D1NN7\/t_fahrzeuge.txt\/edit",
+                "preview": "\"FZG\";\"Fahrzeug\";\"Sitzplätze\";\"Kap_1m2\";\"Kap_2m2\";\"Kap_3m2\";\"Kap_4m2\";\"Kurs_Text\";\"Niederflur\"\r\n\"CO\";\"Cobra\";90.00;122.70;155.40;188.10;220.80;;1\r\n\"DGT\";\"Doppelgelenktrolleybus (Hess)\";60.00;83.80;107.60;131.40;155.20;;1\r\n\"DO\";\"Tram 2000 Doppel (Anh. 2. Führerstand)\";96.00;132.00;168.00;204.00;240.00;;0\r\n\"GB\";\"Gelenkbus (Neoplan)\";48.00;62.37;76.74;91.11;105.48;;1\r",
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>&quot;FZG&quot;;&quot;Fahrzeug&quot;;&quot;Sitzplätze&quot;;&quot;Kap_1m2&quot;;&quot;Kap_2m2&quot;;&quot;Kap_3m2&quot;;&quot;Kap_4m2&quot;;&quot;Kurs_Text&quot;;&quot;Niederflur&quot;<\/pre><\/div>\n<div><pre>&quot;CO&quot;;&quot;Cobra&quot;;90.00;122.70;155.40;188.10;220.80;;1<\/pre><\/div>\n<div><pre>&quot;DGT&quot;;&quot;Doppelgelenktrolleybus (Hess)&quot;;60.00;83.80;107.60;131.40;155.20;;1<\/pre><\/div>\n<div><pre>&quot;DO&quot;;&quot;Tram 2000 Doppel (Anh. 2. Führerstand)&quot;;96.00;132.00;168.00;204.00;240.00;;0<\/pre><\/div>\n<div><pre>&quot;GB&quot;;&quot;Gelenkbus (Neoplan)&quot;;48.00;62.37;76.74;91.11;105.48;;1<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+                "lines": 15,
+                "lines_more": 10,
+                "preview_is_truncated": false
+            }
+        ],
+        "upload": true,
+        "user": "UCB1G2RH7",
+        "display_as_bot": false,
+        "edited": {
+            "user": "UCB1G2RH7",
+            "ts": "1535208046.000000"
+        },
+        "ts": "1535207836.000100"
+    }
+]

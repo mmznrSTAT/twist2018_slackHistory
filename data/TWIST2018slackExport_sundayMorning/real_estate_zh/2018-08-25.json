@@ -1,0 +1,316 @@
+[
+    {
+        "user": "UC2LP8THN",
+        "text": "<@UC2LP8THN> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535186488.000200"
+    },
+    {
+        "user": "UCBJL7GTB",
+        "inviter": "UC2LP8THN",
+        "text": "<@UCBJL7GTB> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535186507.000200"
+    },
+    {
+        "user": "UC2LL58KA",
+        "inviter": "UC2LP8THN",
+        "text": "<@UC2LL58KA> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535186520.000200"
+    },
+    {
+        "user": "UCGF77KHU",
+        "inviter": "UC2LP8THN",
+        "text": "<@UCGF77KHU> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535187268.000200"
+    },
+    {
+        "user": "UCF57K37U",
+        "inviter": "UC2LP8THN",
+        "text": "<@UCF57K37U> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535187391.000200"
+    },
+    {
+        "type": "message",
+        "user": "UCF57K37U",
+        "text": "test",
+        "client_msg_id": "41cf10d9-f1d9-4100-80e3-d9efc72d685e",
+        "ts": "1535187413.000100"
+    },
+    {
+        "type": "message",
+        "user": "UC2LP8THN",
+        "text": "<https:\/\/statistik.zh.ch\/internet\/justiz_inneres\/statistik\/de\/daten\/daten_immobilien_raum\/immomarkt.html#wohnimmobilien>",
+        "client_msg_id": "3a70de26-e8ad-423b-8576-1a413eae6c20",
+        "attachments": [
+            {
+                "title": "Immobilienmarkt &amp; -preise",
+                "title_link": "https:\/\/statistik.zh.ch\/internet\/justiz_inneres\/statistik\/de\/daten\/daten_immobilien_raum\/immomarkt.html#wohnimmobilien",
+                "text": "Daten zu Transaktionen und Preisen von Bauland, Einfamilienhäusern und Stockwerkeigentum.",
+                "fallback": "Immobilienmarkt &amp; -preise",
+                "from_url": "https:\/\/statistik.zh.ch\/internet\/justiz_inneres\/statistik\/de\/daten\/daten_immobilien_raum\/immomarkt.html#wohnimmobilien",
+                "service_icon": "https:\/\/statistik.zh.ch\/favicon.ico",
+                "service_name": "statistik.zh.ch",
+                "id": 1,
+                "original_url": "https:\/\/statistik.zh.ch\/internet\/justiz_inneres\/statistik\/de\/daten\/daten_immobilien_raum\/immomarkt.html#wohnimmobilien"
+            }
+        ],
+        "ts": "1535189129.000100"
+    },
+    {
+        "type": "message",
+        "user": "UC2LP8THN",
+        "text": "<https:\/\/www.web.statistik.zh.ch\/twist\/Data_description.pdf>",
+        "client_msg_id": "f6103ca6-506a-4a79-bfc0-7f05f328121b",
+        "ts": "1535189673.000100"
+    },
+    {
+        "type": "message",
+        "user": "UC2LP8THN",
+        "text": "^this has the data description",
+        "client_msg_id": "6e513117-2dec-4450-a3a9-ab3da7ee7d35",
+        "ts": "1535189679.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCF57K37U",
+        "text": "<https:\/\/www.twist2018.ch\/post\/real_estate_zh\/>",
+        "client_msg_id": "3afc433d-e3e6-4c1e-a023-137e38e31804",
+        "ts": "1535189834.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCF57K37U",
+        "text": "<https:\/\/github.com\/jimKir\/twist2018>",
+        "client_msg_id": "79223292-a838-4cf9-94a8-ec8be58fc258",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "jimKir\/twist2018",
+                "title_link": "https:\/\/github.com\/jimKir\/twist2018",
+                "text": "<https:\/\/www.twist2018.ch\/post\/real_estate_zh\/>",
+                "fallback": "GitHub: jimKir\/twist2018",
+                "from_url": "https:\/\/github.com\/jimKir\/twist2018",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/6427145?s=400&v=4",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/jimKir\/twist2018"
+            }
+        ],
+        "ts": "1535189864.000100"
+    },
+    {
+        "user": "UBN6K2U3Z",
+        "text": "<@UBN6K2U3Z> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535190647.000200"
+    },
+    {
+        "type": "message",
+        "user": "UCGF77KHU",
+        "text": "<https:\/\/umweltschutz.zh.ch\/internet\/baudirektion\/kofu\/de\/Umweltbericht\/archiv_umweltberichte\/umweltbericht_2000\/_jcr_content\/contentPar\/downloadlist_4\/downloaditems\/gemeinden_und_planun.spooler.download.1284734617872.pdf\/2Planungsregionen.pdf>",
+        "client_msg_id": "5ca24504-eb4c-4727-b462-06644277ff66",
+        "ts": "1535190649.000200"
+    },
+    {
+        "type": "message",
+        "user": "UC2LP8THN",
+        "text": "GIS browser to crawl spatial geodata from\n<https:\/\/are.zh.ch\/internet\/baudirektion\/are\/de\/geoinformation\/karten_uebersicht\/GIS-Browser.html>",
+        "client_msg_id": "25b8a6c4-751d-4025-9b2b-76e6d31839a3",
+        "attachments": [
+            {
+                "title": "GIS-Browser",
+                "title_link": "https:\/\/are.zh.ch\/internet\/baudirektion\/are\/de\/geoinformation\/karten_uebersicht\/GIS-Browser.html",
+                "text": "Mit dem GIS-Browser lassen sich über 100 unterschiedliche Karten zu spezifischen Themen des Kantons Zürich darstellen.",
+                "fallback": "GIS-Browser",
+                "from_url": "https:\/\/are.zh.ch\/internet\/baudirektion\/are\/de\/geoinformation\/karten_uebersicht\/GIS-Browser.html",
+                "service_icon": "https:\/\/are.zh.ch\/favicon.ico",
+                "service_name": "are.zh.ch",
+                "id": 1,
+                "original_url": "https:\/\/are.zh.ch\/internet\/baudirektion\/are\/de\/geoinformation\/karten_uebersicht\/GIS-Browser.html"
+            }
+        ],
+        "ts": "1535190709.000100"
+    },
+    {
+        "user": "U5MQK0JM8",
+        "text": "<@U5MQK0JM8> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535190946.000200"
+    },
+    {
+        "type": "message",
+        "user": "UC2LL58KA",
+        "text": "marina,petrova.nsu@gmail.com",
+        "client_msg_id": "6ec60cd4-00f7-4ab9-b70b-59489e66efe9",
+        "ts": "1535191429.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCGF77KHU",
+        "text": "<https:\/\/maps.zh.ch\/>",
+        "client_msg_id": "29fb748f-3bc6-4c8e-be56-1e30acbc44ef",
+        "ts": "1535191615.000100"
+    },
+    {
+        "type": "message",
+        "user": "UC2LP8THN",
+        "text": "<https:\/\/www.sred.ch\/>",
+        "client_msg_id": "6f0b3aaf-52c4-4567-b03c-22182ca2540d",
+        "attachments": [
+            {
+                "title": "SRED - Swiss Real Estate Datapool",
+                "title_link": "https:\/\/www.sred.ch\/",
+                "text": "Wir freuen uns sehr, Ihnen mitteilen zu dürfen, dass der neue SRED Newsletter zum 2. Quartal 2018 erschienen ist. Alle bereits erschienenen Newsletter, finden Sie hier. Dort haben Sie auch die Gelegenheit sich für zukünftige Newsletter anzumelden.",
+                "fallback": "SRED - Swiss Real Estate Datapool",
+                "image_url": "https:\/\/image.jimcdn.com\/app\/cms\/image\/transf\/dimension=1920x10000:format=jpg\/path\/sdff48bd89e2123ee\/image\/i7afbee843281eb4a\/version\/1492000056\/image.jpg",
+                "image_width": 366,
+                "image_height": 250,
+                "from_url": "https:\/\/www.sred.ch\/",
+                "image_bytes": 143148,
+                "service_icon": "https:\/\/u.jimcdn.com\/cms\/o\/sdff48bd89e2123ee\/img\/favicon.png?t=1360625736",
+                "service_name": "sred.ch",
+                "id": 1,
+                "original_url": "https:\/\/www.sred.ch\/"
+            }
+        ],
+        "ts": "1535193549.000200"
+    },
+    {
+        "type": "message",
+        "user": "UCGF77KHU",
+        "text": "<https:\/\/statistik.zh.ch\/internet\/justiz_inneres\/statistik\/de\/daten\/daten_immobilien_raum\/immomarkt\/bodenpreise.html>",
+        "client_msg_id": "54a81f73-ff61-4f8e-862b-3062704e5f0a",
+        "ts": "1535194430.000100"
+    },
+    {
+        "type": "message",
+        "user": "UC2LP8THN",
+        "text": "<https:\/\/statistik.zh.ch\/internet\/justiz_inneres\/statistik\/de\/daten\/daten_immobilien_raum\/immomarkt\/_jcr_content\/contentPar\/downloadlist\/downloaditems\/detaillierte_datenbe.spooler.download.1534500528315.pdf\/Handaenderungen_Datenbeschreibung_v1.pdf>",
+        "client_msg_id": "d88367e9-e511-4440-824f-9c43d49f1b5b",
+        "ts": "1535194430.000200"
+    },
+    {
+        "type": "message",
+        "user": "UCGF77KHU",
+        "text": "<https:\/\/maps.zh.ch?topic=StatGebZH&amp;scale=367219&amp;x=2692500&amp;y=1252500&amp;srid=2056&amp;offlayers=bezirkslabels>",
+        "client_msg_id": "76e6b8dc-a125-4f86-9767-ff416d2be459",
+        "ts": "1535195438.000100"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FCFAC8WAZ",
+                "created": 1535195751,
+                "timestamp": 1535195751,
+                "name": "image.png",
+                "title": "Pasted image at 2018-08-25, 1:15 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UCGF77KHU",
+                "editable": false,
+                "size": 32725,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCFAC8WAZ\/image.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCFAC8WAZ\/download\/image.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCFAC8WAZ-71d9b7b977\/image_64.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCFAC8WAZ-71d9b7b977\/image_80.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCFAC8WAZ-71d9b7b977\/image_360.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360_w": 360,
+                "thumb_360_h": 224,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCFAC8WAZ-71d9b7b977\/image_160.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "image_exif_rotation": 1,
+                "original_w": 402,
+                "original_h": 250,
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UCGF77KHU\/FCFAC8WAZ\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCFAC8WAZ-8029f1fbaf"
+            }
+        ],
+        "upload": true,
+        "user": "UCGF77KHU",
+        "display_as_bot": false,
+        "ts": "1535195752.000100"
+    },
+    {
+        "type": "message",
+        "user": "UC2LP8THN",
+        "text": "<@UCGF77KHU>",
+        "client_msg_id": "93b2aa9b-f256-4f5d-8a95-c4b8896ee154",
+        "ts": "1535204660.000100"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FCEF32VK2",
+                "created": 1535204668,
+                "timestamp": 1535204668,
+                "name": "-.txt",
+                "title": "Untitled",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "UC2LP8THN",
+                "editable": true,
+                "size": 63,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCEF32VK2\/-.txt?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCEF32VK2\/download\/-.txt?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UC2LP8THN\/FCEF32VK2\/-.txt",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCEF32VK2-da54728b09",
+                "edit_link": "https:\/\/twist2018.slack.com\/files\/UC2LP8THN\/FCEF32VK2\/-.txt\/edit",
+                "preview": "AD-20    80\r\nZ-18     72\r\nK-38     72\r\nAC-51    66\r\nAJ-19    65",
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>AD-20    80<\/pre><\/div>\n<div><pre>Z-18     72<\/pre><\/div>\n<div><pre>K-38     72<\/pre><\/div>\n<div><pre>AC-51    66<\/pre><\/div>\n<div><pre>AJ-19    65<\/pre><\/div>\n<\/div>\n<\/div>\n",
+                "lines": 5,
+                "lines_more": 0,
+                "preview_is_truncated": false
+            }
+        ],
+        "upload": true,
+        "user": "UC2LP8THN",
+        "display_as_bot": false,
+        "ts": "1535204669.000100"
+    },
+    {
+        "type": "message",
+        "user": "UC2LP8THN",
+        "text": "These are top 5 grid_ids by number of transactions",
+        "client_msg_id": "67d0db3e-0494-43f9-8639-e26fd8d5f5f5",
+        "ts": "1535204701.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCF57K37U",
+        "text": "one-hot-encoding",
+        "client_msg_id": "94bc4c91-f7f4-4673-b6a6-f5c8ade09144",
+        "ts": "1535213662.000100"
+    }
+]

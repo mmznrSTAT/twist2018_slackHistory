@@ -1,0 +1,425 @@
+[
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Welcome <@UCE81TYH2> :slightly_smiling_face:",
+        "client_msg_id": "085aa326-9f42-4ab2-8328-71607ec83f17",
+        "ts": "1535095491.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "for all twitter users: the official hashtag is: #TWIST2018",
+        "client_msg_id": "7a3de5d7-9331-4765-85f9-02b4241917d6",
+        "ts": "1535108919.000100",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U5MQK0JM8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UCFUWUNNA",
+        "text": "<@UCFUWUNNA> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535109895.000200",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UC2LP8THN",
+                    "U9KPPBZ51"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "UCEC80S84",
+        "text": "<@UCEC80S84> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535109975.000200",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U9KPPBZ51"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UCF0RR7HB",
+        "text": "<@UCF0RR7HB> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535130555.000200"
+    },
+    {
+        "user": "UCFTXSG9M",
+        "text": "<@UCFTXSG9M> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535133501.000200"
+    },
+    {
+        "user": "UCEBVM257",
+        "text": "<@UCEBVM257> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535138578.000200"
+    },
+    {
+        "user": "UCF22G90A",
+        "text": "<@UCF22G90A> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535149895.000200"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/presentation\/d\/1EH_1N0I7C06P_Qo6EN7W53jKbaiWjq47VKJCjElfpkY\/edit?usp=sharing>",
+        "files": [
+            {
+                "id": "FC7DUUV28",
+                "created": 1534177694,
+                "timestamp": 1534177694,
+                "name": "TWIST2018 - intro presentations ",
+                "title": "TWIST2018 - intro presentations",
+                "mimetype": "application\/vnd.google-apps.presentation",
+                "filetype": "gpres",
+                "pretty_type": "GDocs Presentation",
+                "user": "UAELWCAES",
+                "editable": false,
+                "size": 2244,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/presentation\/d\/1EH_1N0I7C06P_Qo6EN7W53jKbaiWjq47VKJCjElfpkY\/edit#slide=id.g3f9ec6369f_0_12",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC7DUUV28-c2806284e8\/twist2018_-_intro_presentations__64.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC7DUUV28-c2806284e8\/twist2018_-_intro_presentations__80.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC7DUUV28-c2806284e8\/twist2018_-_intro_presentations__360.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC7DUUV28-c2806284e8\/twist2018_-_intro_presentations__480.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC7DUUV28-c2806284e8\/twist2018_-_intro_presentations__160.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC7DUUV28-c2806284e8\/twist2018_-_intro_presentations__720.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC7DUUV28-c2806284e8\/twist2018_-_intro_presentations__800.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "image_exif_rotation": 1,
+                "original_w": 800,
+                "original_h": 450,
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UAELWCAES\/FC7DUUV28\/twist2018_-_intro_presentations_",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "user": "U5BF13UK0",
+        "display_as_bot": false,
+        "x_files": [
+            "FC7DUUV28"
+        ],
+        "client_msg_id": "c880859b-1104-41ad-9f56-9aefd62e8b36",
+        "ts": "1535171676.000100",
+        "reactions": [
+            {
+                "name": "rocket",
+                "users": [
+                    "UBN6K2U3Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UCET1PMM2",
+        "text": "<@UCET1PMM2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535173385.000200"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Good Morning <!channel> I wish you all safe travel to the #TWIST2018 Hackdays!",
+        "client_msg_id": "398D1EEB-050D-465A-9208-3C1C0A0C444D",
+        "ts": "1535173720.000100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5Q5EMNGY",
+                    "U5MQK0JM8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "UCET49F44",
+        "text": "<@UCET49F44> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535174622.000200"
+    },
+    {
+        "type": "message",
+        "text": "Be aware of public transport problems around Zurich Main Station",
+        "files": [
+            {
+                "id": "FCF0MUTFD",
+                "created": 1535174735,
+                "timestamp": 1535174735,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U5BF13UK0",
+                "editable": false,
+                "size": 6228619,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF0MUTFD\/image_from_ios.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF0MUTFD\/download\/image_from_ios.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF0MUTFD-6e957ac334\/image_from_ios_64.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF0MUTFD-6e957ac334\/image_from_ios_80.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF0MUTFD-6e957ac334\/image_from_ios_360.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF0MUTFD-6e957ac334\/image_from_ios_480.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF0MUTFD-6e957ac334\/image_from_ios_160.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF0MUTFD-6e957ac334\/image_from_ios_720.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF0MUTFD-6e957ac334\/image_from_ios_800.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF0MUTFD-6e957ac334\/image_from_ios_960.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF0MUTFD-6e957ac334\/image_from_ios_1024.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "image_exif_rotation": 1,
+                "original_w": 4032,
+                "original_h": 3024,
+                "permalink": "https:\/\/twist2018.slack.com\/files\/U5BF13UK0\/FCF0MUTFD\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCF0MUTFD-878e25756b"
+            }
+        ],
+        "upload": true,
+        "user": "U5BF13UK0",
+        "display_as_bot": false,
+        "upload_reply_to": "6C3399E9-D92C-4C7C-AEDB-92F0BD8DF673",
+        "ts": "1535174744.000100"
+    },
+    {
+        "type": "message",
+        "user": "U9KPPBZ51",
+        "text": "Tweet und Slack absenden: „Dear participants, there is a fire incident around Zurich main station. Public transport of @vbz_zueri_linie is affected. You might to count in more time to reach our venue. Take care.“ Train connections to Zurich main station as well as the Poly Bahn are not affected. ",
+        "client_msg_id": "86ce249f-7a03-41c8-bdd9-74c2a3c849a8",
+        "ts": "1535175484.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "To get to the polybahn by foot: bridge from Main Station to Polybahn is closed, you‘ll have to go round to Urania and Rudolf Bruhn Brücke",
+        "client_msg_id": "C2908D7F-9DDB-46AA-A607-9EBFE86CD9E8",
+        "ts": "1535175874.000100"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Gooood morning dear TWISTers <!here>! If you have some time on the journey to the Event, you can already have a look at the proposed challenges of the data sponsors:  <https:\/\/hack.twist2018.ch\/event\/1#top> C u soon",
+        "client_msg_id": "A9250C11-62D9-468E-B483-E8A32331A05F",
+        "attachments": [
+            {
+                "title": "Truth WIthin STatistics Hackdays",
+                "title_link": "https:\/\/hack.twist2018.ch\/event\/1#top",
+                "text": "As part of the 2018 Swiss Statistics Meeting, hackdays will be held for the first time. Developers, statisticans, designers,...",
+                "fallback": "Truth WIthin STatistics Hackdays",
+                "image_url": "https:\/\/www.twist2018.ch\/images\/TWIST.png",
+                "from_url": "https:\/\/hack.twist2018.ch\/event\/1#top",
+                "image_width": 219,
+                "image_height": 250,
+                "image_bytes": 21655,
+                "service_name": "hack.twist2018.ch",
+                "id": 1,
+                "original_url": "https:\/\/hack.twist2018.ch\/event\/1#top"
+            }
+        ],
+        "ts": "1535175923.000100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UCET49F44"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "For those coming from Zurich mainstation: you can cross the river on Walchebridge to get to the polybahn",
+        "files": [
+            {
+                "id": "FCF4J7L3U",
+                "created": 1535177129,
+                "timestamp": 1535177129,
+                "name": "Screenshot_2018-08-25-08-02-28.jpg",
+                "title": "Bild von Android",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U9KPPBZ51",
+                "editable": false,
+                "size": 1916536,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF4J7L3U\/screenshot_2018-08-25-08-02-28.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCF4J7L3U\/download\/screenshot_2018-08-25-08-02-28.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF4J7L3U-5695157431\/screenshot_2018-08-25-08-02-28_64.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF4J7L3U-5695157431\/screenshot_2018-08-25-08-02-28_80.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF4J7L3U-5695157431\/screenshot_2018-08-25-08-02-28_360.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360_w": 318,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF4J7L3U-5695157431\/screenshot_2018-08-25-08-02-28_480.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_480_w": 424,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF4J7L3U-5695157431\/screenshot_2018-08-25-08-02-28_160.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF4J7L3U-5695157431\/screenshot_2018-08-25-08-02-28_720.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720_w": 635,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF4J7L3U-5695157431\/screenshot_2018-08-25-08-02-28_800.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_800_w": 800,
+                "thumb_800_h": 907,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF4J7L3U-5695157431\/screenshot_2018-08-25-08-02-28_960.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_960_w": 847,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCF4J7L3U-5695157431\/screenshot_2018-08-25-08-02-28_1024.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_1024_w": 904,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1440,
+                "original_h": 1632,
+                "permalink": "https:\/\/twist2018.slack.com\/files\/U9KPPBZ51\/FCF4J7L3U\/screenshot_2018-08-25-08-02-28.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCF4J7L3U-e38c3409fe"
+            }
+        ],
+        "upload": true,
+        "user": "U9KPPBZ51",
+        "display_as_bot": false,
+        "client_msg_id": "f3ece4ac-c584-4d23-92bf-303f7bc3f644",
+        "ts": "1535177133.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBHK0083F",
+        "text": "Hi guys, I had to cancel as I won't be able to participate, due to deadlines next week. Wish you a great event! I'm really sorry to miss it.",
+        "client_msg_id": "ef717e61-cf08-4e3a-bceb-3700d58adbe4",
+        "ts": "1535177379.000100"
+    },
+    {
+        "user": "UCF0TSF0B",
+        "text": "<@UCF0TSF0B> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535177685.000200"
+    },
+    {
+        "user": "UCECX6YBA",
+        "text": "<@UCECX6YBA> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535179608.000200"
+    },
+    {
+        "type": "message",
+        "text": "Welcome <!channel> if you have questions: talk to the organizers, they all have orange lanyards or ask via <#CCAT7J77A|support> channel",
+        "files": [
+            {
+                "id": "FCG5TA831",
+                "created": 1535180087,
+                "timestamp": 1535180087,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U5BF13UK0",
+                "editable": false,
+                "size": 3047426,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCG5TA831\/image_from_ios.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCG5TA831\/download\/image_from_ios.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG5TA831-c994f54ee0\/image_from_ios_64.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG5TA831-c994f54ee0\/image_from_ios_80.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG5TA831-c994f54ee0\/image_from_ios_360.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG5TA831-c994f54ee0\/image_from_ios_480.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG5TA831-c994f54ee0\/image_from_ios_160.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG5TA831-c994f54ee0\/image_from_ios_720.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG5TA831-c994f54ee0\/image_from_ios_800.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG5TA831-c994f54ee0\/image_from_ios_960.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG5TA831-c994f54ee0\/image_from_ios_1024.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1932,
+                "original_h": 2576,
+                "permalink": "https:\/\/twist2018.slack.com\/files\/U5BF13UK0\/FCG5TA831\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCG5TA831-025c97a5ed"
+            }
+        ],
+        "upload": true,
+        "user": "U5BF13UK0",
+        "display_as_bot": false,
+        "upload_reply_to": "78FD498A-E52B-4265-B4A3-8F4D8F84A734",
+        "ts": "1535180092.000100"
+    }
+]

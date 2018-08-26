@@ -1,0 +1,123 @@
+[
+    {
+        "type": "message",
+        "user": "UAELWCAES",
+        "text": "Friday Marco, Matthias and I coincidentally met, and drafted the TWIST schedule. We've received Feedback from interested folks, that",
+        "edited": {
+            "user": "UAELWCAES",
+            "ts": "1526973424.000000"
+        },
+        "ts": "1526973413.000026"
+    },
+    {
+        "type": "message",
+        "user": "UAELWCAES",
+        "text": "they wanted to know more details about the programme of the hackdays",
+        "ts": "1526973472.000161"
+    },
+    {
+        "type": "message",
+        "user": "U5QMS8L1Y",
+        "text": "thank you for doing so. is the (drafted \/ fix) schedule available on the google drive?",
+        "ts": "1526973530.000363"
+    },
+    {
+        "type": "message",
+        "user": "UAELWCAES",
+        "text": "please find our draft here: <https:\/\/docs.google.com\/spreadsheets\/d\/18rso__7J0USVSrcFgr9aisZdUSXmzwfUyzHg02iQbgw\/edit#gid=0> - the part within the frame",
+        "ts": "1526973578.000326"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FAUSLHYF9",
+                "created": 1526973593,
+                "timestamp": 1526973593,
+                "name": "Schedule",
+                "title": "Schedule",
+                "mimetype": "application\/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "GDocs Spreadsheet",
+                "user": "UAELWCAES",
+                "editable": false,
+                "size": 52283,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/spreadsheets\/d\/18rso__7J0USVSrcFgr9aisZdUSXmzwfUyzHg02iQbgw\/edit#gid=0",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FAUSLHYF9-3a61150fe7\/schedule_64.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FAUSLHYF9-3a61150fe7\/schedule_80.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FAUSLHYF9-3a61150fe7\/schedule_360.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360_w": 254,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FAUSLHYF9-3a61150fe7\/schedule_480.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_480_w": 339,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FAUSLHYF9-3a61150fe7\/schedule_160.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FAUSLHYF9-3a61150fe7\/schedule_720.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FAUSLHYF9-3a61150fe7\/schedule_800.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1132,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FAUSLHYF9-3a61150fe7\/schedule_960.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_960_w": 678,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FAUSLHYF9-3a61150fe7\/schedule_1024.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1024,
+                "original_h": 1449,
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UAELWCAES\/FAUSLHYF9\/schedule",
+                "reactions": [
+                    {
+                        "name": "+1",
+                        "users": [
+                            "U5QMS8L1Y"
+                        ],
+                        "count": 1
+                    }
+                ],
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "user": "UAELWCAES",
+        "display_as_bot": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5QMS8L1Y"
+                ],
+                "count": 1
+            }
+        ],
+        "ts": "1526973597.000082"
+    },
+    {
+        "type": "message",
+        "user": "UAELWCAES",
+        "text": "<!channel> any feedbacks? <@U9KPPBZ51> we thought it would be best to integrate the schedule on home, what do you think?",
+        "ts": "1526973758.000196"
+    },
+    {
+        "type": "message",
+        "user": "U5QMS8L1Y",
+        "text": "on tuesday afternoon, is the max. presentation time (45 min) per team?",
+        "ts": "1526977714.000435"
+    },
+    {
+        "type": "message",
+        "user": "UAELWCAES",
+        "text": "no, in total. Participants should know, that 16:45 the program is finished, so that they can spend Sunday evening with their loved ones :slightly_smiling_face:",
+        "ts": "1526995671.000347"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "type": "message",
+        "user": "U5QMS8L1Y",
+        "text": "... is the bigger topic of the event still *Statisik und Emotionen!* in case of a _yes_, - then the name should probably also include something about emotions?\n- hack statistics emotionally (AKA HSE)\n- emotional hack\n- emo hack",
+        "thread_ts": "1507106047.000316",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U5BF13UK0",
+                "ts": "1507106412.000121"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1507106047.000316"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "I like the dualism of statistics and emotions!",
+        "thread_ts": "1507106047.000316",
+        "parent_user_id": "U5QMS8L1Y",
+        "ts": "1507106412.000121"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Numbers rule, feelings fool ;)",
+        "ts": "1507106680.000444"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Head spinning gut feeling hackathon",
+        "ts": "1507106694.000072"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "As the message or underline",
+        "ts": "1507106726.000361"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "I've got 2 suggestions:\n1) Just to have a cool abbreviation: #TWIST - 'Truth WIthin Statistics' ...  \n2) 'Hacking for truth' (and an example of what it could be about, if we wanted to go into the normativity... <http:\/\/www.niemanlab.org\/2012\/03\/hacking-for-truth-whatever-that-is-ideas-to-fight-misinformation\/>)",
+        "attachments": [
+            {
+                "service_name": "Nieman Lab",
+                "title": "Hacking for truth, whatever that is: Ideas to fight misinformation",
+                "title_link": "http:\/\/www.niemanlab.org\/2012\/03\/hacking-for-truth-whatever-that-is-ideas-to-fight-misinformation\/",
+                "text": "Give a man a fact, or teach him how to fact-check? Truthiness can be more pervasive, and more powerful, than truth.",
+                "fallback": "Nieman Lab: Hacking for truth, whatever that is: Ideas to fight misinformation",
+                "image_url": "http:\/\/www.niemanlab.org\/images\/true-false-both-700x465.jpg",
+                "image_width": 376,
+                "image_height": 250,
+                "from_url": "http:\/\/www.niemanlab.org\/2012\/03\/hacking-for-truth-whatever-that-is-ideas-to-fight-misinformation\/",
+                "image_bytes": 40750,
+                "service_icon": "http:\/\/www.niemanlab.org\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1507108698.000383",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UBN6K2U3Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "For the abbreviation TWIST +1",
+        "ts": "1507108781.000177"
+    },
+    {
+        "type": "message",
+        "user": "U5MQK0JM8",
+        "text": "#TWIST :+1:",
+        "ts": "1507117206.000160"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "\nOr even: #TWISTED - 'Truth WIthin Statistical  Emotional Data' But it seems a bit exagerated, no?\n",
+        "ts": "1507130927.000616",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U94B2N1PV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

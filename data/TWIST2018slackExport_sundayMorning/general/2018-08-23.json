@@ -1,0 +1,135 @@
+[
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "the countdown is running:",
+        "client_msg_id": "dcde42c1-8907-468f-8e56-8ca4b19fc7a6",
+        "ts": "1535008557.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "<https:\/\/hack.twist2018.ch\/>",
+        "client_msg_id": "d84976d2-0656-4476-ab40-ebb61cd6a2ee",
+        "attachments": [
+            {
+                "title": "Truth WIthin STatistics Hackdays",
+                "title_link": "https:\/\/hack.twist2018.ch\/",
+                "text": "As part of the 2018 Swiss Statistics Meeting, hackdays will be held for the first time. Developers, statisticans, designers,...",
+                "fallback": "Truth WIthin STatistics Hackdays",
+                "image_url": "https:\/\/www.twist2018.ch\/images\/TWIST.png",
+                "from_url": "https:\/\/hack.twist2018.ch\/",
+                "image_width": 219,
+                "image_height": 250,
+                "image_bytes": 21655,
+                "service_name": "hack.twist2018.ch",
+                "id": 1,
+                "original_url": "https:\/\/hack.twist2018.ch\/"
+            }
+        ],
+        "ts": "1535008558.000100",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U5MQK0JM8",
+                    "UBN6K2U3Z",
+                    "U59EH5MC1",
+                    "UAELWCAES"
+                ],
+                "count": 4
+            },
+            {
+                "name": "sunglasses",
+                "users": [
+                    "UAELWCAES"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UC353QKMJ",
+        "text": "Hi. Won‘t make it this time - recovering from knee surgery. :white_frowning_face:. Looks totally cool though! ",
+        "client_msg_id": "23BFA781-616B-417E-A069-EFE9CAB2DCEB",
+        "ts": "1535010324.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "thx for the info, <@UC353QKMJ>, get well soon!",
+        "client_msg_id": "1016e77c-5c8a-4830-a639-9b46ab319490",
+        "ts": "1535010433.000100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59EH5MC1",
+                    "UAELWCAES"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "UCESM7RFZ",
+        "text": "<@UCESM7RFZ> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535022652.000200"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Hej <@UCESM7RFZ>, welcome :wink:",
+        "client_msg_id": "266665f9-8ef3-4be5-b971-b1645467e450",
+        "ts": "1535023800.000100",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U5BF13UK0",
+                    "UBN6K2U3Z",
+                    "U5A5NA4U8",
+                    "UAELWCAES"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UAELWCAES",
+        "text": "hi <@UC2LP8THN>, have you got your need answered?",
+        "client_msg_id": "baa5485f-363b-4a41-bc57-d5fd16cb62a9",
+        "thread_ts": "1534837210.000100",
+        "parent_user_id": "UC2LP8THN",
+        "ts": "1535035142.000100"
+    },
+    {
+        "type": "message",
+        "user": "UC2LP8THN",
+        "text": "I did find a place to stay, no worries, thanks a lot!",
+        "client_msg_id": "19bd9b2b-826b-4244-aedd-8125a9bba665",
+        "thread_ts": "1534837210.000100",
+        "parent_user_id": "UC2LP8THN",
+        "ts": "1535060259.000100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UAELWCAES"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UCE81TYH2",
+        "text": "<@UCE81TYH2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535092099.000200"
+    }
+]

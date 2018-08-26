@@ -1,0 +1,206 @@
+[
+    {
+        "type": "message",
+        "user": "UC79TQ222",
+        "text": "Morning! Here you have the version 0.723a of our website on the web: <https:\/\/su-pa.net\/twist2018\/>",
+        "client_msg_id": "8d1c1845-4b7f-45a1-9bc5-e849229f986e",
+        "attachments": [
+            {
+                "text": "What is most important to you? Set your sequence of the criterias and we will show you where to live in Zurich.",
+                "fallback": "What is most important to you? Set your sequence of the criterias and we will show you where to live in Zurich.",
+                "from_url": "https:\/\/su-pa.net\/twist2018\/",
+                "service_icon": "https:\/\/su-pa.net\/favicon.ico",
+                "service_name": "su-pa.net",
+                "id": 1,
+                "original_url": "https:\/\/su-pa.net\/twist2018\/"
+            }
+        ],
+        "ts": "1535267816.000100",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U5MQK0JM8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UC79TQ222",
+        "text": "And here a zip with the code, ready for implementing your data code",
+        "client_msg_id": "669bbee0-ae2a-4c7d-8221-67f046177d40",
+        "ts": "1535267928.000100"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FCEKGTJ2C",
+                "created": 1535268028,
+                "timestamp": 1535268028,
+                "name": "zurichs5.zip",
+                "title": "zurichs5.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "UC79TQ222",
+                "editable": false,
+                "size": 1792613,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCEKGTJ2C\/zurichs5.zip?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCEKGTJ2C\/download\/zurichs5.zip?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UC79TQ222\/FCEKGTJ2C\/zurichs5.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCEKGTJ2C-38a3d430b0"
+            }
+        ],
+        "upload": true,
+        "user": "UC79TQ222",
+        "display_as_bot": false,
+        "ts": "1535268029.000100"
+    },
+    {
+        "type": "message",
+        "user": "UC79TQ222",
+        "text": "see the messages in the console and you will find the js-function. … we are on the way",
+        "client_msg_id": "359cd6fe-6619-409d-957e-322f7feb1b8a",
+        "ts": "1535268089.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5A5NA4U8",
+        "text": "Linked Data Query to return a list of Quartiere with Quartiernummer used for the Map: <http:\/\/yasgui.org\/short\/Hkm2uRkDX>",
+        "client_msg_id": "30fa54a1-0322-41e1-a529-212db3c46ad1",
+        "ts": "1535269120.000100"
+    },
+    {
+        "type": "message",
+        "text": "RESULTS:\nHere are the data of the number of various amenities, schools, culture buildings (statues etc.), fountains in the different quartiers and the script I used",
+        "files": [
+            {
+                "id": "FCEQ3J1CH",
+                "created": 1535270126,
+                "timestamp": 1535270126,
+                "name": "Amenities_final.v01.csv",
+                "title": "Amenities_final.v01.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "UCEDJHMEC",
+                "editable": true,
+                "size": 1869,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCEQ3J1CH\/amenities_final.v01.csv?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCEQ3J1CH\/download\/amenities_final.v01.csv?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UCEDJHMEC\/FCEQ3J1CH\/amenities_final.v01.csv",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCEQ3J1CH-cefeab9c24",
+                "edit_link": "https:\/\/twist2018.slack.com\/files\/UCEDJHMEC\/FCEQ3J1CH\/amenities_final.v01.csv\/edit",
+                "preview": ",qnr,kindergarten_nr,kunstimstadtraum_nr,parke_nr,brunnen_nr,kinderhort_nr,spielplatzte_nr,denkmalschutzobjekt_nr,volksschule_nr,kinderkrippe_nr,sporthalle_nr,qname,knr,kname\n0,11,1,15,2,36,0,2,15,0,0,0,Rathaus,1,Kreis 1\n1,12,1,14,5,46,2,1,14,1,3,0,Hochschulen,1,Kreis 1\n2,13,0,14,3,32,0,2,14,0,0,0,Lindenhof,1,Kreis 1\n3,14,2,22,4,36,1,1,22,1,8,0,City,1,Kreis 1",
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>,qnr,kindergarten_nr,kunstimstadtraum_nr,parke_nr,brunnen_nr,kinderhort_nr,spielplatzte_nr,denkmalschutzobjekt_nr,volksschule_nr,kinderkrippe_nr,sporthalle_nr,qname,knr,kname<\/pre><\/div>\n<div><pre>0,11,1,15,2,36,0,2,15,0,0,0,Rathaus,1,Kreis 1<\/pre><\/div>\n<div><pre>1,12,1,14,5,46,2,1,14,1,3,0,Hochschulen,1,Kreis 1<\/pre><\/div>\n<div><pre>2,13,0,14,3,32,0,2,14,0,0,0,Lindenhof,1,Kreis 1<\/pre><\/div>\n<div><pre>3,14,2,22,4,36,1,1,22,1,8,0,City,1,Kreis 1<\/pre><\/div>\n<\/div>\n<\/div>\n",
+                "lines": 36,
+                "lines_more": 31,
+                "preview_is_truncated": true
+            }
+        ],
+        "upload": true,
+        "user": "UCEDJHMEC",
+        "display_as_bot": false,
+        "ts": "1535270127.000100"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FCGCGA43H",
+                "created": 1535270133,
+                "timestamp": 1535270133,
+                "name": "Test-GeoPandas.v02.cycles.py",
+                "title": "Test-GeoPandas.v02.cycles.py",
+                "mimetype": "text\/plain",
+                "filetype": "python",
+                "pretty_type": "Python",
+                "user": "UCEDJHMEC",
+                "editable": true,
+                "size": 3387,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCGCGA43H\/test-geopandas.v02.cycles.py?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCGCGA43H\/download\/test-geopandas.v02.cycles.py?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UCEDJHMEC\/FCGCGA43H\/test-geopandas.v02.cycles.py",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCGCGA43H-5634552c42",
+                "edit_link": "https:\/\/twist2018.slack.com\/files\/UCEDJHMEC\/FCGCGA43H\/test-geopandas.v02.cycles.py\/edit",
+                "preview": "#!\/usr\/bin\/env python3\n# -*- coding: utf-8 -*-\n\n# http:\/\/geopandas.org\/mergingdata.html\n",
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-comment\">#!\/usr\/bin\/env python3<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-comment\"># -*- coding: utf-8 -*-<\/span><\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre><span class=\"cm-comment\"># http:\/\/geopandas.org\/mergingdata.html<\/span><\/pre><\/div>\n<\/div>\n<\/div>\n",
+                "lines": 80,
+                "lines_more": 75,
+                "preview_is_truncated": true
+            }
+        ],
+        "upload": true,
+        "user": "UCEDJHMEC",
+        "display_as_bot": false,
+        "ts": "1535270135.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBHNRLWQ6",
+        "text": "proportion of green area (parks, forest, soccer fields, graveyards) per quarter: <http:\/\/yasgui.org\/short\/rJ_x6RywX>",
+        "client_msg_id": "5eefa11b-4c6c-45f8-99eb-52ad54b645ca",
+        "ts": "1535270170.000200"
+    },
+    {
+        "type": "message",
+        "user": "U94B2N1PV",
+        "text": "nice! should we extend that file to put all data together?",
+        "client_msg_id": "50975904-0a39-49a8-bf34-323f278465b4",
+        "ts": "1535270194.000100"
+    },
+    {
+        "type": "message",
+        "user": "U94B2N1PV",
+        "text": "or what's the plan? :slightly_smiling_face:",
+        "client_msg_id": "6dcc356f-11fe-488e-b5cd-ec980c1350df",
+        "ts": "1535270513.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCFUWUNNA",
+        "text": "we're doing a recap right now",
+        "client_msg_id": "c357e775-ce91-4f45-a68d-25e6c88dcca3",
+        "ts": "1535270684.000100"
+    },
+    {
+        "user": "U5BF13UK0",
+        "text": "<@U5BF13UK0> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535270783.000200"
+    },
+    {
+        "type": "message",
+        "user": "U94B2N1PV",
+        "text": "ok I'll join",
+        "client_msg_id": "5d85462a-152c-4026-8ace-fc55f5777931",
+        "ts": "1535270856.000100"
+    }
+]

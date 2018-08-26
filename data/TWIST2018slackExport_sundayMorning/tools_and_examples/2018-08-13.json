@@ -1,0 +1,145 @@
+[
+    {
+        "user": "U59EH5MC1",
+        "text": "<@U59EH5MC1> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534171100.000097"
+    },
+    {
+        "user": "U59EH5MC1",
+        "purpose": "Lets exchange about great tools and code examples that could be useful for the TWIST-Hackdays",
+        "text": "<@U59EH5MC1> set the channel purpose: Lets exchange about great tools and code examples that could be useful for the TWIST-Hackdays",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1534171100.000447"
+    },
+    {
+        "user": "UBKBDPPJQ",
+        "inviter": "U59EH5MC1",
+        "text": "<@UBKBDPPJQ> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534171100.000558"
+    },
+    {
+        "user": "U5BF13UK0",
+        "inviter": "U59EH5MC1",
+        "text": "<@U5BF13UK0> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534171101.000166"
+    },
+    {
+        "user": "UC2LP8THN",
+        "inviter": "U59EH5MC1",
+        "text": "<@UC2LP8THN> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534171101.000312"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "--------------------------\nSPARQL-Ressources for Linked Data:\n\n\n\t• W3C - SPARQL 1.1 Query Language: <https:\/\/www.w3.org\/TR\/sparql11-query\/>\n\t• Intro von Adrian Gschwend: <http:\/\/presentations.zazuko.com\/SPARQL\/#3>\n\t• JSON for Linking Data: <https:\/\/json-ld.org\/>\n\t• <https:\/\/github.com\/zazuko\/linked-data-training\/blob\/master\/Resources.md>\n\t• Schulung Zazuko (12.02.2018): <https:\/\/github.com\/zazuko\/linked-data-training>\nUsing SPARQL with Phyton\n\t• SPARQL Kernel for Jupyter Notebooks: <https:\/\/twitter.com\/betatim\/status\/985529724826017794>\n\t• Gastrodon: Toolkit to display, analyze &amp; visualise data based on RDF. <https:\/\/github.com\/paulhoule\/gastrodon\/blob\/master\/README.rst>\n\nBasic Introduction:\n\n\t• Wikidata SPARQL queries: <https:\/\/www.wikidata.org\/wiki\/Wikidata:SPARQL_query_service\/queries>\n\t• Beispiele: <https:\/\/www.wikidata.org\/wiki\/Wikidata:SPARQL_query_service\/queries\/examples>\n\nSchweizer Beispiele:\n\t• Archival Linked Open Data: <http:\/\/data.alod.ch\/search\/>\n\t• GeoAdmin LD: <https:\/\/ld.geo.admin.ch\/search\/>\n\t• Linked Data for Dummies: <https:\/\/github.com\/mmznr\/DINAcon> ;\n\t• DINAcon Linked Data Challenges <https:\/\/gist.github.com\/ktk\/15fa867128c9c03a4ee27b559e362a27>\n----------------------------------",
+        "client_msg_id": "ceff6b59-44e9-4d07-9908-3c37104a61e9",
+        "edited": {
+            "user": "U59EH5MC1",
+            "ts": "1534171559.000000"
+        },
+        "ts": "1534171535.000260"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "---------------------------------\nR-Ressources:\n\t• Journocode: <http:\/\/journocode.com\/>\n\t• .Rddj: <https:\/\/rddj.info\/>\n\n\t• R Einführung von visualisiert.: <http:\/\/archive.visualisiert.net\/article\/r-intro-installation\/index.html>\n\t• Intro R-Tutorial nFrechen: <https:\/\/github.com\/nFrechen\/R-Tutorial-Deutsch>\n\t• DataCamp: <https:\/\/www.datacamp.com\/>\n\t• Try R: <http:\/\/tryr.codeschool.com\/>\n\t• R for Data Science (Hadley Wickham) <http:\/\/r4ds.had.co.nz\/index.html>\n\nDatenvisualisierung:\n\n\t• Getting started w\/ data visualization in R w\/ ggplot2: <http:\/\/www.storybench.org\/getting-started-data-visualization-r-using-ggplot2\/>\n\t• Analyze and visualize with tidyverse: <http:\/\/journocode.com\/2017\/08\/16\/datajournalism-workflow-ddj-r-rstats-rstudio-dplyr-ggplot2-tidyr\/>\n\t• Timo: Communicating with data in the Tidyverse: <https:\/\/twitter.com\/grssnbchr\/status\/973966997640724481>\n\nNice examples\n\n\t• Small multiples for the German elections 2017(morgenpost): <https:\/\/interaktiv.morgenpost.de\/analyse-bundestagswahl-2017\/data\/btw17_analysis.html>\n\t• Swiss Maps: <https:\/\/github.com\/zumbov2\/RSwissMaps>\n\t• Exploring Heatmaps in R w\/ Divvy Bike-Share :bike: Data: <http:\/\/austinwehrwein.com\/data-visualization\/heatmaps-with-divvy-data\/>\n\t• Interactive mekko charts in R (Duc-Quang Nguyen): <https:\/\/dqn.website\/post\/interactive-mekko-charts-in-r\/>\n\nAcessing WebData and APIs (httr)\n\nDataCamp: <https:\/\/www.datacamp.com\/courses\/working-with-web-data-in-r>\n-------------------------------------",
+        "client_msg_id": "0f7834c8-f12b-4c5a-9a00-9acbf504388a",
+        "ts": "1534171701.000537"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "-----------------------------------\nMapping with QGIS\nMain Tutorial: <http:\/\/www.qgistutorials.com\/en\/>\n\nNice examples und How-Tos:\n\nMovement data:\n\t• Tutorial by Topi: <https:\/\/medium.com\/@tjukanov\/geogiffery-in-a-nutshell-introduction-to-qgis-time-manager-31bb79f2af19>\n\t\n\t• How to make a geogif: <http:\/\/www.statsmapsnpix.com\/2017\/12\/how-to-make-geogif.html>\n\t\n\t• Movement data in GIS: Edge bundling for flow maps: <https:\/\/anitagraser.com\/2017\/10\/08\/movement-data-in-gis-8-edge-bundling-for-flow-maps\/>\n\t• Animated routes with QGIS: <https:\/\/medium.com\/@tjukanov\/animated-routes-with-qgis-9377c1f16021>\n\t• Fadeout Effects! <https:\/\/anitagraser.com\/2015\/05\/08\/trajectory-animations-with-fadeout-effect\/>\n\n\n\nQGIS-Magic\n\t• Old raster maps to 3D <https:\/\/medium.com\/@tjukanov\/qgis-magic-old-raster-maps-to-3d-ddd0f550e0e8>\n\nBig Geospatial Data:\n\t• White paper opengeospatial: <http:\/\/docs.opengeospatial.org\/wp\/16-131r2\/16-131r2.html>\n\nQGIS-Planet\n\t• <http:\/\/planet.qgis.org\/planet\/tag\/style\/>\n\nQGIS 3\n\t• <https:\/\/north-road.com\/2017\/12\/24\/24-days-of-qgis-3-0-features\/>\n\t• Shortcuts: <http:\/\/labs.webgeodatavore.com\/partage\/qgis-shortcuts\/>\n\t• 3D-Ressourcen: Cities around the world with open CityGML datasets: <https:\/\/www.citygml.org\/3dcities\/>\n\t• 3D- Blogs: <https:\/\/www.lutraconsulting.co.uk\/blog\/2018\/03\/01\/working-with-qgis-3d-part-1\/>\n\t• Processing script template for QGIS3: <https:\/\/anitagraser.com\/2018\/03\/25\/processing-script-template-for-qgis3\/>\n----------------------------------------------------",
+        "client_msg_id": "08c2c25c-8153-49c8-af63-c7f273702bdc",
+        "ts": "1534171842.000259"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "by <@UBN6K2U3Z>: The best Python link I have is <https:\/\/www.python.org\/dev\/peps\/pep-0020\/> :man_in_lotus_position: And seriously, installing the interpreter or an IDE like Jupyter or PyCharm is the best way to get going. If you're planning to dig into data science, beginners tend to find Anaconda easiest to install Pandas, Numpy, Scikit-Learn, etc. on your local machine. But then again, these days you can even more easily use any language you want in the cloud.. There's a wealth of knowledge from the Swiss Python community available at <https:\/\/www.python-summit.ch\/pages\/recordings.html>",
+        "client_msg_id": "cc94c80c-6dd2-43ac-a897-4076c052c8ac",
+        "attachments": [
+            {
+                "service_name": "Python.org",
+                "title": "PEP 20 -- The Zen of Python",
+                "title_link": "https:\/\/www.python.org\/dev\/peps\/pep-0020\/",
+                "text": "The official home of the Python Programming Language",
+                "fallback": "Python.org: PEP 20 -- The Zen of Python",
+                "from_url": "https:\/\/www.python.org\/dev\/peps\/pep-0020\/",
+                "thumb_url": "https:\/\/www.python.org\/static\/opengraph-icon-200x200.png",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.python.org\/static\/apple-touch-icon-precomposed.png",
+                "id": 1,
+                "original_url": "https:\/\/www.python.org\/dev\/peps\/pep-0020\/"
+            },
+            {
+                "title": "Talk Recordings - Swiss Python Summit",
+                "title_link": "https:\/\/www.python-summit.ch\/pages\/recordings.html",
+                "text": "Python Summit Talk Recordings We record all the talks at our conference. You can find the recordings as well as the talk slides on this page! 2018 Slides that are not yet listed here will be added...",
+                "fallback": "Talk Recordings - Swiss Python Summit",
+                "from_url": "https:\/\/www.python-summit.ch\/pages\/recordings.html",
+                "service_name": "python-summit.ch",
+                "id": 2,
+                "original_url": "https:\/\/www.python-summit.ch\/pages\/recordings.html"
+            }
+        ],
+        "ts": "1534173418.000463"
+    },
+    {
+        "user": "UC0RUUHSQ",
+        "text": "<@UC0RUUHSQ> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534183908.000087"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "<@U59EH5MC1> Top Zusammenstellung, danke!",
+        "client_msg_id": "27be74f1-e18c-499a-8e2c-a5af8fa36c99",
+        "ts": "1534229828.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "was noch fehlt: d3.js für interaktive Visualisierungen: <https:\/\/d3js.org\/>",
+        "client_msg_id": "a0f3f8dd-38ec-433d-a6f9-bf88e61cea9a",
+        "attachments": [
+            {
+                "title": "D3.js - Data-Driven Documents",
+                "title_link": "https:\/\/d3js.org\/",
+                "text": "D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS.",
+                "fallback": "D3.js - Data-Driven Documents",
+                "image_url": "https:\/\/d3js.org\/preview.png",
+                "image_width": 475,
+                "image_height": 250,
+                "from_url": "https:\/\/d3js.org\/",
+                "image_bytes": 295696,
+                "service_name": "d3js.org",
+                "id": 1,
+                "original_url": "https:\/\/d3js.org\/"
+            }
+        ],
+        "ts": "1534229917.000100",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U59EH5MC1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

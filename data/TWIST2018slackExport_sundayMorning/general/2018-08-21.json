@@ -1,0 +1,80 @@
+[
+    {
+        "user": "UCBJL7GTB",
+        "text": "<@UCBJL7GTB> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1534835507.000200"
+    },
+    {
+        "type": "message",
+        "user": "UC2LP8THN",
+        "text": "oops, yeah, sorry",
+        "client_msg_id": "97e2917c-2642-4170-a6a6-ea153070b63e",
+        "ts": "1534835631.000100"
+    },
+    {
+        "type": "message",
+        "user": "UC2LP8THN",
+        "text": "Also, wanted to ask about provisions to stay overnight?",
+        "client_msg_id": "7929de4d-32ce-41c5-be3c-c859bbf05796",
+        "ts": "1534835646.000100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5BF13UK0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UC2LP8THN",
+        "text": "Anything specific available from the organisers?",
+        "client_msg_id": "92d9f543-011c-48c6-90ea-4fccedfe77c9",
+        "ts": "1534835659.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "no, we didn’t organize places in a “Jugendherberge” but we planned do facilitate possibilities between participants during the event.",
+        "client_msg_id": "d5407e02-7960-4043-a6df-ef377acd4939",
+        "ts": "1534837022.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "<@UC2LP8THN> can we assist you in any way?",
+        "client_msg_id": "60e75ce4-9571-4b74-9a52-aea128616e52",
+        "ts": "1534837036.000100"
+    },
+    {
+        "type": "message",
+        "user": "UC2LP8THN",
+        "text": "is there just a place in the UZH where I can sleep with my sleeping bag?",
+        "client_msg_id": "264d89e7-00e7-4a3a-8e0a-b7fcff9243eb",
+        "ts": "1534837188.000100"
+    },
+    {
+        "type": "message",
+        "user": "UC2LP8THN",
+        "text": "By facilitate possibilities, you mean I can look for people with homes near UZH?",
+        "client_msg_id": "9a08c86c-52b9-450b-a86c-de92fdce9863",
+        "thread_ts": "1534837210.000100",
+        "reply_count": 2,
+        "replies": [
+            {
+                "user": "UAELWCAES",
+                "ts": "1535035142.000100"
+            },
+            {
+                "user": "UC2LP8THN",
+                "ts": "1535060259.000100"
+            }
+        ],
+        "unread_count": 2,
+        "ts": "1534837210.000100"
+    }
+]

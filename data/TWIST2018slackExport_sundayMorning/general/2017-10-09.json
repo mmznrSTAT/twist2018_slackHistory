@@ -1,0 +1,112 @@
+[
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "seems a bit \"bei den Haaren herbei gezogen\" :wink:",
+        "ts": "1507553076.000056"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "but ED can stay for evidence-based decision...",
+        "ts": "1507553273.000119"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "TWIST (truth within statistics)\nthe Gut Feeling and Statistics Hackathon",
+        "ts": "1507553757.000331",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5QMS8L1Y"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": ":sweat_smile:",
+        "ts": "1507554428.000046"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "And in the jury we'll have the Professors **Dr. Feelgood** and **Dr. Strangelove**? ;D",
+        "ts": "1507554491.000057",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U5MQK0JM8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Interesting TED-Talk on «how to seek the truth in the era of fake news»... although they don't really talk about data. <https:\/\/www.ted.com\/talks\/christiane_amanpour_how_to_seek_truth_in_the_era_of_fake_news>",
+        "attachments": [
+            {
+                "service_name": "TED",
+                "service_url": "http:\/\/ted.com",
+                "title": "Christiane Amanpour: How to seek truth in the era of fake news",
+                "title_link": "https:\/\/www.ted.com\/talks\/christiane_amanpour_how_to_seek_truth_in_the_era_of_fake_news",
+                "author_name": "Christiane Amanpour",
+                "author_link": "https:\/\/www.ted.com\/speakers\/christiane_amanpour",
+                "thumb_url": "https:\/\/pe.tedcdn.com\/images\/ted\/95197b26d215ec55ba494b2e186358994479aaac_240x180.jpg?lang=en",
+                "thumb_width": 240,
+                "thumb_height": 180,
+                "text": "Known worldwide for her courage and clarity, Christiane Amanpour has spent the past three decades interviewing business, cultural and political leaders who have shaped history. In conversation with TED Curator Chris Anderson, Amanpour discusses fake news, objectivity in journalism, the leadership vacuum in global politics and more, sharing her wisdom along the way. \"Be careful where you get information from,\" she says. \"Unless we are all engaged as global citizens who appreciate the truth, who understand science, empirical evidence and facts, then we are going to be wandering around -- to a potential catastrophe.\"",
+                "fallback": "TED Video: Christiane Amanpour: How to seek truth in the era of fake news",
+                "from_url": "https:\/\/www.ted.com\/talks\/christiane_amanpour_how_to_seek_truth_in_the_era_of_fake_news",
+                "service_icon": "https:\/\/pa.tedcdn.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1507554622.000186"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Thx for the tedtalk, sounds interesting",
+        "ts": "1507554756.000493"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "And „how to communicate the truth in the era of fake news“ could be a nice subtitle for the hackathon",
+        "ts": "1507554820.000239",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59EH5MC1",
+                    "UBKQ380DS"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "and Wikidata is one of the key factors in this :wink:",
+        "ts": "1507555777.000334",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U94B2N1PV",
+                    "UBKQ380DS"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

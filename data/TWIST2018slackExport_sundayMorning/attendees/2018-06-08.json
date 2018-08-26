@@ -1,0 +1,22 @@
+[
+    {
+        "user": "U59EH5MC1",
+        "inviter": "U5BF13UK0",
+        "text": "<@U59EH5MC1> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1528464705.000300"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Cool, thx! Was ist hier der aktuelle Stand?",
+        "ts": "1528464882.000636"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "40",
+        "ts": "1528465007.000353"
+    }
+]

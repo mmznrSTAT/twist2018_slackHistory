@@ -1,0 +1,25 @@
+[
+    {
+        "user": "UC6DGCNUD",
+        "text": "<@UC6DGCNUD> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1533891194.000254"
+    },
+    {
+        "type": "message",
+        "user": "U59EH5MC1",
+        "text": "Welcome <@UC79TQ222>, <@UC72J7LNT>, <@UC7BYS0GN> and <@UC6DGCNUD>!",
+        "client_msg_id": "a6aacf93-4e56-4076-a092-5c15c638cf9f",
+        "ts": "1533892093.000184",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U5BF13UK0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

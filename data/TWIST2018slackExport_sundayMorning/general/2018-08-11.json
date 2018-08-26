@@ -1,0 +1,25 @@
+[
+    {
+        "type": "message",
+        "user": "UC72J7LNT",
+        "text": "Hi Marco, I'm looking forward to Twist18",
+        "client_msg_id": "4006330d-cb20-4acb-aee9-042fe6614fcc",
+        "ts": "1533987266.000010",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U5BF13UK0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "U59EH5MC1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,236 @@
+[
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "soon, the next blogpost will be published under <http:\/\/www.twist2018.ch|www.twist2018.ch>",
+        "client_msg_id": "4fb11029-ab06-4a31-a14f-9824b6857428",
+        "ts": "1533023240.000141"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "do you want a preview glimpse?",
+        "client_msg_id": "7f100376-1778-40d7-8de8-1df3a85b61b8",
+        "ts": "1533023260.000073"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "here you go:",
+        "client_msg_id": "28a523d2-f3e0-4a28-a2b4-a960cb64f7be",
+        "ts": "1533023264.000048"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/document\/d\/1G6zWQnfAO21JVGwFqZJyQx01-540kEjqrUS6JeN7ahM\/edit?usp=sharing>",
+        "files": [
+            {
+                "id": "FBZ9K061X",
+                "created": 1533023208,
+                "timestamp": 1533023208,
+                "name": "Hektardaten",
+                "title": "Hektardaten",
+                "mimetype": "application\/vnd.google-apps.document",
+                "filetype": "gdoc",
+                "pretty_type": "GDocs Document",
+                "user": "U5BF13UK0",
+                "editable": false,
+                "size": 3762,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/document\/d\/1G6zWQnfAO21JVGwFqZJyQx01-540kEjqrUS6JeN7ahM\/edit?usp=sharing",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FBZ9K061X-88a68a7999\/hektardaten_64.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FBZ9K061X-88a68a7999\/hektardaten_80.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FBZ9K061X-88a68a7999\/hektardaten_360.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360_w": 255,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FBZ9K061X-88a68a7999\/hektardaten_480.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_480_w": 340,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FBZ9K061X-88a68a7999\/hektardaten_160.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FBZ9K061X-88a68a7999\/hektardaten_720.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FBZ9K061X-88a68a7999\/hektardaten_800.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1131,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FBZ9K061X-88a68a7999\/hektardaten_960.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_960_w": 679,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FBZ9K061X-88a68a7999\/hektardaten_1024.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 800,
+                "original_h": 1131,
+                "permalink": "https:\/\/twist2018.slack.com\/files\/U5BF13UK0\/FBZ9K061X\/hektardaten",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "user": "U5BF13UK0",
+        "display_as_bot": false,
+        "x_files": [
+            "FBZ9K061X"
+        ],
+        "client_msg_id": "655500c9-5e7d-4b2f-8270-07a250a6a58d",
+        "ts": "1533023264.000212"
+    },
+    {
+        "type": "message",
+        "user": "U5QMS8L1Y",
+        "text": "talking about _truth within statistics_ (TWIST):\nhave a \"look\" :ear::skin-tone-4: at this podcast how data science can detect fake news --&gt; <https:\/\/www.datacamp.com\/community\/podcast\/data-science-fake-news>",
+        "client_msg_id": "7250f7e6-da76-4158-a494-78b889c921b5",
+        "attachments": [
+            {
+                "service_name": "DataCamp Community",
+                "title": "Fake News Detection with Data Science",
+                "title_link": "https:\/\/www.datacamp.com\/community\/podcast\/data-science-fake-news",
+                "text": "How can data science and deep learning be leveraged to detect fake news? Come on a journey with Mike Tamir, Head of Data Science at Uber ATG.",
+                "fallback": "DataCamp Community: Fake News Detection with Data Science",
+                "thumb_url": "http:\/\/datacamp-community.s3.amazonaws.com\/f8af372c-0db9-4289-a576-dfc386cf65cd",
+                "ts": 1520816400,
+                "from_url": "https:\/\/www.datacamp.com\/community\/podcast\/data-science-fake-news",
+                "thumb_width": 404,
+                "thumb_height": 475,
+                "service_icon": "https:\/\/cdn.datacamp.com\/main-app\/assets\/favicon-335cd0394b32102a39221d79e5fd7e51078e6d32a0c8aea59676a6869f84e9d8.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.datacamp.com\/community\/podcast\/data-science-fake-news"
+            }
+        ],
+        "thread_ts": "1533023869.000283",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U5BF13UK0",
+                "ts": "1533038665.000023"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1533023869.000283"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Aaaand: the stickers are here:",
+        "client_msg_id": "7546BCF8-A37C-4A74-B165-AD0BF88ECA74",
+        "ts": "1533024256.000102"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FC00U52H3",
+                "created": 1533024296,
+                "timestamp": 1533024296,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U5BF13UK0",
+                "editable": false,
+                "size": 7259107,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FC00U52H3\/image_from_ios.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FC00U52H3\/download\/image_from_ios.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC00U52H3-cbed8e83e5\/image_from_ios_64.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC00U52H3-cbed8e83e5\/image_from_ios_80.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC00U52H3-cbed8e83e5\/image_from_ios_360.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC00U52H3-cbed8e83e5\/image_from_ios_480.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC00U52H3-cbed8e83e5\/image_from_ios_160.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC00U52H3-cbed8e83e5\/image_from_ios_720.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC00U52H3-cbed8e83e5\/image_from_ios_800.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC00U52H3-cbed8e83e5\/image_from_ios_960.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC00U52H3-cbed8e83e5\/image_from_ios_1024.jpg?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 3024,
+                "original_h": 4032,
+                "permalink": "https:\/\/twist2018.slack.com\/files\/U5BF13UK0\/FC00U52H3\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FC00U52H3-7e5a0a7b92"
+            }
+        ],
+        "upload": true,
+        "user": "U5BF13UK0",
+        "display_as_bot": false,
+        "upload_reply_to": "1DFB7753-FE53-439B-BCF9-16183FA2BEC2",
+        "ts": "1533024304.000193"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "Very nice Podcast, thx muriel",
+        "client_msg_id": "ddcbd9a4-9cc7-454a-9c51-e002d4c0babf",
+        "thread_ts": "1533023869.000283",
+        "parent_user_id": "U5QMS8L1Y",
+        "ts": "1533038665.000023"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "and another great talk: \n<https:\/\/www.youtube.com\/watch?v=vqzO-9LSoG4&amp;feature=youtu.be>",
+        "client_msg_id": "36cea27d-82d3-4728-8f54-76fff5793655",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "MATTHEW KAY - OpenVis Conf 2018",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=vqzO-9LSoG4&amp;feature=youtu.be",
+                "author_name": "OpenVis Conference",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCAsISx0PmXG_hmZk4Emhz-g",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/vqzO-9LSoG4\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: MATTHEW KAY - OpenVis Conf 2018",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/vqzO-9LSoG4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=vqzO-9LSoG4&amp;feature=youtu.be",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=vqzO-9LSoG4&amp;feature=youtu.be"
+            }
+        ],
+        "ts": "1533038742.000274",
+        "reactions": [
+            {
+                "name": "star-struck",
+                "users": [
+                    "UCCAC4ZLG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "tidy data and bayesian analysis make uncertainty visualization fun",
+        "client_msg_id": "696450b1-7cc7-4131-a716-6af8d7a08743",
+        "ts": "1533038829.000200"
+    }
+]

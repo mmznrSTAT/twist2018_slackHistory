@@ -1,0 +1,160 @@
+[
+    {
+        "user": "UBN6K2U3Z",
+        "text": "<@UBN6K2U3Z> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1531402286.000468"
+    },
+    {
+        "user": "UAELWCAES",
+        "inviter": "UBN6K2U3Z",
+        "text": "<@UAELWCAES> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1531402287.000056"
+    },
+    {
+        "user": "U5BF13UK0",
+        "inviter": "UBN6K2U3Z",
+        "text": "<@U5BF13UK0> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1531402287.000183"
+    },
+    {
+        "user": "UBN6K2U3Z",
+        "purpose": "Talk about how to track progress and publish the results of the hackdays.",
+        "text": "<@UBN6K2U3Z> set the channel purpose: Talk about how to track progress and publish the results of the hackdays.",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1531402287.000198"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "Hello both, as per our chats, I've deployed Dribdat to <https:\/\/dribdat-twist.herokuapp.com\/>",
+        "client_msg_id": "5ad422a8-2738-4c40-a1d9-f970a137cfd2",
+        "attachments": [
+            {
+                "title": "Truth WIthin STatistics Hackdays",
+                "title_link": "https:\/\/dribdat-twist.herokuapp.com\/",
+                "text": "As part of the 2018 Swiss Statistics Meeting, hackdays will be held for the first time. Developers, statisticans, designers,...",
+                "fallback": "Truth WIthin STatistics Hackdays",
+                "image_url": "https:\/\/www.twist2018.ch\/images\/TWIST.png",
+                "from_url": "https:\/\/dribdat-twist.herokuapp.com\/",
+                "image_width": 219,
+                "image_height": 250,
+                "image_bytes": 21655,
+                "service_name": "dribdat-twist.herokuapp.com",
+                "id": 1,
+                "original_url": "https:\/\/dribdat-twist.herokuapp.com\/"
+            }
+        ],
+        "ts": "1531402298.000277"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "Once you Register, let me know, and I'll make you admins.",
+        "client_msg_id": "dec06cc7-fc9e-49be-b220-d1c4636f6482",
+        "ts": "1531402309.000059"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "great Oleg! :muscle:",
+        "client_msg_id": "300051ac-4a5c-457b-93d0-ff9a976da20c",
+        "ts": "1531402486.000133"
+    },
+    {
+        "type": "message",
+        "user": "U5BF13UK0",
+        "text": "thx a lot",
+        "client_msg_id": "6c3af894-df97-497f-9eec-172f8a3f94e8",
+        "ts": "1531402502.000048",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UBN6K2U3Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U59EH5MC1",
+        "inviter": "U5BF13UK0",
+        "text": "<@U59EH5MC1> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1531402521.000399"
+    },
+    {
+        "user": "U9KPPBZ51",
+        "inviter": "U5BF13UK0",
+        "text": "<@U9KPPBZ51> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1531402531.000473"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "here you can see how dribdat looks with some CSS customization <https:\/\/github.com\/loleg\/dribdat\/blob\/master\/ABOUT.md>",
+        "client_msg_id": "6edc1c7e-744b-44a9-81e8-4750de0dfd46",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "loleg\/dribdat",
+                "title_link": "https:\/\/github.com\/loleg\/dribdat\/blob\/master\/ABOUT.md",
+                "text": "dribdat - Open source hackathon platform",
+                "fallback": "GitHub: loleg\/dribdat",
+                "from_url": "https:\/\/github.com\/loleg\/dribdat\/blob\/master\/ABOUT.md",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/31819?s=400&v=4",
+                "thumb_width": 236,
+                "thumb_height": 236,
+                "service_icon": "https:\/\/cfr.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/loleg\/dribdat\/blob\/master\/ABOUT.md"
+            }
+        ],
+        "ts": "1531402791.000267"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "and you probably want to run it under a subdomain like <http:\/\/hack.twist2018.ch|hack.twist2018.ch> - to do that, just point your CNAME to <http:\/\/hack.twist2018.ch.herokudns.com|hack.twist2018.ch.herokudns.com>",
+        "client_msg_id": "534f2a18-81ba-49e8-8763-cfb1bf94588a",
+        "ts": "1531402988.000306"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "(or whatever name you prefer)",
+        "client_msg_id": "3fbebecc-7810-4f63-8b48-b8290d14a2cf",
+        "ts": "1531403014.000463"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "just let me know once you have set it up so I make the changes in the config",
+        "client_msg_id": "c7c32169-bac8-4169-a2bc-c59485ff8500",
+        "ts": "1531403025.000585"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "and if you want access to Heroku to make changes yourself, the project is part of an <http:\/\/opendata.ch|opendata.ch> team where we manage various apps and I'm happy to add you in",
+        "client_msg_id": "bc825dc2-ca2f-489b-8849-fb3ca6576f2a",
+        "ts": "1531403043.000491"
+    },
+    {
+        "user": "UBP3398RE",
+        "text": "<@UBP3398RE> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1531432341.000104"
+    }
+]

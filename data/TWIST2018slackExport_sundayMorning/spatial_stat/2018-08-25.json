@@ -1,0 +1,363 @@
+[
+    {
+        "user": "UBHA98S6B",
+        "text": "<@UBHA98S6B> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535186291.000200"
+    },
+    {
+        "user": "UC874LSM9",
+        "inviter": "UBHA98S6B",
+        "text": "<@UC874LSM9> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535186292.000200"
+    },
+    {
+        "user": "UCAGR0VLM",
+        "inviter": "UBHA98S6B",
+        "text": "<@UCAGR0VLM> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535186292.000400"
+    },
+    {
+        "user": "UC3S7AQQK",
+        "inviter": "UBHA98S6B",
+        "text": "<@UC3S7AQQK> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535186292.000600"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/presentation\/d\/1EH_1N0I7C06P_Qo6EN7W53jKbaiWjq47VKJCjElfpkY\/edit?usp=sharing>",
+        "files": [
+            {
+                "id": "FC7DUUV28",
+                "created": 1534177694,
+                "timestamp": 1534177694,
+                "name": "TWIST2018 - intro presentations ",
+                "title": "TWIST2018 - intro presentations",
+                "mimetype": "application\/vnd.google-apps.presentation",
+                "filetype": "gpres",
+                "pretty_type": "GDocs Presentation",
+                "user": "UAELWCAES",
+                "editable": false,
+                "size": 2244,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/presentation\/d\/1EH_1N0I7C06P_Qo6EN7W53jKbaiWjq47VKJCjElfpkY\/edit#slide=id.g3f9ec6369f_0_12",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC7DUUV28-c2806284e8\/twist2018_-_intro_presentations__64.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC7DUUV28-c2806284e8\/twist2018_-_intro_presentations__80.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC7DUUV28-c2806284e8\/twist2018_-_intro_presentations__360.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC7DUUV28-c2806284e8\/twist2018_-_intro_presentations__480.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC7DUUV28-c2806284e8\/twist2018_-_intro_presentations__160.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC7DUUV28-c2806284e8\/twist2018_-_intro_presentations__720.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FC7DUUV28-c2806284e8\/twist2018_-_intro_presentations__800.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "image_exif_rotation": 1,
+                "original_w": 800,
+                "original_h": 450,
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UAELWCAES\/FC7DUUV28\/twist2018_-_intro_presentations_",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "user": "UBHA98S6B",
+        "display_as_bot": false,
+        "x_files": [
+            "FC7DUUV28"
+        ],
+        "client_msg_id": "c1a413b4-c4f6-421d-a937-b053334e81e4",
+        "ts": "1535186309.000200"
+    },
+    {
+        "user": "UC2LP8THN",
+        "text": "<@UC2LP8THN> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535186466.000200"
+    },
+    {
+        "user": "UBN6K2U3Z",
+        "text": "<@UBN6K2U3Z> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535189752.000200"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "Just one thing, I notice the challenge description has parallels to an earlier hackathon project.. <https:\/\/www.stadt-zuerich.ch\/portal\/de\/index\/ogd\/anwendungen\/2014\/zueri-fuer-das-leben.html>",
+        "client_msg_id": "2404cbeb-fcc2-49b0-8f7e-bb296ced1514",
+        "attachments": [
+            {
+                "title": "Züri für das Leben - Stadt Zürich",
+                "title_link": "https:\/\/www.stadt-zuerich.ch\/portal\/de\/index\/ogd\/anwendungen\/2014\/zueri-fuer-das-leben.html",
+                "text": "Konzept einer Applikation für die ältere Generation mit Kalender, Lärmbelastung, Budgetrechner und vieles mehr",
+                "fallback": "Züri für das Leben - Stadt Zürich",
+                "image_url": "https:\/\/www.stadt-zuerich.ch\/content\/dam\/stzh\/portal\/Deutsch\/OGD\/Bilder\/anwendungen\/zueri_fuer_das_leben.jpg",
+                "from_url": "https:\/\/www.stadt-zuerich.ch\/portal\/de\/index\/ogd\/anwendungen\/2014\/zueri-fuer-das-leben.html",
+                "image_width": 335,
+                "image_height": 250,
+                "image_bytes": 495722,
+                "service_icon": "https:\/\/www.stadt-zuerich.ch\/etc\/designs\/stzh\/extensions\/favicon.ico",
+                "service_name": "stadt-zuerich.ch",
+                "id": 1,
+                "original_url": "https:\/\/www.stadt-zuerich.ch\/portal\/de\/index\/ogd\/anwendungen\/2014\/zueri-fuer-das-leben.html"
+            }
+        ],
+        "ts": "1535190661.000100"
+    },
+    {
+        "type": "message",
+        "user": "UBN6K2U3Z",
+        "text": "Maybe there's something to learn from the past? Maybe not.",
+        "client_msg_id": "5acfbef4-dcd4-4e74-ba74-0bb5ac90f44e",
+        "ts": "1535190669.000100"
+    },
+    {
+        "type": "message",
+        "user": "UC874LSM9",
+        "text": "a well-known example about diversity:\n<https:\/\/www.washingtonpost.com\/graphics\/2018\/national\/segregation-us-cities\/?noredirect=on&amp;utm_term=.f9e96563e3ba>",
+        "client_msg_id": "f074b871-df04-4b66-9cfd-f54e85f6b278",
+        "attachments": [
+            {
+                "service_name": "Washington Post",
+                "title": "Analysis | America is more diverse than ever — but still segregated",
+                "title_link": "https:\/\/www.washingtonpost.com\/graphics\/2018\/national\/segregation-us-cities\/?noredirect=on&utm_term=.f9e96563e3ba",
+                "text": "The United States is on track to be a majority-minority nation by 2044. But census data show most of our neighbors are the same race.",
+                "fallback": "Washington Post: Analysis | America is more diverse than ever — but still segregated",
+                "image_url": "https:\/\/www.washingtonpost.com\/graphics\/2018\/national\/segregation-us-cities\/img\/segregation-us-cities-promo-2300.jpg",
+                "from_url": "https:\/\/www.washingtonpost.com\/graphics\/2018\/national\/segregation-us-cities\/?noredirect=on&utm_term=.f9e96563e3ba",
+                "image_width": 389,
+                "image_height": 250,
+                "image_bytes": 935178,
+                "service_icon": "https:\/\/www.washingtonpost.com\/wp-srv\/graphics\/templates\/mobile\/ico\/apple-touch-icon-144-precomposed.png",
+                "id": 1,
+                "original_url": "https:\/\/www.washingtonpost.com\/graphics\/2018\/national\/segregation-us-cities\/?noredirect=on&amp;utm_term=.f9e96563e3ba"
+            }
+        ],
+        "edited": {
+            "user": "UC874LSM9",
+            "ts": "1535195442.000000"
+        },
+        "ts": "1535191722.000100"
+    },
+    {
+        "type": "message",
+        "text": "this is to do list for everyone to fill in <https:\/\/docs.google.com\/spreadsheets\/d\/13tGkzkntXymyfSFkiofk3nTRdPnudLwOTJwwETQlyYA\/edit?usp=sharing>",
+        "files": [
+            {
+                "id": "FCG6Y386B",
+                "created": 1535194094,
+                "timestamp": 1535194094,
+                "name": "spatial_stat to do list",
+                "title": "spatial_stat to do list",
+                "mimetype": "application\/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "GDocs Spreadsheet",
+                "user": "UBHA98S6B",
+                "editable": false,
+                "size": 1246,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/spreadsheets\/d\/13tGkzkntXymyfSFkiofk3nTRdPnudLwOTJwwETQlyYA\/edit?usp=sharing",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG6Y386B-cb4b793482\/spatial_stat_to_do_list_64.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG6Y386B-cb4b793482\/spatial_stat_to_do_list_80.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG6Y386B-cb4b793482\/spatial_stat_to_do_list_360.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360_w": 278,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG6Y386B-cb4b793482\/spatial_stat_to_do_list_480.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_480_w": 371,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG6Y386B-cb4b793482\/spatial_stat_to_do_list_160.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCG6Y386B-cb4b793482\/spatial_stat_to_do_list_720.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720_w": 556,
+                "thumb_720_h": 720,
+                "image_exif_rotation": 1,
+                "original_w": 612,
+                "original_h": 792,
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UBHA98S6B\/FCG6Y386B\/spatial_stat_to_do_list",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "user": "UBHA98S6B",
+        "display_as_bot": false,
+        "x_files": [
+            "FCG6Y386B"
+        ],
+        "client_msg_id": "cfb05f6d-afbc-48c8-b8cc-d64140675c56",
+        "ts": "1535194093.000100"
+    },
+    {
+        "user": "U5Q5EMNGY",
+        "text": "<@U5Q5EMNGY> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535194203.000200"
+    },
+    {
+        "type": "message",
+        "user": "UC3S7AQQK",
+        "text": "<mailto:alexandra.studer@d1-solutions.com|alexandra.studer@d1-solutions.com>",
+        "client_msg_id": "f6796979-a366-49b8-8b74-b207f77da43d",
+        "ts": "1535194640.000100"
+    },
+    {
+        "type": "message",
+        "user": "UCAGR0VLM",
+        "text": "<mailto:oli@ozum.ch|oli@ozum.ch>",
+        "client_msg_id": "6951431c-bbf5-40f3-b2cd-a84f238f00bb",
+        "ts": "1535194652.000100"
+    },
+    {
+        "type": "message",
+        "user": "U5Q5EMNGY",
+        "text": "<mailto:dorothea.hug@gmail.com|dorothea.hug@gmail.com>",
+        "client_msg_id": "b4900448-ba2d-4282-9c33-105e49d725e3",
+        "ts": "1535194652.000200"
+    },
+    {
+        "type": "message",
+        "user": "UC874LSM9",
+        "text": "<mailto:francois.delavy@gmail.com|francois.delavy@gmail.com>",
+        "client_msg_id": "68bb299c-7421-40b8-bd1e-88d8b8936d55",
+        "ts": "1535194662.000100"
+    },
+    {
+        "user": "U5QMS8L1Y",
+        "text": "<@U5QMS8L1Y> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535195091.000200"
+    },
+    {
+        "type": "message",
+        "user": "UC874LSM9",
+        "text": "the list of features in open street map:\n<https:\/\/wiki.openstreetmap.org\/wiki\/Map_Features>",
+        "client_msg_id": "cf843f3b-466e-4bfe-9a5a-274559937358",
+        "ts": "1535196523.000100"
+    },
+    {
+        "type": "message",
+        "user": "UC874LSM9",
+        "text": "e.g. amenity\/kindergarten is an option",
+        "client_msg_id": "695887b3-ca18-46e5-a3b6-a162a578d5a7",
+        "ts": "1535196574.000100"
+    },
+    {
+        "user": "U59EH5MC1",
+        "text": "<@U59EH5MC1> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1535198615.000200"
+    },
+    {
+        "type": "message",
+        "user": "UC874LSM9",
+        "text": "<https:\/\/www.mapnificent.net\/>",
+        "client_msg_id": "a5349d49-c8fc-4aa8-a5c6-09d661ccc9a2",
+        "attachments": [
+            {
+                "title": "Mapnificent – Dynamic Public Transport Travel Time Maps",
+                "title_link": "https:\/\/www.mapnificent.net\/",
+                "text": "Mapnificent shows you areas you can reach with public transport in many cities all over the world.",
+                "fallback": "Mapnificent – Dynamic Public Transport Travel Time Maps",
+                "from_url": "https:\/\/www.mapnificent.net\/",
+                "service_icon": "https:\/\/www.mapnificent.net\/static\/img\/favicon.png",
+                "service_name": "mapnificent.net",
+                "id": 1,
+                "original_url": "https:\/\/www.mapnificent.net\/"
+            }
+        ],
+        "ts": "1535203001.000100"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FCEF4RH3J",
+                "created": 1535205279,
+                "timestamp": 1535205279,
+                "name": "Capture.PNG",
+                "title": "Capture.PNG",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UBHA98S6B",
+                "editable": false,
+                "size": 569603,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCEF4RH3J\/capture.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5A4K2R6H-FCEF4RH3J\/download\/capture.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCEF4RH3J-8366ee2634\/capture_64.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCEF4RH3J-8366ee2634\/capture_80.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCEF4RH3J-8366ee2634\/capture_360.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_360_w": 360,
+                "thumb_360_h": 189,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCEF4RH3J-8366ee2634\/capture_480.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_480_w": 480,
+                "thumb_480_h": 252,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCEF4RH3J-8366ee2634\/capture_160.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCEF4RH3J-8366ee2634\/capture_720.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_720_w": 720,
+                "thumb_720_h": 378,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCEF4RH3J-8366ee2634\/capture_800.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_800_w": 800,
+                "thumb_800_h": 420,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCEF4RH3J-8366ee2634\/capture_960.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_960_w": 960,
+                "thumb_960_h": 504,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T5A4K2R6H-FCEF4RH3J-8366ee2634\/capture_1024.png?t=xoxe-180155093221-424729802822-422821657633-3a714789f79eedaca942499d91b8f0a8",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 537,
+                "image_exif_rotation": 1,
+                "original_w": 1795,
+                "original_h": 942,
+                "permalink": "https:\/\/twist2018.slack.com\/files\/UBHA98S6B\/FCEF4RH3J\/capture.png",
+                "permalink_public": "https:\/\/slack-files.com\/T5A4K2R6H-FCEF4RH3J-8637e8eb23"
+            }
+        ],
+        "upload": true,
+        "user": "UBHA98S6B",
+        "display_as_bot": false,
+        "ts": "1535205283.000100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UC874LSM9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]
